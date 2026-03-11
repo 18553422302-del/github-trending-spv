@@ -1,0 +1,35 @@
+{
+    "date": "2026-03-11",
+    "top_5_trending": [
+        {
+            "repo": "/msitarzewski/agency-agents",
+            "description": "暂无描述",
+            "stars_today": "6,223 stars today",
+            "url": "https://github.com/msitarzewski/agency-agents"
+        },
+        {
+            "repo": "/666ghj/MiroFish",
+            "description": "暂无描述",
+            "stars_today": "4,504 stars today",
+            "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+            "repo": "/NousResearch/hermes-agent",
+            "description": "暂无描述",
+            "stars_today": "781 stars today",
+            "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+            "repo": "/promptfoo/promptfoo",
+            "description": "暂无描述",
+            "stars_today": "661 stars today",
+            "url": "https://github.com/promptfoo/promptfoo"
+        },
+        {
+            "repo": "/GoogleCloudPlatform/generative-ai",
+            "description": "暂无描述",
+            "stars_today": "530 stars today",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai"
+        }
+    ]
+}
