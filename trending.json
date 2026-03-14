@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "top_5_trending": [
         {
             "repo": "/microsoft/BitNet",
             "description": "暂无描述",
-            "stars_today": "2,149 stars today",
+            "stars_today": "2,227 stars today",
             "url": "https://github.com/microsoft/BitNet"
-        },
-        {
-            "repo": "/fishaudio/fish-speech",
-            "description": "暂无描述",
-            "stars_today": "637 stars today",
-            "url": "https://github.com/fishaudio/fish-speech"
         },
         {
             "repo": "/langflow-ai/openrag",
             "description": "暂无描述",
-            "stars_today": "322 stars today",
+            "stars_today": "905 stars today",
             "url": "https://github.com/langflow-ai/openrag"
         },
         {
-            "repo": "/InsForge/InsForge",
+            "repo": "/lightpanda-io/browser",
             "description": "暂无描述",
-            "stars_today": "263 stars today",
-            "url": "https://github.com/InsForge/InsForge"
+            "stars_today": "2,093 stars today",
+            "url": "https://github.com/lightpanda-io/browser"
         },
         {
-            "repo": "/vectorize-io/hindsight",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "217 stars today",
-            "url": "https://github.com/vectorize-io/hindsight"
+            "stars_today": "2,106 stars today",
+            "url": "https://github.com/obra/superpowers"
+        },
+        {
+            "repo": "/public-apis/public-apis",
+            "description": "暂无描述",
+            "stars_today": "892 stars today",
+            "url": "https://github.com/public-apis/public-apis"
         }
     ]
 }
