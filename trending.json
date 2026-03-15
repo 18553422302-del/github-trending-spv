@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "top_5_trending": [
         {
-            "repo": "/microsoft/BitNet",
+            "repo": "/volcengine/OpenViking",
             "description": "暂无描述",
-            "stars_today": "2,227 stars today",
-            "url": "https://github.com/microsoft/BitNet"
+            "stars_today": "1,610 stars today",
+            "url": "https://github.com/volcengine/OpenViking"
+        },
+        {
+            "repo": "/anthropics/claude-plugins-official",
+            "description": "暂无描述",
+            "stars_today": "411 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-official"
+        },
+        {
+            "repo": "/dimensionalOS/dimos",
+            "description": "暂无描述",
+            "stars_today": "72 stars today",
+            "url": "https://github.com/dimensionalOS/dimos"
+        },
+        {
+            "repo": "/p-e-w/heretic",
+            "description": "暂无描述",
+            "stars_today": "694 stars today",
+            "url": "https://github.com/p-e-w/heretic"
         },
         {
             "repo": "/langflow-ai/openrag",
             "description": "暂无描述",
-            "stars_today": "905 stars today",
+            "stars_today": "564 stars today",
             "url": "https://github.com/langflow-ai/openrag"
-        },
-        {
-            "repo": "/lightpanda-io/browser",
-            "description": "暂无描述",
-            "stars_today": "2,093 stars today",
-            "url": "https://github.com/lightpanda-io/browser"
-        },
-        {
-            "repo": "/obra/superpowers",
-            "description": "暂无描述",
-            "stars_today": "2,106 stars today",
-            "url": "https://github.com/obra/superpowers"
-        },
-        {
-            "repo": "/public-apis/public-apis",
-            "description": "暂无描述",
-            "stars_today": "892 stars today",
-            "url": "https://github.com/public-apis/public-apis"
         }
     ]
 }
