@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-16",
+    "date": "2026-03-17",
     "top_5_trending": [
         {
-            "repo": "/lightpanda-io/browser",
+            "repo": "/666ghj/MiroFish",
             "description": "暂无描述",
-            "stars_today": "1,335 stars today",
-            "url": "https://github.com/lightpanda-io/browser"
+            "stars_today": "3,260 stars today",
+            "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+            "repo": "/thedotmack/claude-mem",
+            "description": "暂无描述",
+            "stars_today": "1,045 stars today",
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "repo": "/Crosstalk-Solutions/project-nomad",
             "description": "暂无描述",
-            "stars_today": "205 stars today",
+            "stars_today": "775 stars today",
             "url": "https://github.com/Crosstalk-Solutions/project-nomad"
         },
         {
-            "repo": "/volcengine/OpenViking",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,870 stars today",
-            "url": "https://github.com/volcengine/OpenViking"
+            "stars_today": "3,152 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/shareAI-lab/learn-claude-code",
+            "repo": "/abhigyanpatwari/GitNexus",
             "description": "暂无描述",
-            "stars_today": "872 stars today",
-            "url": "https://github.com/shareAI-lab/learn-claude-code"
-        },
-        {
-            "repo": "/shanraisshan/claude-code-best-practice",
-            "description": "暂无描述",
-            "stars_today": "851 stars today",
-            "url": "https://github.com/shanraisshan/claude-code-best-practice"
+            "stars_today": "1,860 stars today",
+            "url": "https://github.com/abhigyanpatwari/GitNexus"
         }
     ]
 }
