@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "top_5_trending": [
-        {
-            "repo": "/666ghj/MiroFish",
-            "description": "暂无描述",
-            "stars_today": "3,260 stars today",
-            "url": "https://github.com/666ghj/MiroFish"
-        },
-        {
-            "repo": "/thedotmack/claude-mem",
-            "description": "暂无描述",
-            "stars_today": "1,045 stars today",
-            "url": "https://github.com/thedotmack/claude-mem"
-        },
-        {
-            "repo": "/Crosstalk-Solutions/project-nomad",
-            "description": "暂无描述",
-            "stars_today": "775 stars today",
-            "url": "https://github.com/Crosstalk-Solutions/project-nomad"
-        },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "3,152 stars today",
+            "stars_today": "3,078 stars today",
             "url": "https://github.com/obra/superpowers"
+        },
+        {
+            "repo": "/codecrafters-io/build-your-own-x",
+            "description": "暂无描述",
+            "stars_today": "1,998 stars today",
+            "url": "https://github.com/codecrafters-io/build-your-own-x"
         },
         {
             "repo": "/abhigyanpatwari/GitNexus",
             "description": "暂无描述",
-            "stars_today": "1,860 stars today",
+            "stars_today": "1,116 stars today",
             "url": "https://github.com/abhigyanpatwari/GitNexus"
+        },
+        {
+            "repo": "/langchain-ai/deepagents",
+            "description": "暂无描述",
+            "stars_today": "1,415 stars today",
+            "url": "https://github.com/langchain-ai/deepagents"
+        },
+        {
+            "repo": "/jarrodwatts/claude-hud",
+            "description": "暂无描述",
+            "stars_today": "466 stars today",
+            "url": "https://github.com/jarrodwatts/claude-hud"
         }
     ]
 }
