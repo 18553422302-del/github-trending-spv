@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-18",
+    "date": "2026-03-19",
     "top_5_trending": [
-        {
-            "repo": "/obra/superpowers",
-            "description": "暂无描述",
-            "stars_today": "3,078 stars today",
-            "url": "https://github.com/obra/superpowers"
-        },
-        {
-            "repo": "/codecrafters-io/build-your-own-x",
-            "description": "暂无描述",
-            "stars_today": "1,998 stars today",
-            "url": "https://github.com/codecrafters-io/build-your-own-x"
-        },
-        {
-            "repo": "/abhigyanpatwari/GitNexus",
-            "description": "暂无描述",
-            "stars_today": "1,116 stars today",
-            "url": "https://github.com/abhigyanpatwari/GitNexus"
-        },
-        {
-            "repo": "/langchain-ai/deepagents",
-            "description": "暂无描述",
-            "stars_today": "1,415 stars today",
-            "url": "https://github.com/langchain-ai/deepagents"
-        },
         {
             "repo": "/jarrodwatts/claude-hud",
             "description": "暂无描述",
-            "stars_today": "466 stars today",
+            "stars_today": "1,038 stars today",
             "url": "https://github.com/jarrodwatts/claude-hud"
+        },
+        {
+            "repo": "/obra/superpowers",
+            "description": "暂无描述",
+            "stars_today": "4,089 stars today",
+            "url": "https://github.com/obra/superpowers"
+        },
+        {
+            "repo": "/unslothai/unsloth",
+            "description": "暂无描述",
+            "stars_today": "1,005 stars today",
+            "url": "https://github.com/unslothai/unsloth"
+        },
+        {
+            "repo": "/newton-physics/newton",
+            "description": "暂无描述",
+            "stars_today": "26 stars today",
+            "url": "https://github.com/newton-physics/newton"
+        },
+        {
+            "repo": "/shadps4-emu/shadPS4",
+            "description": "暂无描述",
+            "stars_today": "237 stars today",
+            "url": "https://github.com/shadps4-emu/shadPS4"
         }
     ]
 }
