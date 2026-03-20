@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-19",
+    "date": "2026-03-20",
     "top_5_trending": [
         {
-            "repo": "/jarrodwatts/claude-hud",
+            "repo": "/opendataloader-project/opendataloader-pdf",
             "description": "暂无描述",
-            "stars_today": "1,038 stars today",
-            "url": "https://github.com/jarrodwatts/claude-hud"
+            "stars_today": "1,416 stars today",
+            "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+        },
+        {
+            "repo": "/langchain-ai/open-swe",
+            "description": "暂无描述",
+            "stars_today": "965 stars today",
+            "url": "https://github.com/langchain-ai/open-swe"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "4,089 stars today",
+            "stars_today": "3,494 stars today",
             "url": "https://github.com/obra/superpowers"
+        },
+        {
+            "repo": "/jarrodwatts/claude-hud",
+            "description": "暂无描述",
+            "stars_today": "1,851 stars today",
+            "url": "https://github.com/jarrodwatts/claude-hud"
         },
         {
             "repo": "/unslothai/unsloth",
             "description": "暂无描述",
-            "stars_today": "1,005 stars today",
+            "stars_today": "1,262 stars today",
             "url": "https://github.com/unslothai/unsloth"
-        },
-        {
-            "repo": "/newton-physics/newton",
-            "description": "暂无描述",
-            "stars_today": "26 stars today",
-            "url": "https://github.com/newton-physics/newton"
-        },
-        {
-            "repo": "/shadps4-emu/shadPS4",
-            "description": "暂无描述",
-            "stars_today": "237 stars today",
-            "url": "https://github.com/shadps4-emu/shadPS4"
         }
     ]
 }
