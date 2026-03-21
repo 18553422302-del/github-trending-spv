@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-20",
+    "date": "2026-03-21",
     "top_5_trending": [
         {
-            "repo": "/opendataloader-project/opendataloader-pdf",
+            "repo": "/jarrodwatts/claude-hud",
             "description": "暂无描述",
-            "stars_today": "1,416 stars today",
-            "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+            "stars_today": "1,068 stars today",
+            "url": "https://github.com/jarrodwatts/claude-hud"
         },
         {
             "repo": "/langchain-ai/open-swe",
             "description": "暂无描述",
-            "stars_today": "965 stars today",
+            "stars_today": "635 stars today",
             "url": "https://github.com/langchain-ai/open-swe"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "3,494 stars today",
+            "stars_today": "2,819 stars today",
             "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/jarrodwatts/claude-hud",
+            "repo": "/opendataloader-project/opendataloader-pdf",
             "description": "暂无描述",
-            "stars_today": "1,851 stars today",
-            "url": "https://github.com/jarrodwatts/claude-hud"
+            "stars_today": "1,812 stars today",
+            "url": "https://github.com/opendataloader-project/opendataloader-pdf"
         },
         {
-            "repo": "/unslothai/unsloth",
+            "repo": "/louis-e/arnis",
             "description": "暂无描述",
-            "stars_today": "1,262 stars today",
-            "url": "https://github.com/unslothai/unsloth"
+            "stars_today": "1,045 stars today",
+            "url": "https://github.com/louis-e/arnis"
         }
     ]
 }
