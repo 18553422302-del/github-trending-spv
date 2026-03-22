@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-21",
+    "date": "2026-03-22",
     "top_5_trending": [
         {
-            "repo": "/jarrodwatts/claude-hud",
+            "repo": "/FujiwaraChoki/MoneyPrinterV2",
             "description": "暂无描述",
-            "stars_today": "1,068 stars today",
-            "url": "https://github.com/jarrodwatts/claude-hud"
+            "stars_today": "283 stars today",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
         },
         {
-            "repo": "/langchain-ai/open-swe",
+            "repo": "/systemd/systemd",
             "description": "暂无描述",
-            "stars_today": "635 stars today",
-            "url": "https://github.com/langchain-ai/open-swe"
+            "stars_today": "58 stars today",
+            "url": "https://github.com/systemd/systemd"
         },
         {
-            "repo": "/obra/superpowers",
+            "repo": "/aquasecurity/trivy",
             "description": "暂无描述",
-            "stars_today": "2,819 stars today",
-            "url": "https://github.com/obra/superpowers"
+            "stars_today": "39 stars today",
+            "url": "https://github.com/aquasecurity/trivy"
+        },
+        {
+            "repo": "/Crosstalk-Solutions/project-nomad",
+            "description": "暂无描述",
+            "stars_today": "2,032 stars today",
+            "url": "https://github.com/Crosstalk-Solutions/project-nomad"
         },
         {
             "repo": "/opendataloader-project/opendataloader-pdf",
             "description": "暂无描述",
-            "stars_today": "1,812 stars today",
+            "stars_today": "950 stars today",
             "url": "https://github.com/opendataloader-project/opendataloader-pdf"
-        },
-        {
-            "repo": "/louis-e/arnis",
-            "description": "暂无描述",
-            "stars_today": "1,045 stars today",
-            "url": "https://github.com/louis-e/arnis"
         }
     ]
 }
