@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-22",
+    "date": "2026-03-23",
     "top_5_trending": [
         {
             "repo": "/FujiwaraChoki/MoneyPrinterV2",
             "description": "暂无描述",
-            "stars_today": "283 stars today",
+            "stars_today": "1,787 stars today",
             "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
         },
         {
-            "repo": "/systemd/systemd",
+            "repo": "/TauricResearch/TradingAgents",
             "description": "暂无描述",
-            "stars_today": "58 stars today",
-            "url": "https://github.com/systemd/systemd"
+            "stars_today": "1,051 stars today",
+            "url": "https://github.com/TauricResearch/TradingAgents"
         },
         {
-            "repo": "/aquasecurity/trivy",
+            "repo": "/vxcontrol/pentagi",
             "description": "暂无描述",
-            "stars_today": "39 stars today",
-            "url": "https://github.com/aquasecurity/trivy"
+            "stars_today": "1,069 stars today",
+            "url": "https://github.com/vxcontrol/pentagi"
         },
         {
-            "repo": "/Crosstalk-Solutions/project-nomad",
+            "repo": "/jamwithai/production-agentic-rag-course",
             "description": "暂无描述",
-            "stars_today": "2,032 stars today",
-            "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+            "stars_today": "237 stars today",
+            "url": "https://github.com/jamwithai/production-agentic-rag-course"
         },
         {
-            "repo": "/opendataloader-project/opendataloader-pdf",
+            "repo": "/affaan-m/everything-claude-code",
             "description": "暂无描述",
-            "stars_today": "950 stars today",
-            "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+            "stars_today": "3,724 stars today",
+            "url": "https://github.com/affaan-m/everything-claude-code"
         }
     ]
 }
