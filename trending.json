@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-23",
+    "date": "2026-03-24",
     "top_5_trending": [
         {
             "repo": "/FujiwaraChoki/MoneyPrinterV2",
             "description": "暂无描述",
-            "stars_today": "1,787 stars today",
+            "stars_today": "2,880 stars today",
             "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
         },
         {
-            "repo": "/TauricResearch/TradingAgents",
+            "repo": "/bytedance/deer-flow",
             "description": "暂无描述",
-            "stars_today": "1,051 stars today",
-            "url": "https://github.com/TauricResearch/TradingAgents"
+            "stars_today": "3,546 stars today",
+            "url": "https://github.com/bytedance/deer-flow"
+        },
+        {
+            "repo": "/Crosstalk-Solutions/project-nomad",
+            "description": "暂无描述",
+            "stars_today": "4,138 stars today",
+            "url": "https://github.com/Crosstalk-Solutions/project-nomad"
         },
         {
             "repo": "/vxcontrol/pentagi",
             "description": "暂无描述",
-            "stars_today": "1,069 stars today",
+            "stars_today": "1,309 stars today",
             "url": "https://github.com/vxcontrol/pentagi"
         },
         {
-            "repo": "/jamwithai/production-agentic-rag-course",
+            "repo": "/browser-use/browser-use",
             "description": "暂无描述",
-            "stars_today": "237 stars today",
-            "url": "https://github.com/jamwithai/production-agentic-rag-course"
-        },
-        {
-            "repo": "/affaan-m/everything-claude-code",
-            "description": "暂无描述",
-            "stars_today": "3,724 stars today",
-            "url": "https://github.com/affaan-m/everything-claude-code"
+            "stars_today": "1,157 stars today",
+            "url": "https://github.com/browser-use/browser-use"
         }
     ]
 }
