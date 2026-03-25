@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-24",
+    "date": "2026-03-25",
     "top_5_trending": [
         {
-            "repo": "/FujiwaraChoki/MoneyPrinterV2",
+            "repo": "/pascalorg/editor",
             "description": "暂无描述",
-            "stars_today": "2,880 stars today",
-            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+            "stars_today": "1,449 stars today",
+            "url": "https://github.com/pascalorg/editor"
         },
         {
             "repo": "/bytedance/deer-flow",
             "description": "暂无描述",
-            "stars_today": "3,546 stars today",
+            "stars_today": "4,346 stars today",
             "url": "https://github.com/bytedance/deer-flow"
         },
         {
-            "repo": "/Crosstalk-Solutions/project-nomad",
+            "repo": "/supermemoryai/supermemory",
             "description": "暂无描述",
-            "stars_today": "4,138 stars today",
-            "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+            "stars_today": "344 stars today",
+            "url": "https://github.com/supermemoryai/supermemory"
         },
         {
-            "repo": "/vxcontrol/pentagi",
+            "repo": "/FujiwaraChoki/MoneyPrinterV2",
             "description": "暂无描述",
-            "stars_today": "1,309 stars today",
-            "url": "https://github.com/vxcontrol/pentagi"
+            "stars_today": "3,006 stars today",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
         },
         {
-            "repo": "/browser-use/browser-use",
+            "repo": "/harry0703/MoneyPrinterTurbo",
             "description": "暂无描述",
-            "stars_today": "1,157 stars today",
-            "url": "https://github.com/browser-use/browser-use"
+            "stars_today": "728 stars today",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
         }
     ]
 }
