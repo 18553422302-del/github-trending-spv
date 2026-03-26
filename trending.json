@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-25",
+    "date": "2026-03-26",
     "top_5_trending": [
         {
-            "repo": "/pascalorg/editor",
+            "repo": "/mvanhorn/last30days-skill",
             "description": "暂无描述",
-            "stars_today": "1,449 stars today",
-            "url": "https://github.com/pascalorg/editor"
+            "stars_today": "1,341 stars today",
+            "url": "https://github.com/mvanhorn/last30days-skill"
         },
         {
             "repo": "/bytedance/deer-flow",
             "description": "暂无描述",
-            "stars_today": "4,346 stars today",
+            "stars_today": "3,787 stars today",
             "url": "https://github.com/bytedance/deer-flow"
         },
         {
-            "repo": "/supermemoryai/supermemory",
+            "repo": "/BerriAI/litellm",
             "description": "暂无描述",
-            "stars_today": "344 stars today",
-            "url": "https://github.com/supermemoryai/supermemory"
+            "stars_today": "301 stars today",
+            "url": "https://github.com/BerriAI/litellm"
         },
         {
-            "repo": "/FujiwaraChoki/MoneyPrinterV2",
+            "repo": "/pascalorg/editor",
             "description": "暂无描述",
-            "stars_today": "3,006 stars today",
-            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+            "stars_today": "2,353 stars today",
+            "url": "https://github.com/pascalorg/editor"
         },
         {
-            "repo": "/harry0703/MoneyPrinterTurbo",
+            "repo": "/letta-ai/claude-subconscious",
             "description": "暂无描述",
-            "stars_today": "728 stars today",
-            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+            "stars_today": "71 stars today",
+            "url": "https://github.com/letta-ai/claude-subconscious"
         }
     ]
 }
