@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "top_5_trending": [
         {
             "repo": "/mvanhorn/last30days-skill",
             "description": "暂无描述",
-            "stars_today": "1,341 stars today",
+            "stars_today": "2,685 stars today",
             "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+            "repo": "/Yeachan-Heo/oh-my-claudecode",
+            "description": "暂无描述",
+            "stars_today": "598 stars today",
+            "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+        },
+        {
+            "repo": "/virattt/dexter",
+            "description": "暂无描述",
+            "stars_today": "210 stars today",
+            "url": "https://github.com/virattt/dexter"
+        },
+        {
+            "repo": "/ruvnet/RuView",
+            "description": "暂无描述",
+            "stars_today": "1,002 stars today",
+            "url": "https://github.com/ruvnet/RuView"
         },
         {
             "repo": "/bytedance/deer-flow",
             "description": "暂无描述",
-            "stars_today": "3,787 stars today",
+            "stars_today": "2,394 stars today",
             "url": "https://github.com/bytedance/deer-flow"
-        },
-        {
-            "repo": "/BerriAI/litellm",
-            "description": "暂无描述",
-            "stars_today": "301 stars today",
-            "url": "https://github.com/BerriAI/litellm"
-        },
-        {
-            "repo": "/pascalorg/editor",
-            "description": "暂无描述",
-            "stars_today": "2,353 stars today",
-            "url": "https://github.com/pascalorg/editor"
-        },
-        {
-            "repo": "/letta-ai/claude-subconscious",
-            "description": "暂无描述",
-            "stars_today": "71 stars today",
-            "url": "https://github.com/letta-ai/claude-subconscious"
         }
     ]
 }
