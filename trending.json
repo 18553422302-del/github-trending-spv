@@ -1,34 +1,34 @@
 {
-    "date": "2026-03-28",
+    "date": "2026-03-29",
     "top_5_trending": [
-        {
-            "repo": "/mvanhorn/last30days-skill",
-            "description": "暂无描述",
-            "stars_today": "2,821 stars today",
-            "url": "https://github.com/mvanhorn/last30days-skill"
-        },
         {
             "repo": "/hacksider/Deep-Live-Cam",
             "description": "暂无描述",
-            "stars_today": "1,616 stars today",
+            "stars_today": "1,814 stars today",
             "url": "https://github.com/hacksider/Deep-Live-Cam"
+        },
+        {
+            "repo": "/obra/superpowers",
+            "description": "暂无描述",
+            "stars_today": "2,292 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
             "repo": "/SakanaAI/AI-Scientist-v2",
             "description": "暂无描述",
-            "stars_today": "143 stars today",
+            "stars_today": "506 stars today",
             "url": "https://github.com/SakanaAI/AI-Scientist-v2"
         },
         {
-            "repo": "/microsoft/VibeVoice",
+            "repo": "/virattt/dexter",
             "description": "暂无描述",
-            "stars_today": "337 stars today",
-            "url": "https://github.com/microsoft/VibeVoice"
+            "stars_today": "581 stars today",
+            "url": "https://github.com/virattt/dexter"
         },
         {
             "repo": "/twentyhq/twenty",
             "description": "暂无描述",
-            "stars_today": "668 stars today",
+            "stars_today": "563 stars today",
             "url": "https://github.com/twentyhq/twenty"
         }
     ]
