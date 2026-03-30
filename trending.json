@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-29",
+    "date": "2026-03-30",
     "top_5_trending": [
         {
-            "repo": "/hacksider/Deep-Live-Cam",
+            "repo": "/luongnv89/claude-howto",
             "description": "暂无描述",
-            "stars_today": "1,814 stars today",
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
+            "stars_today": "1,165 stars today",
+            "url": "https://github.com/luongnv89/claude-howto"
         },
         {
-            "repo": "/obra/superpowers",
+            "repo": "/Yeachan-Heo/oh-my-claudecode",
             "description": "暂无描述",
-            "stars_today": "2,292 stars today",
-            "url": "https://github.com/obra/superpowers"
+            "stars_today": "835 stars today",
+            "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
         },
         {
-            "repo": "/SakanaAI/AI-Scientist-v2",
+            "repo": "/microsoft/VibeVoice",
             "description": "暂无描述",
-            "stars_today": "506 stars today",
-            "url": "https://github.com/SakanaAI/AI-Scientist-v2"
+            "stars_today": "1,056 stars today",
+            "url": "https://github.com/microsoft/VibeVoice"
         },
         {
-            "repo": "/virattt/dexter",
+            "repo": "/NousResearch/hermes-agent",
             "description": "暂无描述",
-            "stars_today": "581 stars today",
-            "url": "https://github.com/virattt/dexter"
+            "stars_today": "917 stars today",
+            "url": "https://github.com/NousResearch/hermes-agent"
         },
         {
-            "repo": "/twentyhq/twenty",
+            "repo": "/OpenBB-finance/OpenBB",
             "description": "暂无描述",
-            "stars_today": "563 stars today",
-            "url": "https://github.com/twentyhq/twenty"
+            "stars_today": "137 stars today",
+            "url": "https://github.com/OpenBB-finance/OpenBB"
         }
     ]
 }
