@@ -1,35 +1,35 @@
 {
-    "date": "2026-03-31",
+    "date": "2026-04-01",
     "top_5_trending": [
-        {
-            "repo": "/microsoft/VibeVoice",
-            "description": "暂无描述",
-            "stars_today": "2,492 stars today",
-            "url": "https://github.com/microsoft/VibeVoice"
-        },
         {
             "repo": "/luongnv89/claude-howto",
             "description": "暂无描述",
-            "stars_today": "4,232 stars today",
+            "stars_today": "2,390 stars today",
             "url": "https://github.com/luongnv89/claude-howto"
+        },
+        {
+            "repo": "/microsoft/VibeVoice",
+            "description": "暂无描述",
+            "stars_today": "3,863 stars today",
+            "url": "https://github.com/microsoft/VibeVoice"
+        },
+        {
+            "repo": "/Yeachan-Heo/oh-my-claudecode",
+            "description": "暂无描述",
+            "stars_today": "1,126 stars today",
+            "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
         },
         {
             "repo": "/shanraisshan/claude-code-best-practice",
             "description": "暂无描述",
-            "stars_today": "1,108 stars today",
+            "stars_today": "2,407 stars today",
             "url": "https://github.com/shanraisshan/claude-code-best-practice"
         },
         {
-            "repo": "/hacksider/Deep-Live-Cam",
+            "repo": "/NousResearch/hermes-agent",
             "description": "暂无描述",
-            "stars_today": "1,136 stars today",
-            "url": "https://github.com/hacksider/Deep-Live-Cam"
-        },
-        {
-            "repo": "/OpenBB-finance/OpenBB",
-            "description": "暂无描述",
-            "stars_today": "502 stars today",
-            "url": "https://github.com/OpenBB-finance/OpenBB"
+            "stars_today": "1,907 stars today",
+            "url": "https://github.com/NousResearch/hermes-agent"
         }
     ]
 }
