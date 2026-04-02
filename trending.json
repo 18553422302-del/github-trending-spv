@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-01",
+    "date": "2026-04-02",
     "top_5_trending": [
         {
-            "repo": "/luongnv89/claude-howto",
+            "repo": "/anthropics/claude-code",
             "description": "暂无描述",
-            "stars_today": "2,390 stars today",
-            "url": "https://github.com/luongnv89/claude-howto"
+            "stars_today": "10,749 stars today",
+            "url": "https://github.com/anthropics/claude-code"
         },
         {
             "repo": "/microsoft/VibeVoice",
             "description": "暂无描述",
-            "stars_today": "3,863 stars today",
+            "stars_today": "1,685 stars today",
             "url": "https://github.com/microsoft/VibeVoice"
         },
         {
-            "repo": "/Yeachan-Heo/oh-my-claudecode",
+            "repo": "/google-research/timesfm",
             "description": "暂无描述",
-            "stars_today": "1,126 stars today",
-            "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+            "stars_today": "380 stars today",
+            "url": "https://github.com/google-research/timesfm"
         },
         {
-            "repo": "/shanraisshan/claude-code-best-practice",
+            "repo": "/luongnv89/claude-howto",
             "description": "暂无描述",
-            "stars_today": "2,407 stars today",
-            "url": "https://github.com/shanraisshan/claude-code-best-practice"
+            "stars_today": "3,301 stars today",
+            "url": "https://github.com/luongnv89/claude-howto"
         },
         {
-            "repo": "/NousResearch/hermes-agent",
+            "repo": "/axios/axios",
             "description": "暂无描述",
-            "stars_today": "1,907 stars today",
-            "url": "https://github.com/NousResearch/hermes-agent"
+            "stars_today": "93 stars today",
+            "url": "https://github.com/axios/axios"
         }
     ]
 }
