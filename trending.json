@@ -1,35 +1,29 @@
 {
-    "date": "2026-04-02",
+    "date": "2026-04-03",
     "top_5_trending": [
         {
-            "repo": "/anthropics/claude-code",
+            "repo": "/siddharthvaddem/openscreen",
             "description": "暂无描述",
-            "stars_today": "10,749 stars today",
-            "url": "https://github.com/anthropics/claude-code"
+            "stars_today": "2,573 stars today",
+            "url": "https://github.com/siddharthvaddem/openscreen"
         },
         {
-            "repo": "/microsoft/VibeVoice",
+            "repo": "/Yeachan-Heo/oh-my-codex",
             "description": "暂无描述",
-            "stars_today": "1,685 stars today",
-            "url": "https://github.com/microsoft/VibeVoice"
+            "stars_today": "2,867 stars today",
+            "url": "https://github.com/Yeachan-Heo/oh-my-codex"
         },
         {
-            "repo": "/google-research/timesfm",
+            "repo": "/asgeirtj/system_prompts_leaks",
             "description": "暂无描述",
-            "stars_today": "380 stars today",
-            "url": "https://github.com/google-research/timesfm"
+            "stars_today": "306 stars today",
+            "url": "https://github.com/asgeirtj/system_prompts_leaks"
         },
         {
-            "repo": "/luongnv89/claude-howto",
+            "repo": "/sherlock-project/sherlock",
             "description": "暂无描述",
-            "stars_today": "3,301 stars today",
-            "url": "https://github.com/luongnv89/claude-howto"
-        },
-        {
-            "repo": "/axios/axios",
-            "description": "暂无描述",
-            "stars_today": "93 stars today",
-            "url": "https://github.com/axios/axios"
+            "stars_today": "827 stars today",
+            "url": "https://github.com/sherlock-project/sherlock"
         }
     ]
 }
