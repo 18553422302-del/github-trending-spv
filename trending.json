@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-04",
+    "date": "2026-04-05",
     "top_5_trending": [
         {
-            "repo": "/Yeachan-Heo/oh-my-codex",
+            "repo": "/Blaizzy/mlx-vlm",
             "description": "暂无描述",
-            "stars_today": "3,047 stars today",
-            "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+            "stars_today": "343 stars today",
+            "url": "https://github.com/Blaizzy/mlx-vlm"
         },
         {
             "repo": "/onyx-dot-app/onyx",
             "description": "暂无描述",
-            "stars_today": "1,852 stars today",
+            "stars_today": "1,197 stars today",
             "url": "https://github.com/onyx-dot-app/onyx"
         },
         {
-            "repo": "/google-research/timesfm",
+            "repo": "/Yeachan-Heo/oh-my-codex",
             "description": "暂无描述",
-            "stars_today": "916 stars today",
-            "url": "https://github.com/google-research/timesfm"
+            "stars_today": "1,789 stars today",
+            "url": "https://github.com/Yeachan-Heo/oh-my-codex"
         },
         {
             "repo": "/siddharthvaddem/openscreen",
             "description": "暂无描述",
-            "stars_today": "2,771 stars today",
+            "stars_today": "1,591 stars today",
             "url": "https://github.com/siddharthvaddem/openscreen"
         },
         {
-            "repo": "/dmtrKovalenko/fff.nvim",
+            "repo": "/telegramdesktop/tdesktop",
             "description": "暂无描述",
-            "stars_today": "750 stars today",
-            "url": "https://github.com/dmtrKovalenko/fff.nvim"
+            "stars_today": "249 stars today",
+            "url": "https://github.com/telegramdesktop/tdesktop"
         }
     ]
 }
