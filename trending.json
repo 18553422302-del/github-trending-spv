@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "top_5_trending": [
+        {
+            "repo": "/google-ai-edge/gallery",
+            "description": "暂无描述",
+            "stars_today": "389 stars today",
+            "url": "https://github.com/google-ai-edge/gallery"
+        },
         {
             "repo": "/Blaizzy/mlx-vlm",
             "description": "暂无描述",
-            "stars_today": "343 stars today",
+            "stars_today": "416 stars today",
             "url": "https://github.com/Blaizzy/mlx-vlm"
-        },
-        {
-            "repo": "/onyx-dot-app/onyx",
-            "description": "暂无描述",
-            "stars_today": "1,197 stars today",
-            "url": "https://github.com/onyx-dot-app/onyx"
-        },
-        {
-            "repo": "/Yeachan-Heo/oh-my-codex",
-            "description": "暂无描述",
-            "stars_today": "1,789 stars today",
-            "url": "https://github.com/Yeachan-Heo/oh-my-codex"
         },
         {
             "repo": "/siddharthvaddem/openscreen",
             "description": "暂无描述",
-            "stars_today": "1,591 stars today",
+            "stars_today": "2,749 stars today",
             "url": "https://github.com/siddharthvaddem/openscreen"
         },
         {
-            "repo": "/telegramdesktop/tdesktop",
+            "repo": "/block/goose",
             "description": "暂无描述",
-            "stars_today": "249 stars today",
-            "url": "https://github.com/telegramdesktop/tdesktop"
+            "stars_today": "882 stars today",
+            "url": "https://github.com/block/goose"
+        },
+        {
+            "repo": "/onyx-dot-app/onyx",
+            "description": "暂无描述",
+            "stars_today": "998 stars today",
+            "url": "https://github.com/onyx-dot-app/onyx"
         }
     ]
 }
