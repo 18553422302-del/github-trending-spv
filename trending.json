@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-06",
+    "date": "2026-04-07",
     "top_5_trending": [
+        {
+            "repo": "/abhigyanpatwari/GitNexus",
+            "description": "暂无描述",
+            "stars_today": "857 stars today",
+            "url": "https://github.com/abhigyanpatwari/GitNexus"
+        },
         {
             "repo": "/google-ai-edge/gallery",
             "description": "暂无描述",
-            "stars_today": "389 stars today",
+            "stars_today": "1,107 stars today",
             "url": "https://github.com/google-ai-edge/gallery"
         },
         {
-            "repo": "/Blaizzy/mlx-vlm",
+            "repo": "/google-ai-edge/LiteRT-LM",
             "description": "暂无描述",
-            "stars_today": "416 stars today",
-            "url": "https://github.com/Blaizzy/mlx-vlm"
+            "stars_today": "483 stars today",
+            "url": "https://github.com/google-ai-edge/LiteRT-LM"
         },
         {
-            "repo": "/siddharthvaddem/openscreen",
+            "repo": "/immich-app/immich",
             "description": "暂无描述",
-            "stars_today": "2,749 stars today",
-            "url": "https://github.com/siddharthvaddem/openscreen"
+            "stars_today": "152 stars today",
+            "url": "https://github.com/immich-app/immich"
         },
         {
-            "repo": "/block/goose",
+            "repo": "/KeygraphHQ/shannon",
             "description": "暂无描述",
-            "stars_today": "882 stars today",
-            "url": "https://github.com/block/goose"
-        },
-        {
-            "repo": "/onyx-dot-app/onyx",
-            "description": "暂无描述",
-            "stars_today": "998 stars today",
-            "url": "https://github.com/onyx-dot-app/onyx"
+            "stars_today": "733 stars today",
+            "url": "https://github.com/KeygraphHQ/shannon"
         }
     ]
 }
