@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-07",
+    "date": "2026-04-08",
     "top_5_trending": [
-        {
-            "repo": "/abhigyanpatwari/GitNexus",
-            "description": "暂无描述",
-            "stars_today": "857 stars today",
-            "url": "https://github.com/abhigyanpatwari/GitNexus"
-        },
         {
             "repo": "/google-ai-edge/gallery",
             "description": "暂无描述",
-            "stars_today": "1,107 stars today",
+            "stars_today": "897 stars today",
             "url": "https://github.com/google-ai-edge/gallery"
         },
         {
             "repo": "/google-ai-edge/LiteRT-LM",
             "description": "暂无描述",
-            "stars_today": "483 stars today",
+            "stars_today": "528 stars today",
             "url": "https://github.com/google-ai-edge/LiteRT-LM"
         },
         {
-            "repo": "/immich-app/immich",
+            "repo": "/NVIDIA/personaplex",
             "description": "暂无描述",
-            "stars_today": "152 stars today",
-            "url": "https://github.com/immich-app/immich"
+            "stars_today": "662 stars today",
+            "url": "https://github.com/NVIDIA/personaplex"
         },
         {
-            "repo": "/KeygraphHQ/shannon",
+            "repo": "/abhigyanpatwari/GitNexus",
             "description": "暂无描述",
-            "stars_today": "733 stars today",
-            "url": "https://github.com/KeygraphHQ/shannon"
+            "stars_today": "1,195 stars today",
+            "url": "https://github.com/abhigyanpatwari/GitNexus"
+        },
+        {
+            "repo": "/tobi/qmd",
+            "description": "暂无描述",
+            "stars_today": "859 stars today",
+            "url": "https://github.com/tobi/qmd"
         }
     ]
 }
