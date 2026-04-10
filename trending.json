@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-09",
+    "date": "2026-04-10",
     "top_5_trending": [
+        {
+            "repo": "/NousResearch/hermes-agent",
+            "description": "暂无描述",
+            "stars_today": "6,485 stars today",
+            "url": "https://github.com/NousResearch/hermes-agent"
+        },
         {
             "repo": "/forrestchang/andrej-karpathy-skills",
             "description": "暂无描述",
-            "stars_today": "702 stars today",
+            "stars_today": "1,364 stars today",
             "url": "https://github.com/forrestchang/andrej-karpathy-skills"
         },
         {
-            "repo": "/TheCraigHewitt/seomachine",
+            "repo": "/HKUDS/DeepTutor",
             "description": "暂无描述",
-            "stars_today": "649 stars today",
-            "url": "https://github.com/TheCraigHewitt/seomachine"
+            "stars_today": "1,310 stars today",
+            "url": "https://github.com/HKUDS/DeepTutor"
         },
         {
-            "repo": "/google-ai-edge/gallery",
+            "repo": "/OpenBMB/VoxCPM",
             "description": "暂无描述",
-            "stars_today": "853 stars today",
-            "url": "https://github.com/google-ai-edge/gallery"
+            "stars_today": "496 stars today",
+            "url": "https://github.com/OpenBMB/VoxCPM"
         },
         {
-            "repo": "/NVIDIA/personaplex",
+            "repo": "/opendataloader-project/opendataloader-pdf",
             "description": "暂无描述",
-            "stars_today": "586 stars today",
-            "url": "https://github.com/NVIDIA/personaplex"
-        },
-        {
-            "repo": "/google-ai-edge/LiteRT-LM",
-            "description": "暂无描述",
-            "stars_today": "501 stars today",
-            "url": "https://github.com/google-ai-edge/LiteRT-LM"
+            "stars_today": "1,124 stars today",
+            "url": "https://github.com/opendataloader-project/opendataloader-pdf"
         }
     ]
 }
