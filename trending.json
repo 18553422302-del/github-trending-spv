@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-10",
+    "date": "2026-04-11",
     "top_5_trending": [
+        {
+            "repo": "/microsoft/markitdown",
+            "description": "暂无描述",
+            "stars_today": "2,352 stars today",
+            "url": "https://github.com/microsoft/markitdown"
+        },
+        {
+            "repo": "/coleam00/Archon",
+            "description": "暂无描述",
+            "stars_today": "756 stars today",
+            "url": "https://github.com/coleam00/Archon"
+        },
         {
             "repo": "/NousResearch/hermes-agent",
             "description": "暂无描述",
-            "stars_today": "6,485 stars today",
+            "stars_today": "7,671 stars today",
             "url": "https://github.com/NousResearch/hermes-agent"
         },
         {
-            "repo": "/forrestchang/andrej-karpathy-skills",
+            "repo": "/rowboatlabs/rowboat",
             "description": "暂无描述",
-            "stars_today": "1,364 stars today",
-            "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+            "stars_today": "507 stars today",
+            "url": "https://github.com/rowboatlabs/rowboat"
         },
         {
-            "repo": "/HKUDS/DeepTutor",
+            "repo": "/multica-ai/multica",
             "description": "暂无描述",
-            "stars_today": "1,310 stars today",
-            "url": "https://github.com/HKUDS/DeepTutor"
-        },
-        {
-            "repo": "/OpenBMB/VoxCPM",
-            "description": "暂无描述",
-            "stars_today": "496 stars today",
-            "url": "https://github.com/OpenBMB/VoxCPM"
-        },
-        {
-            "repo": "/opendataloader-project/opendataloader-pdf",
-            "description": "暂无描述",
-            "stars_today": "1,124 stars today",
-            "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+            "stars_today": "1,506 stars today",
+            "url": "https://github.com/multica-ai/multica"
         }
     ]
 }
