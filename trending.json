@@ -1,34 +1,34 @@
 {
-    "date": "2026-04-12",
+    "date": "2026-04-13",
     "top_5_trending": [
         {
             "repo": "/NousResearch/hermes-agent",
             "description": "暂无描述",
-            "stars_today": "6,438 stars today",
+            "stars_today": "7,454 stars today",
             "url": "https://github.com/NousResearch/hermes-agent"
         },
         {
-            "repo": "/microsoft/markitdown",
+            "repo": "/shiyu-coder/Kronos",
             "description": "暂无描述",
-            "stars_today": "3,086 stars today",
-            "url": "https://github.com/microsoft/markitdown"
-        },
-        {
-            "repo": "/coleam00/Archon",
-            "description": "暂无描述",
-            "stars_today": "1,346 stars today",
-            "url": "https://github.com/coleam00/Archon"
+            "stars_today": "1,985 stars today",
+            "url": "https://github.com/shiyu-coder/Kronos"
         },
         {
             "repo": "/forrestchang/andrej-karpathy-skills",
             "description": "暂无描述",
-            "stars_today": "1,066 stars today",
+            "stars_today": "2,369 stars today",
             "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+        },
+        {
+            "repo": "/microsoft/markitdown",
+            "description": "暂无描述",
+            "stars_today": "2,513 stars today",
+            "url": "https://github.com/microsoft/markitdown"
         },
         {
             "repo": "/multica-ai/multica",
             "description": "暂无描述",
-            "stars_today": "1,948 stars today",
+            "stars_today": "1,609 stars today",
             "url": "https://github.com/multica-ai/multica"
         }
     ]
