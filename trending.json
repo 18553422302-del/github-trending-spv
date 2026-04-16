@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-15",
+    "date": "2026-04-16",
     "top_5_trending": [
         {
             "repo": "/forrestchang/andrej-karpathy-skills",
             "description": "暂无描述",
-            "stars_today": "9,263 stars today",
+            "stars_today": "9,646 stars today",
             "url": "https://github.com/forrestchang/andrej-karpathy-skills"
-        },
-        {
-            "repo": "/thedotmack/claude-mem",
-            "description": "暂无描述",
-            "stars_today": "2,997 stars today",
-            "url": "https://github.com/thedotmack/claude-mem"
-        },
-        {
-            "repo": "/jamiepine/voicebox",
-            "description": "暂无描述",
-            "stars_today": "1,162 stars today",
-            "url": "https://github.com/jamiepine/voicebox"
         },
         {
             "repo": "/pascalorg/editor",
             "description": "暂无描述",
-            "stars_today": "820 stars today",
+            "stars_today": "1,391 stars today",
             "url": "https://github.com/pascalorg/editor"
         },
         {
-            "repo": "/microsoft/markitdown",
+            "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "1,675 stars today",
-            "url": "https://github.com/microsoft/markitdown"
+            "stars_today": "2,305 stars today",
+            "url": "https://github.com/thedotmack/claude-mem"
+        },
+        {
+            "repo": "/Lordog/dive-into-llms",
+            "description": "暂无描述",
+            "stars_today": "941 stars today",
+            "url": "https://github.com/Lordog/dive-into-llms"
+        },
+        {
+            "repo": "/virattt/ai-hedge-fund",
+            "description": "暂无描述",
+            "stars_today": "1,058 stars today",
+            "url": "https://github.com/virattt/ai-hedge-fund"
         }
     ]
 }
