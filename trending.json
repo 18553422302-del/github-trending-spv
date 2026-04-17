@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-16",
+    "date": "2026-04-17",
     "top_5_trending": [
         {
             "repo": "/forrestchang/andrej-karpathy-skills",
             "description": "暂无描述",
-            "stars_today": "9,646 stars today",
+            "stars_today": "7,959 stars today",
             "url": "https://github.com/forrestchang/andrej-karpathy-skills"
-        },
-        {
-            "repo": "/pascalorg/editor",
-            "description": "暂无描述",
-            "stars_today": "1,391 stars today",
-            "url": "https://github.com/pascalorg/editor"
         },
         {
             "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "2,305 stars today",
+            "stars_today": "1,897 stars today",
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "repo": "/Lordog/dive-into-llms",
+            "repo": "/lsdefine/GenericAgent",
             "description": "暂无描述",
-            "stars_today": "941 stars today",
-            "url": "https://github.com/Lordog/dive-into-llms"
+            "stars_today": "872 stars today",
+            "url": "https://github.com/lsdefine/GenericAgent"
         },
         {
-            "repo": "/virattt/ai-hedge-fund",
+            "repo": "/jamiepine/voicebox",
             "description": "暂无描述",
-            "stars_today": "1,058 stars today",
-            "url": "https://github.com/virattt/ai-hedge-fund"
+            "stars_today": "880 stars today",
+            "url": "https://github.com/jamiepine/voicebox"
+        },
+        {
+            "repo": "/vercel-labs/open-agents",
+            "description": "暂无描述",
+            "stars_today": "738 stars today",
+            "url": "https://github.com/vercel-labs/open-agents"
         }
     ]
 }
