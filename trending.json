@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "top_5_trending": [
         {
-            "repo": "/forrestchang/andrej-karpathy-skills",
+            "repo": "/EvoMap/evolver",
             "description": "暂无描述",
-            "stars_today": "7,959 stars today",
-            "url": "https://github.com/forrestchang/andrej-karpathy-skills"
-        },
-        {
-            "repo": "/thedotmack/claude-mem",
-            "description": "暂无描述",
-            "stars_today": "1,897 stars today",
-            "url": "https://github.com/thedotmack/claude-mem"
+            "stars_today": "737 stars today",
+            "url": "https://github.com/EvoMap/evolver"
         },
         {
             "repo": "/lsdefine/GenericAgent",
             "description": "暂无描述",
-            "stars_today": "872 stars today",
+            "stars_today": "845 stars today",
             "url": "https://github.com/lsdefine/GenericAgent"
         },
         {
-            "repo": "/jamiepine/voicebox",
+            "repo": "/SimoneAvogadro/android-reverse-engineering-skill",
             "description": "暂无描述",
-            "stars_today": "880 stars today",
-            "url": "https://github.com/jamiepine/voicebox"
+            "stars_today": "538 stars today",
+            "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
         },
         {
-            "repo": "/vercel-labs/open-agents",
+            "repo": "/BasedHardware/omi",
             "description": "暂无描述",
-            "stars_today": "738 stars today",
-            "url": "https://github.com/vercel-labs/open-agents"
+            "stars_today": "824 stars today",
+            "url": "https://github.com/BasedHardware/omi"
+        },
+        {
+            "repo": "/Lordog/dive-into-llms",
+            "description": "暂无描述",
+            "stars_today": "944 stars today",
+            "url": "https://github.com/Lordog/dive-into-llms"
         }
     ]
 }
