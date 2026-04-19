@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-18",
+    "date": "2026-04-19",
     "top_5_trending": [
         {
-            "repo": "/EvoMap/evolver",
+            "repo": "/thunderbird/thunderbolt",
             "description": "暂无描述",
-            "stars_today": "737 stars today",
-            "url": "https://github.com/EvoMap/evolver"
-        },
-        {
-            "repo": "/lsdefine/GenericAgent",
-            "description": "暂无描述",
-            "stars_today": "845 stars today",
-            "url": "https://github.com/lsdefine/GenericAgent"
-        },
-        {
-            "repo": "/SimoneAvogadro/android-reverse-engineering-skill",
-            "description": "暂无描述",
-            "stars_today": "538 stars today",
-            "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+            "stars_today": "447 stars today",
+            "url": "https://github.com/thunderbird/thunderbolt"
         },
         {
             "repo": "/BasedHardware/omi",
             "description": "暂无描述",
-            "stars_today": "824 stars today",
+            "stars_today": "609 stars today",
             "url": "https://github.com/BasedHardware/omi"
         },
         {
-            "repo": "/Lordog/dive-into-llms",
+            "repo": "/openai/openai-agents-python",
             "description": "暂无描述",
-            "stars_today": "944 stars today",
-            "url": "https://github.com/Lordog/dive-into-llms"
+            "stars_today": "470 stars today",
+            "url": "https://github.com/openai/openai-agents-python"
+        },
+        {
+            "repo": "/EvoMap/evolver",
+            "description": "暂无描述",
+            "stars_today": "1,131 stars today",
+            "url": "https://github.com/EvoMap/evolver"
+        },
+        {
+            "repo": "/deepseek-ai/DeepGEMM",
+            "description": "暂无描述",
+            "stars_today": "31 stars today",
+            "url": "https://github.com/deepseek-ai/DeepGEMM"
         }
     ]
 }
