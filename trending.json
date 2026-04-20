@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "top_5_trending": [
+        {
+            "repo": "/Fincept-Corporation/FinceptTerminal",
+            "description": "暂无描述",
+            "stars_today": "1,254 stars today",
+            "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+        },
         {
             "repo": "/thunderbird/thunderbolt",
             "description": "暂无描述",
-            "stars_today": "447 stars today",
+            "stars_today": "695 stars today",
             "url": "https://github.com/thunderbird/thunderbolt"
         },
         {
-            "repo": "/BasedHardware/omi",
+            "repo": "/tractorjuice/arc-kit",
             "description": "暂无描述",
-            "stars_today": "609 stars today",
-            "url": "https://github.com/BasedHardware/omi"
+            "stars_today": "263 stars today",
+            "url": "https://github.com/tractorjuice/arc-kit"
         },
         {
             "repo": "/openai/openai-agents-python",
             "description": "暂无描述",
-            "stars_today": "470 stars today",
+            "stars_today": "752 stars today",
             "url": "https://github.com/openai/openai-agents-python"
         },
         {
-            "repo": "/EvoMap/evolver",
+            "repo": "/pingdotgg/t3code",
             "description": "暂无描述",
-            "stars_today": "1,131 stars today",
-            "url": "https://github.com/EvoMap/evolver"
-        },
-        {
-            "repo": "/deepseek-ai/DeepGEMM",
-            "description": "暂无描述",
-            "stars_today": "31 stars today",
-            "url": "https://github.com/deepseek-ai/DeepGEMM"
+            "stars_today": "109 stars today",
+            "url": "https://github.com/pingdotgg/t3code"
         }
     ]
 }
