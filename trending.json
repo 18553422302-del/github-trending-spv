@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "top_5_trending": [
         {
             "repo": "/Fincept-Corporation/FinceptTerminal",
             "description": "暂无描述",
-            "stars_today": "1,254 stars today",
+            "stars_today": "3,109 stars today",
             "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+        },
+        {
+            "repo": "/ruvnet/RuView",
+            "description": "暂无描述",
+            "stars_today": "713 stars today",
+            "url": "https://github.com/ruvnet/RuView"
         },
         {
             "repo": "/thunderbird/thunderbolt",
             "description": "暂无描述",
-            "stars_today": "695 stars today",
+            "stars_today": "675 stars today",
             "url": "https://github.com/thunderbird/thunderbolt"
+        },
+        {
+            "repo": "/paperless-ngx/paperless-ngx",
+            "description": "暂无描述",
+            "stars_today": "606 stars today",
+            "url": "https://github.com/paperless-ngx/paperless-ngx"
         },
         {
             "repo": "/tractorjuice/arc-kit",
             "description": "暂无描述",
-            "stars_today": "263 stars today",
+            "stars_today": "329 stars today",
             "url": "https://github.com/tractorjuice/arc-kit"
-        },
-        {
-            "repo": "/openai/openai-agents-python",
-            "description": "暂无描述",
-            "stars_today": "752 stars today",
-            "url": "https://github.com/openai/openai-agents-python"
-        },
-        {
-            "repo": "/pingdotgg/t3code",
-            "description": "暂无描述",
-            "stars_today": "109 stars today",
-            "url": "https://github.com/pingdotgg/t3code"
         }
     ]
 }
