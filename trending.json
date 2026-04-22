@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-21",
+    "date": "2026-04-22",
     "top_5_trending": [
         {
             "repo": "/Fincept-Corporation/FinceptTerminal",
             "description": "暂无描述",
-            "stars_today": "3,109 stars today",
+            "stars_today": "2,548 stars today",
             "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
-        },
-        {
-            "repo": "/ruvnet/RuView",
-            "description": "暂无描述",
-            "stars_today": "713 stars today",
-            "url": "https://github.com/ruvnet/RuView"
         },
         {
             "repo": "/thunderbird/thunderbolt",
             "description": "暂无描述",
-            "stars_today": "675 stars today",
+            "stars_today": "596 stars today",
             "url": "https://github.com/thunderbird/thunderbolt"
         },
         {
-            "repo": "/paperless-ngx/paperless-ngx",
+            "repo": "/zilliztech/claude-context",
             "description": "暂无描述",
-            "stars_today": "606 stars today",
-            "url": "https://github.com/paperless-ngx/paperless-ngx"
+            "stars_today": "169 stars today",
+            "url": "https://github.com/zilliztech/claude-context"
         },
         {
-            "repo": "/tractorjuice/arc-kit",
+            "repo": "/ruvnet/RuView",
             "description": "暂无描述",
-            "stars_today": "329 stars today",
-            "url": "https://github.com/tractorjuice/arc-kit"
+            "stars_today": "824 stars today",
+            "url": "https://github.com/ruvnet/RuView"
+        },
+        {
+            "repo": "/microsoft/ai-agents-for-beginners",
+            "description": "暂无描述",
+            "stars_today": "200 stars today",
+            "url": "https://github.com/microsoft/ai-agents-for-beginners"
         }
     ]
 }
