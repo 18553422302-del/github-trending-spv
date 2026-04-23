@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-22",
+    "date": "2026-04-23",
     "top_5_trending": [
-        {
-            "repo": "/Fincept-Corporation/FinceptTerminal",
-            "description": "暂无描述",
-            "stars_today": "2,548 stars today",
-            "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
-        },
-        {
-            "repo": "/thunderbird/thunderbolt",
-            "description": "暂无描述",
-            "stars_today": "596 stars today",
-            "url": "https://github.com/thunderbird/thunderbolt"
-        },
         {
             "repo": "/zilliztech/claude-context",
             "description": "暂无描述",
-            "stars_today": "169 stars today",
+            "stars_today": "871 stars today",
             "url": "https://github.com/zilliztech/claude-context"
         },
         {
-            "repo": "/ruvnet/RuView",
+            "repo": "/Fincept-Corporation/FinceptTerminal",
             "description": "暂无描述",
-            "stars_today": "824 stars today",
-            "url": "https://github.com/ruvnet/RuView"
+            "stars_today": "1,772 stars today",
+            "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
         },
         {
-            "repo": "/microsoft/ai-agents-for-beginners",
+            "repo": "/koala73/worldmonitor",
             "description": "暂无描述",
-            "stars_today": "200 stars today",
-            "url": "https://github.com/microsoft/ai-agents-for-beginners"
+            "stars_today": "424 stars today",
+            "url": "https://github.com/koala73/worldmonitor"
+        },
+        {
+            "repo": "/langfuse/langfuse",
+            "description": "暂无描述",
+            "stars_today": "149 stars today",
+            "url": "https://github.com/langfuse/langfuse"
+        },
+        {
+            "repo": "/KeygraphHQ/shannon",
+            "description": "暂无描述",
+            "stars_today": "372 stars today",
+            "url": "https://github.com/KeygraphHQ/shannon"
         }
     ]
 }
