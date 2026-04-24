@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "top_5_trending": [
+        {
+            "repo": "/huggingface/ml-intern",
+            "description": "暂无描述",
+            "stars_today": "720 stars today",
+            "url": "https://github.com/huggingface/ml-intern"
+        },
         {
             "repo": "/zilliztech/claude-context",
             "description": "暂无描述",
-            "stars_today": "871 stars today",
+            "stars_today": "1,011 stars today",
             "url": "https://github.com/zilliztech/claude-context"
         },
         {
-            "repo": "/Fincept-Corporation/FinceptTerminal",
+            "repo": "/HKUDS/RAG-Anything",
             "description": "暂无描述",
-            "stars_today": "1,772 stars today",
-            "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+            "stars_today": "590 stars today",
+            "url": "https://github.com/HKUDS/RAG-Anything"
         },
         {
-            "repo": "/koala73/worldmonitor",
+            "repo": "/Z4nzu/hackingtool",
             "description": "暂无描述",
-            "stars_today": "424 stars today",
-            "url": "https://github.com/koala73/worldmonitor"
+            "stars_today": "1,383 stars today",
+            "url": "https://github.com/Z4nzu/hackingtool"
         },
         {
-            "repo": "/langfuse/langfuse",
+            "repo": "/ruvnet/RuView",
             "description": "暂无描述",
-            "stars_today": "149 stars today",
-            "url": "https://github.com/langfuse/langfuse"
-        },
-        {
-            "repo": "/KeygraphHQ/shannon",
-            "description": "暂无描述",
-            "stars_today": "372 stars today",
-            "url": "https://github.com/KeygraphHQ/shannon"
+            "stars_today": "429 stars today",
+            "url": "https://github.com/ruvnet/RuView"
         }
     ]
 }
