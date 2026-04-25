@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-24",
+    "date": "2026-04-25",
     "top_5_trending": [
+        {
+            "repo": "/Alishahryar1/free-claude-code",
+            "description": "暂无描述",
+            "stars_today": "2,638 stars today",
+            "url": "https://github.com/Alishahryar1/free-claude-code"
+        },
         {
             "repo": "/huggingface/ml-intern",
             "description": "暂无描述",
-            "stars_today": "720 stars today",
+            "stars_today": "2,985 stars today",
             "url": "https://github.com/huggingface/ml-intern"
         },
         {
-            "repo": "/zilliztech/claude-context",
+            "repo": "/google/osv-scanner",
             "description": "暂无描述",
-            "stars_today": "1,011 stars today",
-            "url": "https://github.com/zilliztech/claude-context"
-        },
-        {
-            "repo": "/HKUDS/RAG-Anything",
-            "description": "暂无描述",
-            "stars_today": "590 stars today",
-            "url": "https://github.com/HKUDS/RAG-Anything"
+            "stars_today": "141 stars today",
+            "url": "https://github.com/google/osv-scanner"
         },
         {
             "repo": "/Z4nzu/hackingtool",
             "description": "暂无描述",
-            "stars_today": "1,383 stars today",
+            "stars_today": "1,378 stars today",
             "url": "https://github.com/Z4nzu/hackingtool"
         },
         {
-            "repo": "/ruvnet/RuView",
+            "repo": "/zilliztech/claude-context",
             "description": "暂无描述",
-            "stars_today": "429 stars today",
-            "url": "https://github.com/ruvnet/RuView"
+            "stars_today": "706 stars today",
+            "url": "https://github.com/zilliztech/claude-context"
         }
     ]
 }
