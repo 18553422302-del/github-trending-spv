@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-25",
+    "date": "2026-04-26",
     "top_5_trending": [
         {
             "repo": "/Alishahryar1/free-claude-code",
             "description": "暂无描述",
-            "stars_today": "2,638 stars today",
+            "stars_today": "4,007 stars today",
             "url": "https://github.com/Alishahryar1/free-claude-code"
         },
         {
-            "repo": "/huggingface/ml-intern",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "2,985 stars today",
-            "url": "https://github.com/huggingface/ml-intern"
-        },
-        {
-            "repo": "/google/osv-scanner",
-            "description": "暂无描述",
-            "stars_today": "141 stars today",
-            "url": "https://github.com/google/osv-scanner"
+            "stars_today": "1,139 stars today",
+            "url": "https://github.com/mattpocock/skills"
         },
         {
             "repo": "/Z4nzu/hackingtool",
             "description": "暂无描述",
-            "stars_today": "1,378 stars today",
+            "stars_today": "1,200 stars today",
             "url": "https://github.com/Z4nzu/hackingtool"
         },
         {
-            "repo": "/zilliztech/claude-context",
+            "repo": "/PostHog/posthog",
             "description": "暂无描述",
-            "stars_today": "706 stars today",
-            "url": "https://github.com/zilliztech/claude-context"
+            "stars_today": "471 stars today",
+            "url": "https://github.com/PostHog/posthog"
+        },
+        {
+            "repo": "/davila7/claude-code-templates",
+            "description": "暂无描述",
+            "stars_today": "87 stars today",
+            "url": "https://github.com/davila7/claude-code-templates"
         }
     ]
 }
