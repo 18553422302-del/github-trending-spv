@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-26",
+    "date": "2026-04-27",
     "top_5_trending": [
-        {
-            "repo": "/Alishahryar1/free-claude-code",
-            "description": "暂无描述",
-            "stars_today": "4,007 stars today",
-            "url": "https://github.com/Alishahryar1/free-claude-code"
-        },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "1,139 stars today",
+            "stars_today": "2,519 stars today",
             "url": "https://github.com/mattpocock/skills"
+        },
+        {
+            "repo": "/Alishahryar1/free-claude-code",
+            "description": "暂无描述",
+            "stars_today": "1,701 stars today",
+            "url": "https://github.com/Alishahryar1/free-claude-code"
         },
         {
             "repo": "/Z4nzu/hackingtool",
             "description": "暂无描述",
-            "stars_today": "1,200 stars today",
+            "stars_today": "1,720 stars today",
             "url": "https://github.com/Z4nzu/hackingtool"
+        },
+        {
+            "repo": "/abhigyanpatwari/GitNexus",
+            "description": "暂无描述",
+            "stars_today": "700 stars today",
+            "url": "https://github.com/abhigyanpatwari/GitNexus"
         },
         {
             "repo": "/PostHog/posthog",
             "description": "暂无描述",
-            "stars_today": "471 stars today",
+            "stars_today": "337 stars today",
             "url": "https://github.com/PostHog/posthog"
-        },
-        {
-            "repo": "/davila7/claude-code-templates",
-            "description": "暂无描述",
-            "stars_today": "87 stars today",
-            "url": "https://github.com/davila7/claude-code-templates"
         }
     ]
 }
