@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-27",
+    "date": "2026-04-28",
     "top_5_trending": [
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "2,519 stars today",
+            "stars_today": "5,645 stars today",
             "url": "https://github.com/mattpocock/skills"
-        },
-        {
-            "repo": "/Alishahryar1/free-claude-code",
-            "description": "暂无描述",
-            "stars_today": "1,701 stars today",
-            "url": "https://github.com/Alishahryar1/free-claude-code"
-        },
-        {
-            "repo": "/Z4nzu/hackingtool",
-            "description": "暂无描述",
-            "stars_today": "1,720 stars today",
-            "url": "https://github.com/Z4nzu/hackingtool"
         },
         {
             "repo": "/abhigyanpatwari/GitNexus",
             "description": "暂无描述",
-            "stars_today": "700 stars today",
+            "stars_today": "1,102 stars today",
             "url": "https://github.com/abhigyanpatwari/GitNexus"
         },
         {
-            "repo": "/PostHog/posthog",
+            "repo": "/ComposioHQ/awesome-codex-skills",
             "description": "暂无描述",
-            "stars_today": "337 stars today",
-            "url": "https://github.com/PostHog/posthog"
+            "stars_today": "638 stars today",
+            "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+        },
+        {
+            "repo": "/Alishahryar1/free-claude-code",
+            "description": "暂无描述",
+            "stars_today": "2,949 stars today",
+            "url": "https://github.com/Alishahryar1/free-claude-code"
+        },
+        {
+            "repo": "/gastownhall/beads",
+            "description": "暂无描述",
+            "stars_today": "498 stars today",
+            "url": "https://github.com/gastownhall/beads"
         }
     ]
 }
