@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "top_5_trending": [
+        {
+            "repo": "/warpdotdev/warp",
+            "description": "暂无描述",
+            "stars_today": "12,822 stars today",
+            "url": "https://github.com/warpdotdev/warp"
+        },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "7,321 stars today",
+            "stars_today": "7,280 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/abhigyanpatwari/GitNexus",
+            "repo": "/HunxByts/GhostTrack",
             "description": "暂无描述",
-            "stars_today": "1,607 stars today",
-            "url": "https://github.com/abhigyanpatwari/GitNexus"
+            "stars_today": "1,033 stars today",
+            "url": "https://github.com/HunxByts/GhostTrack"
         },
         {
             "repo": "/ComposioHQ/awesome-codex-skills",
             "description": "暂无描述",
-            "stars_today": "953 stars today",
+            "stars_today": "1,177 stars today",
             "url": "https://github.com/ComposioHQ/awesome-codex-skills"
         },
         {
-            "repo": "/microsoft/VibeVoice",
+            "repo": "/1jehuang/jcode",
             "description": "暂无描述",
-            "stars_today": "1,483 stars today",
-            "url": "https://github.com/microsoft/VibeVoice"
-        },
-        {
-            "repo": "/davila7/claude-code-templates",
-            "description": "暂无描述",
-            "stars_today": "346 stars today",
-            "url": "https://github.com/davila7/claude-code-templates"
+            "stars_today": "411 stars today",
+            "url": "https://github.com/1jehuang/jcode"
         }
     ]
 }
