@@ -1,35 +1,35 @@
 {
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "top_5_trending": [
         {
             "repo": "/warpdotdev/warp",
             "description": "暂无描述",
-            "stars_today": "12,822 stars today",
+            "stars_today": "8,399 stars today",
             "url": "https://github.com/warpdotdev/warp"
+        },
+        {
+            "repo": "/TauricResearch/TradingAgents",
+            "description": "暂无描述",
+            "stars_today": "2,023 stars today",
+            "url": "https://github.com/TauricResearch/TradingAgents"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "7,280 stars today",
+            "stars_today": "6,187 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/HunxByts/GhostTrack",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,033 stars today",
-            "url": "https://github.com/HunxByts/GhostTrack"
+            "stars_today": "1,632 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/ComposioHQ/awesome-codex-skills",
+            "repo": "/lukilabs/craft-agents-oss",
             "description": "暂无描述",
-            "stars_today": "1,177 stars today",
-            "url": "https://github.com/ComposioHQ/awesome-codex-skills"
-        },
-        {
-            "repo": "/1jehuang/jcode",
-            "description": "暂无描述",
-            "stars_today": "411 stars today",
-            "url": "https://github.com/1jehuang/jcode"
+            "stars_today": "319 stars today",
+            "url": "https://github.com/lukilabs/craft-agents-oss"
         }
     ]
 }
