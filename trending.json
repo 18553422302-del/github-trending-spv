@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "top_5_trending": [
         {
             "repo": "/TauricResearch/TradingAgents",
             "description": "暂无描述",
-            "stars_today": "2,112 stars today",
+            "stars_today": "2,225 stars today",
             "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+            "repo": "/ruvnet/ruflo",
+            "description": "暂无描述",
+            "stars_today": "1,299 stars today",
+            "url": "https://github.com/ruvnet/ruflo"
+        },
+        {
+            "repo": "/browserbase/skills",
+            "description": "暂无描述",
+            "stars_today": "346 stars today",
+            "url": "https://github.com/browserbase/skills"
         },
         {
             "repo": "/soxoj/maigret",
             "description": "暂无描述",
-            "stars_today": "535 stars today",
+            "stars_today": "1,064 stars today",
             "url": "https://github.com/soxoj/maigret"
         },
         {
-            "repo": "/warpdotdev/warp",
+            "repo": "/Flowseal/zapret-discord-youtube",
             "description": "暂无描述",
-            "stars_today": "3,401 stars today",
-            "url": "https://github.com/warpdotdev/warp"
-        },
-        {
-            "repo": "/1jehuang/jcode",
-            "description": "暂无描述",
-            "stars_today": "403 stars today",
-            "url": "https://github.com/1jehuang/jcode"
-        },
-        {
-            "repo": "/mattpocock/skills",
-            "description": "暂无描述",
-            "stars_today": "3,645 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "181 stars today",
+            "url": "https://github.com/Flowseal/zapret-discord-youtube"
         }
     ]
 }
