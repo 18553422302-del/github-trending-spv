@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "top_5_trending": [
         {
             "repo": "/ruvnet/ruflo",
             "description": "暂无描述",
-            "stars_today": "1,840 stars today",
+            "stars_today": "2,598 stars today",
             "url": "https://github.com/ruvnet/ruflo"
         },
         {
             "repo": "/TauricResearch/TradingAgents",
             "description": "暂无描述",
-            "stars_today": "3,313 stars today",
+            "stars_today": "2,182 stars today",
             "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+            "repo": "/browserbase/skills",
+            "description": "暂无描述",
+            "stars_today": "320 stars today",
+            "url": "https://github.com/browserbase/skills"
+        },
+        {
+            "repo": "/Hmbown/DeepSeek-TUI",
+            "description": "暂无描述",
+            "stars_today": "1,274 stars today",
+            "url": "https://github.com/Hmbown/DeepSeek-TUI"
         },
         {
             "repo": "/soxoj/maigret",
             "description": "暂无描述",
             "stars_today": "1,119 stars today",
             "url": "https://github.com/soxoj/maigret"
-        },
-        {
-            "repo": "/Hmbown/DeepSeek-TUI",
-            "description": "暂无描述",
-            "stars_today": "343 stars today",
-            "url": "https://github.com/Hmbown/DeepSeek-TUI"
-        },
-        {
-            "repo": "/AIDC-AI/Pixelle-Video",
-            "description": "暂无描述",
-            "stars_today": "497 stars today",
-            "url": "https://github.com/AIDC-AI/Pixelle-Video"
         }
     ]
 }
