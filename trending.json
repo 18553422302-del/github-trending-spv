@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-05",
+    "date": "2026-05-06",
     "top_5_trending": [
-        {
-            "repo": "/ruvnet/ruflo",
-            "description": "暂无描述",
-            "stars_today": "2,598 stars today",
-            "url": "https://github.com/ruvnet/ruflo"
-        },
-        {
-            "repo": "/TauricResearch/TradingAgents",
-            "description": "暂无描述",
-            "stars_today": "2,182 stars today",
-            "url": "https://github.com/TauricResearch/TradingAgents"
-        },
-        {
-            "repo": "/browserbase/skills",
-            "description": "暂无描述",
-            "stars_today": "320 stars today",
-            "url": "https://github.com/browserbase/skills"
-        },
         {
             "repo": "/Hmbown/DeepSeek-TUI",
             "description": "暂无描述",
-            "stars_today": "1,274 stars today",
+            "stars_today": "2,434 stars today",
             "url": "https://github.com/Hmbown/DeepSeek-TUI"
         },
         {
-            "repo": "/soxoj/maigret",
+            "repo": "/ruvnet/ruflo",
             "description": "暂无描述",
-            "stars_today": "1,119 stars today",
-            "url": "https://github.com/soxoj/maigret"
+            "stars_today": "2,432 stars today",
+            "url": "https://github.com/ruvnet/ruflo"
+        },
+        {
+            "repo": "/virattt/dexter",
+            "description": "暂无描述",
+            "stars_today": "659 stars today",
+            "url": "https://github.com/virattt/dexter"
+        },
+        {
+            "repo": "/docusealco/docuseal",
+            "description": "暂无描述",
+            "stars_today": "927 stars today",
+            "url": "https://github.com/docusealco/docuseal"
+        },
+        {
+            "repo": "/bwya77/vscode-dark-islands",
+            "description": "暂无描述",
+            "stars_today": "321 stars today",
+            "url": "https://github.com/bwya77/vscode-dark-islands"
         }
     ]
 }
