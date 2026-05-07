@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-06",
+    "date": "2026-05-07",
     "top_5_trending": [
         {
             "repo": "/Hmbown/DeepSeek-TUI",
             "description": "暂无描述",
-            "stars_today": "2,434 stars today",
+            "stars_today": "6,175 stars today",
             "url": "https://github.com/Hmbown/DeepSeek-TUI"
         },
         {
-            "repo": "/ruvnet/ruflo",
+            "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "2,432 stars today",
-            "url": "https://github.com/ruvnet/ruflo"
+            "stars_today": "800 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/virattt/dexter",
+            "repo": "/PriorLabs/TabPFN",
             "description": "暂无描述",
-            "stars_today": "659 stars today",
-            "url": "https://github.com/virattt/dexter"
+            "stars_today": "218 stars today",
+            "url": "https://github.com/PriorLabs/TabPFN"
         },
         {
             "repo": "/docusealco/docuseal",
             "description": "暂无描述",
-            "stars_today": "927 stars today",
+            "stars_today": "774 stars today",
             "url": "https://github.com/docusealco/docuseal"
         },
         {
-            "repo": "/bwya77/vscode-dark-islands",
+            "repo": "/LearningCircuit/local-deep-research",
             "description": "暂无描述",
-            "stars_today": "321 stars today",
-            "url": "https://github.com/bwya77/vscode-dark-islands"
+            "stars_today": "532 stars today",
+            "url": "https://github.com/LearningCircuit/local-deep-research"
         }
     ]
 }
