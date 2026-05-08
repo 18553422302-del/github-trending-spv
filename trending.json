@@ -1,34 +1,34 @@
 {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "top_5_trending": [
+        {
+            "repo": "/anthropics/financial-services",
+            "description": "暂无描述",
+            "stars_today": "1,343 stars today",
+            "url": "https://github.com/anthropics/financial-services"
+        },
         {
             "repo": "/Hmbown/DeepSeek-TUI",
             "description": "暂无描述",
-            "stars_today": "6,175 stars today",
+            "stars_today": "5,799 stars today",
             "url": "https://github.com/Hmbown/DeepSeek-TUI"
         },
         {
-            "repo": "/addyosmani/agent-skills",
+            "repo": "/z-lab/dflash",
             "description": "暂无描述",
-            "stars_today": "800 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
+            "stars_today": "671 stars today",
+            "url": "https://github.com/z-lab/dflash"
         },
         {
-            "repo": "/PriorLabs/TabPFN",
+            "repo": "/InsForge/InsForge",
             "description": "暂无描述",
-            "stars_today": "218 stars today",
-            "url": "https://github.com/PriorLabs/TabPFN"
-        },
-        {
-            "repo": "/docusealco/docuseal",
-            "description": "暂无描述",
-            "stars_today": "774 stars today",
-            "url": "https://github.com/docusealco/docuseal"
+            "stars_today": "460 stars today",
+            "url": "https://github.com/InsForge/InsForge"
         },
         {
             "repo": "/LearningCircuit/local-deep-research",
             "description": "暂无描述",
-            "stars_today": "532 stars today",
+            "stars_today": "559 stars today",
             "url": "https://github.com/LearningCircuit/local-deep-research"
         }
     ]
