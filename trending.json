@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-09",
+    "date": "2026-05-10",
     "top_5_trending": [
         {
             "repo": "/anthropics/financial-services",
             "description": "暂无描述",
-            "stars_today": "3,660 stars today",
+            "stars_today": "3,281 stars today",
             "url": "https://github.com/anthropics/financial-services"
         },
         {
-            "repo": "/addyosmani/agent-skills",
+            "repo": "/bytedance/UI-TARS-desktop",
             "description": "暂无描述",
-            "stars_today": "1,893 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
+            "stars_today": "552 stars today",
+            "url": "https://github.com/bytedance/UI-TARS-desktop"
         },
         {
-            "repo": "/Hmbown/DeepSeek-TUI",
+            "repo": "/rohitg00/agentmemory",
             "description": "暂无描述",
-            "stars_today": "3,731 stars today",
-            "url": "https://github.com/Hmbown/DeepSeek-TUI"
+            "stars_today": "533 stars today",
+            "url": "https://github.com/rohitg00/agentmemory"
         },
         {
-            "repo": "/z-lab/dflash",
+            "repo": "/datawhalechina/hello-agents",
             "description": "暂无描述",
-            "stars_today": "379 stars today",
-            "url": "https://github.com/z-lab/dflash"
+            "stars_today": "1,197 stars today",
+            "url": "https://github.com/datawhalechina/hello-agents"
         },
         {
-            "repo": "/decolua/9router",
+            "repo": "/datawhalechina/easy-vibe",
             "description": "暂无描述",
-            "stars_today": "1,052 stars today",
-            "url": "https://github.com/decolua/9router"
+            "stars_today": "294 stars today",
+            "url": "https://github.com/datawhalechina/easy-vibe"
         }
     ]
 }
