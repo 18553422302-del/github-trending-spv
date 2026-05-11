@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-10",
+    "date": "2026-05-11",
     "top_5_trending": [
-        {
-            "repo": "/anthropics/financial-services",
-            "description": "暂无描述",
-            "stars_today": "3,281 stars today",
-            "url": "https://github.com/anthropics/financial-services"
-        },
         {
             "repo": "/bytedance/UI-TARS-desktop",
             "description": "暂无描述",
-            "stars_today": "552 stars today",
+            "stars_today": "669 stars today",
             "url": "https://github.com/bytedance/UI-TARS-desktop"
         },
         {
-            "repo": "/rohitg00/agentmemory",
+            "repo": "/anthropics/financial-services",
             "description": "暂无描述",
-            "stars_today": "533 stars today",
-            "url": "https://github.com/rohitg00/agentmemory"
+            "stars_today": "1,449 stars today",
+            "url": "https://github.com/anthropics/financial-services"
         },
         {
-            "repo": "/datawhalechina/hello-agents",
+            "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "1,197 stars today",
-            "url": "https://github.com/datawhalechina/hello-agents"
+            "stars_today": "1,065 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/datawhalechina/easy-vibe",
+            "repo": "/CloakHQ/CloakBrowser",
             "description": "暂无描述",
-            "stars_today": "294 stars today",
-            "url": "https://github.com/datawhalechina/easy-vibe"
+            "stars_today": "496 stars today",
+            "url": "https://github.com/CloakHQ/CloakBrowser"
+        },
+        {
+            "repo": "/HKUDS/AI-Trader",
+            "description": "暂无描述",
+            "stars_today": "163 stars today",
+            "url": "https://github.com/HKUDS/AI-Trader"
         }
     ]
 }
