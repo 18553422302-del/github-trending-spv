@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-11",
+    "date": "2026-05-12",
     "top_5_trending": [
         {
             "repo": "/bytedance/UI-TARS-desktop",
             "description": "暂无描述",
-            "stars_today": "669 stars today",
+            "stars_today": "956 stars today",
             "url": "https://github.com/bytedance/UI-TARS-desktop"
-        },
-        {
-            "repo": "/anthropics/financial-services",
-            "description": "暂无描述",
-            "stars_today": "1,449 stars today",
-            "url": "https://github.com/anthropics/financial-services"
-        },
-        {
-            "repo": "/addyosmani/agent-skills",
-            "description": "暂无描述",
-            "stars_today": "1,065 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
         },
         {
             "repo": "/CloakHQ/CloakBrowser",
             "description": "暂无描述",
-            "stars_today": "496 stars today",
+            "stars_today": "1,320 stars today",
             "url": "https://github.com/CloakHQ/CloakBrowser"
         },
         {
-            "repo": "/HKUDS/AI-Trader",
+            "repo": "/yikart/AiToEarn",
             "description": "暂无描述",
-            "stars_today": "163 stars today",
-            "url": "https://github.com/HKUDS/AI-Trader"
+            "stars_today": "427 stars today",
+            "url": "https://github.com/yikart/AiToEarn"
+        },
+        {
+            "repo": "/playcanvas/supersplat",
+            "description": "暂无描述",
+            "stars_today": "531 stars today",
+            "url": "https://github.com/playcanvas/supersplat"
+        },
+        {
+            "repo": "/datawhalechina/easy-vibe",
+            "description": "暂无描述",
+            "stars_today": "812 stars today",
+            "url": "https://github.com/datawhalechina/easy-vibe"
         }
     ]
 }
