@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-12",
+    "date": "2026-05-13",
     "top_5_trending": [
         {
-            "repo": "/bytedance/UI-TARS-desktop",
+            "repo": "/tinyhumansai/openhuman",
             "description": "暂无描述",
-            "stars_today": "956 stars today",
-            "url": "https://github.com/bytedance/UI-TARS-desktop"
+            "stars_today": "1,014 stars today",
+            "url": "https://github.com/tinyhumansai/openhuman"
+        },
+        {
+            "repo": "/rohitg00/agentmemory",
+            "description": "暂无描述",
+            "stars_today": "1,048 stars today",
+            "url": "https://github.com/rohitg00/agentmemory"
         },
         {
             "repo": "/CloakHQ/CloakBrowser",
             "description": "暂无描述",
-            "stars_today": "1,320 stars today",
+            "stars_today": "1,606 stars today",
             "url": "https://github.com/CloakHQ/CloakBrowser"
         },
         {
-            "repo": "/yikart/AiToEarn",
+            "repo": "/apernet/hysteria",
             "description": "暂无描述",
-            "stars_today": "427 stars today",
-            "url": "https://github.com/yikart/AiToEarn"
+            "stars_today": "51 stars today",
+            "url": "https://github.com/apernet/hysteria"
         },
         {
-            "repo": "/playcanvas/supersplat",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "531 stars today",
-            "url": "https://github.com/playcanvas/supersplat"
-        },
-        {
-            "repo": "/datawhalechina/easy-vibe",
-            "description": "暂无描述",
-            "stars_today": "812 stars today",
-            "url": "https://github.com/datawhalechina/easy-vibe"
+            "stars_today": "3,867 stars today",
+            "url": "https://github.com/mattpocock/skills"
         }
     ]
 }
