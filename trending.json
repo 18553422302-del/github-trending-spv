@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-13",
+    "date": "2026-05-14",
     "top_5_trending": [
         {
             "repo": "/tinyhumansai/openhuman",
             "description": "暂无描述",
-            "stars_today": "1,014 stars today",
+            "stars_today": "1,696 stars today",
             "url": "https://github.com/tinyhumansai/openhuman"
         },
         {
             "repo": "/rohitg00/agentmemory",
             "description": "暂无描述",
-            "stars_today": "1,048 stars today",
+            "stars_today": "1,379 stars today",
             "url": "https://github.com/rohitg00/agentmemory"
         },
         {
-            "repo": "/CloakHQ/CloakBrowser",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,606 stars today",
-            "url": "https://github.com/CloakHQ/CloakBrowser"
+            "stars_today": "1,401 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/apernet/hysteria",
+            "repo": "/yikart/AiToEarn",
             "description": "暂无描述",
-            "stars_today": "51 stars today",
-            "url": "https://github.com/apernet/hysteria"
+            "stars_today": "981 stars today",
+            "url": "https://github.com/yikart/AiToEarn"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/influxdata/telegraf",
             "description": "暂无描述",
-            "stars_today": "3,867 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "13 stars today",
+            "url": "https://github.com/influxdata/telegraf"
         }
     ]
 }
