@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "top_5_trending": [
+        {
+            "repo": "/ruvnet/RuView",
+            "description": "暂无描述",
+            "stars_today": "1,715 stars today",
+            "url": "https://github.com/ruvnet/RuView"
+        },
         {
             "repo": "/tinyhumansai/openhuman",
             "description": "暂无描述",
-            "stars_today": "1,696 stars today",
+            "stars_today": "3,329 stars today",
             "url": "https://github.com/tinyhumansai/openhuman"
         },
         {
             "repo": "/rohitg00/agentmemory",
             "description": "暂无描述",
-            "stars_today": "1,379 stars today",
+            "stars_today": "1,879 stars today",
             "url": "https://github.com/rohitg00/agentmemory"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,401 stars today",
+            "stars_today": "1,780 stars today",
             "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/yikart/AiToEarn",
+            "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "981 stars today",
-            "url": "https://github.com/yikart/AiToEarn"
-        },
-        {
-            "repo": "/influxdata/telegraf",
-            "description": "暂无描述",
-            "stars_today": "13 stars today",
-            "url": "https://github.com/influxdata/telegraf"
+            "stars_today": "654 stars today",
+            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
         }
     ]
 }
