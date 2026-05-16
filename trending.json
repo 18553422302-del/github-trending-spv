@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-15",
+    "date": "2026-05-16",
     "top_5_trending": [
-        {
-            "repo": "/ruvnet/RuView",
-            "description": "暂无描述",
-            "stars_today": "1,715 stars today",
-            "url": "https://github.com/ruvnet/RuView"
-        },
         {
             "repo": "/tinyhumansai/openhuman",
             "description": "暂无描述",
-            "stars_today": "3,329 stars today",
+            "stars_today": "1,271 stars today",
             "url": "https://github.com/tinyhumansai/openhuman"
-        },
-        {
-            "repo": "/rohitg00/agentmemory",
-            "description": "暂无描述",
-            "stars_today": "1,879 stars today",
-            "url": "https://github.com/rohitg00/agentmemory"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,780 stars today",
+            "stars_today": "1,648 stars today",
             "url": "https://github.com/obra/superpowers"
         },
         {
             "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "654 stars today",
+            "stars_today": "646 stars today",
             "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+        },
+        {
+            "repo": "/supertone-inc/supertonic",
+            "description": "暂无描述",
+            "stars_today": "719 stars today",
+            "url": "https://github.com/supertone-inc/supertonic"
+        },
+        {
+            "repo": "/ruvnet/RuView",
+            "description": "暂无描述",
+            "stars_today": "1,859 stars today",
+            "url": "https://github.com/ruvnet/RuView"
         }
     ]
 }
