@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "top_5_trending": [
         {
-            "repo": "/tinyhumansai/openhuman",
+            "repo": "/oven-sh/bun",
             "description": "暂无描述",
-            "stars_today": "1,271 stars today",
-            "url": "https://github.com/tinyhumansai/openhuman"
-        },
-        {
-            "repo": "/obra/superpowers",
-            "description": "暂无描述",
-            "stars_today": "1,648 stars today",
-            "url": "https://github.com/obra/superpowers"
+            "stars_today": "397 stars today",
+            "url": "https://github.com/oven-sh/bun"
         },
         {
             "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "646 stars today",
+            "stars_today": "673 stars today",
             "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+        },
+        {
+            "repo": "/obra/superpowers",
+            "description": "暂无描述",
+            "stars_today": "1,305 stars today",
+            "url": "https://github.com/obra/superpowers"
+        },
+        {
+            "repo": "/Anil-matcha/Open-Generative-AI",
+            "description": "暂无描述",
+            "stars_today": "317 stars today",
+            "url": "https://github.com/Anil-matcha/Open-Generative-AI"
         },
         {
             "repo": "/supertone-inc/supertonic",
             "description": "暂无描述",
-            "stars_today": "719 stars today",
+            "stars_today": "749 stars today",
             "url": "https://github.com/supertone-inc/supertonic"
-        },
-        {
-            "repo": "/ruvnet/RuView",
-            "description": "暂无描述",
-            "stars_today": "1,859 stars today",
-            "url": "https://github.com/ruvnet/RuView"
         }
     ]
 }
