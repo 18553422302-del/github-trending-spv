@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-17",
+    "date": "2026-05-18",
     "top_5_trending": [
+        {
+            "repo": "/tinyhumansai/openhuman",
+            "description": "暂无描述",
+            "stars_today": "1,690 stars today",
+            "url": "https://github.com/tinyhumansai/openhuman"
+        },
+        {
+            "repo": "/HKUDS/CLI-Anything",
+            "description": "暂无描述",
+            "stars_today": "238 stars today",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+        },
+        {
+            "repo": "/calcom/cal.diy",
+            "description": "暂无描述",
+            "stars_today": "433 stars today",
+            "url": "https://github.com/calcom/cal.diy"
+        },
         {
             "repo": "/oven-sh/bun",
             "description": "暂无描述",
-            "stars_today": "397 stars today",
+            "stars_today": "910 stars today",
             "url": "https://github.com/oven-sh/bun"
-        },
-        {
-            "repo": "/K-Dense-AI/scientific-agent-skills",
-            "description": "暂无描述",
-            "stars_today": "673 stars today",
-            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-        },
-        {
-            "repo": "/obra/superpowers",
-            "description": "暂无描述",
-            "stars_today": "1,305 stars today",
-            "url": "https://github.com/obra/superpowers"
         },
         {
             "repo": "/Anil-matcha/Open-Generative-AI",
             "description": "暂无描述",
-            "stars_today": "317 stars today",
+            "stars_today": "703 stars today",
             "url": "https://github.com/Anil-matcha/Open-Generative-AI"
-        },
-        {
-            "repo": "/supertone-inc/supertonic",
-            "description": "暂无描述",
-            "stars_today": "749 stars today",
-            "url": "https://github.com/supertone-inc/supertonic"
         }
     ]
 }
