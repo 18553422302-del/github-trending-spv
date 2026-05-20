@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-19",
+    "date": "2026-05-20",
     "top_5_trending": [
         {
             "repo": "/tinyhumansai/openhuman",
             "description": "暂无描述",
-            "stars_today": "3,941 stars today",
+            "stars_today": "3,973 stars today",
             "url": "https://github.com/tinyhumansai/openhuman"
-        },
-        {
-            "repo": "/Imbad0202/academic-research-skills",
-            "description": "暂无描述",
-            "stars_today": "1,439 stars today",
-            "url": "https://github.com/Imbad0202/academic-research-skills"
         },
         {
             "repo": "/HKUDS/CLI-Anything",
             "description": "暂无描述",
-            "stars_today": "1,049 stars today",
+            "stars_today": "1,038 stars today",
             "url": "https://github.com/HKUDS/CLI-Anything"
         },
         {
-            "repo": "/K-Dense-AI/scientific-agent-skills",
+            "repo": "/Imbad0202/academic-research-skills",
             "description": "暂无描述",
-            "stars_today": "609 stars today",
-            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+            "stars_today": "3,164 stars today",
+            "url": "https://github.com/Imbad0202/academic-research-skills"
         },
         {
-            "repo": "/supertone-inc/supertonic",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "715 stars today",
-            "url": "https://github.com/supertone-inc/supertonic"
+            "stars_today": "1,623 stars today",
+            "url": "https://github.com/obra/superpowers"
+        },
+        {
+            "repo": "/anthropics/claude-plugins-official",
+            "description": "暂无描述",
+            "stars_today": "171 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-official"
         }
     ]
 }
