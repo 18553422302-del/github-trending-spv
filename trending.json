@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "top_5_trending": [
         {
-            "repo": "/tinyhumansai/openhuman",
+            "repo": "/colbymchenry/codegraph",
             "description": "暂无描述",
-            "stars_today": "3,973 stars today",
-            "url": "https://github.com/tinyhumansai/openhuman"
-        },
-        {
-            "repo": "/HKUDS/CLI-Anything",
-            "description": "暂无描述",
-            "stars_today": "1,038 stars today",
-            "url": "https://github.com/HKUDS/CLI-Anything"
+            "stars_today": "2,123 stars today",
+            "url": "https://github.com/colbymchenry/codegraph"
         },
         {
             "repo": "/Imbad0202/academic-research-skills",
             "description": "暂无描述",
-            "stars_today": "3,164 stars today",
+            "stars_today": "1,667 stars today",
             "url": "https://github.com/Imbad0202/academic-research-skills"
         },
         {
-            "repo": "/obra/superpowers",
+            "repo": "/tinyhumansai/openhuman",
             "description": "暂无描述",
-            "stars_today": "1,623 stars today",
-            "url": "https://github.com/obra/superpowers"
+            "stars_today": "3,394 stars today",
+            "url": "https://github.com/tinyhumansai/openhuman"
         },
         {
-            "repo": "/anthropics/claude-plugins-official",
+            "repo": "/multica-ai/andrej-karpathy-skills",
             "description": "暂无描述",
-            "stars_today": "171 stars today",
-            "url": "https://github.com/anthropics/claude-plugins-official"
+            "stars_today": "2,679 stars today",
+            "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+        },
+        {
+            "repo": "/rohitg00/ai-engineering-from-scratch",
+            "description": "暂无描述",
+            "stars_today": "765 stars today",
+            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
         }
     ]
 }
