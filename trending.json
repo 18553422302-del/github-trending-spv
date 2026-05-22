@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-21",
+    "date": "2026-05-22",
     "top_5_trending": [
+        {
+            "repo": "/anthropics/claude-plugins-official",
+            "description": "暂无描述",
+            "stars_today": "682 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-official"
+        },
         {
             "repo": "/colbymchenry/codegraph",
             "description": "暂无描述",
-            "stars_today": "2,123 stars today",
+            "stars_today": "4,294 stars today",
             "url": "https://github.com/colbymchenry/codegraph"
-        },
-        {
-            "repo": "/Imbad0202/academic-research-skills",
-            "description": "暂无描述",
-            "stars_today": "1,667 stars today",
-            "url": "https://github.com/Imbad0202/academic-research-skills"
-        },
-        {
-            "repo": "/tinyhumansai/openhuman",
-            "description": "暂无描述",
-            "stars_today": "3,394 stars today",
-            "url": "https://github.com/tinyhumansai/openhuman"
         },
         {
             "repo": "/multica-ai/andrej-karpathy-skills",
             "description": "暂无描述",
-            "stars_today": "2,679 stars today",
+            "stars_today": "2,614 stars today",
             "url": "https://github.com/multica-ai/andrej-karpathy-skills"
         },
         {
-            "repo": "/rohitg00/ai-engineering-from-scratch",
+            "repo": "/dotnet/skills",
             "description": "暂无描述",
-            "stars_today": "765 stars today",
-            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+            "stars_today": "129 stars today",
+            "url": "https://github.com/dotnet/skills"
+        },
+        {
+            "repo": "/obra/superpowers",
+            "description": "暂无描述",
+            "stars_today": "1,576 stars today",
+            "url": "https://github.com/obra/superpowers"
         }
     ]
 }
