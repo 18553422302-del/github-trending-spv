@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-22",
+    "date": "2026-05-23",
     "top_5_trending": [
         {
             "repo": "/anthropics/claude-plugins-official",
             "description": "暂无描述",
-            "stars_today": "682 stars today",
+            "stars_today": "2,549 stars today",
             "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
             "repo": "/colbymchenry/codegraph",
             "description": "暂无描述",
-            "stars_today": "4,294 stars today",
+            "stars_today": "3,684 stars today",
             "url": "https://github.com/colbymchenry/codegraph"
         },
         {
-            "repo": "/multica-ai/andrej-karpathy-skills",
+            "repo": "/ruvnet/RuView",
             "description": "暂无描述",
-            "stars_today": "2,614 stars today",
-            "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+            "stars_today": "978 stars today",
+            "url": "https://github.com/ruvnet/RuView"
         },
         {
-            "repo": "/dotnet/skills",
+            "repo": "/rohitg00/ai-engineering-from-scratch",
             "description": "暂无描述",
-            "stars_today": "129 stars today",
-            "url": "https://github.com/dotnet/skills"
+            "stars_today": "988 stars today",
+            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
         },
         {
-            "repo": "/obra/superpowers",
+            "repo": "/ChromeDevTools/chrome-devtools-mcp",
             "description": "暂无描述",
-            "stars_today": "1,576 stars today",
-            "url": "https://github.com/obra/superpowers"
+            "stars_today": "501 stars today",
+            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
         }
     ]
 }
