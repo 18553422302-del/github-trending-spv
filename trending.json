@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-23",
+    "date": "2026-05-24",
     "top_5_trending": [
+        {
+            "repo": "/Lum1104/Understand-Anything",
+            "description": "暂无描述",
+            "stars_today": "2,299 stars today",
+            "url": "https://github.com/Lum1104/Understand-Anything"
+        },
         {
             "repo": "/anthropics/claude-plugins-official",
             "description": "暂无描述",
-            "stars_today": "2,549 stars today",
+            "stars_today": "2,193 stars today",
             "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
             "repo": "/colbymchenry/codegraph",
             "description": "暂无描述",
-            "stars_today": "3,684 stars today",
+            "stars_today": "2,456 stars today",
             "url": "https://github.com/colbymchenry/codegraph"
-        },
-        {
-            "repo": "/ruvnet/RuView",
-            "description": "暂无描述",
-            "stars_today": "978 stars today",
-            "url": "https://github.com/ruvnet/RuView"
         },
         {
             "repo": "/rohitg00/ai-engineering-from-scratch",
             "description": "暂无描述",
-            "stars_today": "988 stars today",
+            "stars_today": "1,521 stars today",
             "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
         },
         {
-            "repo": "/ChromeDevTools/chrome-devtools-mcp",
+            "repo": "/Fincept-Corporation/FinceptTerminal",
             "description": "暂无描述",
-            "stars_today": "501 stars today",
-            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+            "stars_today": "545 stars today",
+            "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
         }
     ]
 }
