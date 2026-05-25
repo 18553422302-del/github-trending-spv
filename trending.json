@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-24",
+    "date": "2026-05-25",
     "top_5_trending": [
         {
             "repo": "/Lum1104/Understand-Anything",
             "description": "暂无描述",
-            "stars_today": "2,299 stars today",
+            "stars_today": "3,999 stars today",
             "url": "https://github.com/Lum1104/Understand-Anything"
-        },
-        {
-            "repo": "/anthropics/claude-plugins-official",
-            "description": "暂无描述",
-            "stars_today": "2,193 stars today",
-            "url": "https://github.com/anthropics/claude-plugins-official"
-        },
-        {
-            "repo": "/colbymchenry/codegraph",
-            "description": "暂无描述",
-            "stars_today": "2,456 stars today",
-            "url": "https://github.com/colbymchenry/codegraph"
         },
         {
             "repo": "/rohitg00/ai-engineering-from-scratch",
             "description": "暂无描述",
-            "stars_today": "1,521 stars today",
+            "stars_today": "1,853 stars today",
             "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
         },
         {
-            "repo": "/Fincept-Corporation/FinceptTerminal",
+            "repo": "/anthropics/claude-plugins-official",
             "description": "暂无描述",
-            "stars_today": "545 stars today",
-            "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+            "stars_today": "1,173 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-official"
+        },
+        {
+            "repo": "/anthropics/knowledge-work-plugins",
+            "description": "暂无描述",
+            "stars_today": "550 stars today",
+            "url": "https://github.com/anthropics/knowledge-work-plugins"
+        },
+        {
+            "repo": "/multica-ai/andrej-karpathy-skills",
+            "description": "暂无描述",
+            "stars_today": "2,551 stars today",
+            "url": "https://github.com/multica-ai/andrej-karpathy-skills"
         }
     ]
 }
