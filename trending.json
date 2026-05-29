@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "top_5_trending": [
         {
             "repo": "/harry0703/MoneyPrinterTurbo",
             "description": "暂无描述",
-            "stars_today": "1,742 stars today",
+            "stars_today": "4,698 stars today",
             "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-        },
-        {
-            "repo": "/Lum1104/Understand-Anything",
-            "description": "暂无描述",
-            "stars_today": "4,465 stars today",
-            "url": "https://github.com/Lum1104/Understand-Anything"
-        },
-        {
-            "repo": "/hardikpandya/stop-slop",
-            "description": "暂无描述",
-            "stars_today": "664 stars today",
-            "url": "https://github.com/hardikpandya/stop-slop"
         },
         {
             "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "2,062 stars today",
+            "stars_today": "1,385 stars today",
             "url": "https://github.com/affaan-m/ECC"
         },
         {
-            "repo": "/anthropics/knowledge-work-plugins",
+            "repo": "/Leonxlnx/taste-skill",
             "description": "暂无描述",
-            "stars_today": "695 stars today",
-            "url": "https://github.com/anthropics/knowledge-work-plugins"
+            "stars_today": "2,234 stars today",
+            "url": "https://github.com/Leonxlnx/taste-skill"
+        },
+        {
+            "repo": "/hardikpandya/stop-slop",
+            "description": "暂无描述",
+            "stars_today": "761 stars today",
+            "url": "https://github.com/hardikpandya/stop-slop"
+        },
+        {
+            "repo": "/twentyhq/twenty",
+            "description": "暂无描述",
+            "stars_today": "493 stars today",
+            "url": "https://github.com/twentyhq/twenty"
         }
     ]
 }
