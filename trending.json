@@ -1,35 +1,35 @@
 {
-    "date": "2026-05-30",
+    "date": "2026-05-31",
     "top_5_trending": [
-        {
-            "repo": "/harry0703/MoneyPrinterTurbo",
-            "description": "暂无描述",
-            "stars_today": "3,567 stars today",
-            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-        },
         {
             "repo": "/microsoft/markitdown",
             "description": "暂无描述",
-            "stars_today": "1,873 stars today",
+            "stars_today": "2,470 stars today",
             "url": "https://github.com/microsoft/markitdown"
         },
         {
-            "repo": "/EveryInc/compound-engineering-plugin",
+            "repo": "/harry0703/MoneyPrinterTurbo",
             "description": "暂无描述",
-            "stars_today": "353 stars today",
-            "url": "https://github.com/EveryInc/compound-engineering-plugin"
-        },
-        {
-            "repo": "/twentyhq/twenty",
-            "description": "暂无描述",
-            "stars_today": "578 stars today",
-            "url": "https://github.com/twentyhq/twenty"
+            "stars_today": "2,768 stars today",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
         },
         {
             "repo": "/anthropics/claude-code",
             "description": "暂无描述",
-            "stars_today": "395 stars today",
+            "stars_today": "592 stars today",
             "url": "https://github.com/anthropics/claude-code"
+        },
+        {
+            "repo": "/cursor/plugins",
+            "description": "暂无描述",
+            "stars_today": "205 stars today",
+            "url": "https://github.com/cursor/plugins"
+        },
+        {
+            "repo": "/revfactory/harness",
+            "description": "暂无描述",
+            "stars_today": "55 stars today",
+            "url": "https://github.com/revfactory/harness"
         }
     ]
 }
