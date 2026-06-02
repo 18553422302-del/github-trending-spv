@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-01",
+    "date": "2026-06-02",
     "top_5_trending": [
-        {
-            "repo": "/harry0703/MoneyPrinterTurbo",
-            "description": "暂无描述",
-            "stars_today": "1,937 stars today",
-            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-        },
         {
             "repo": "/microsoft/markitdown",
             "description": "暂无描述",
-            "stars_today": "2,798 stars today",
+            "stars_today": "3,034 stars today",
             "url": "https://github.com/microsoft/markitdown"
-        },
-        {
-            "repo": "/D4Vinci/Scrapling",
-            "description": "暂无描述",
-            "stars_today": "606 stars today",
-            "url": "https://github.com/D4Vinci/Scrapling"
         },
         {
             "repo": "/nesquena/hermes-webui",
             "description": "暂无描述",
-            "stars_today": "357 stars today",
+            "stars_today": "945 stars today",
             "url": "https://github.com/nesquena/hermes-webui"
         },
         {
-            "repo": "/EveryInc/compound-engineering-plugin",
+            "repo": "/supermemoryai/supermemory",
             "description": "暂无描述",
-            "stars_today": "251 stars today",
-            "url": "https://github.com/EveryInc/compound-engineering-plugin"
+            "stars_today": "647 stars today",
+            "url": "https://github.com/supermemoryai/supermemory"
+        },
+        {
+            "repo": "/harry0703/MoneyPrinterTurbo",
+            "description": "暂无描述",
+            "stars_today": "3,375 stars today",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+        },
+        {
+            "repo": "/D4Vinci/Scrapling",
+            "description": "暂无描述",
+            "stars_today": "1,486 stars today",
+            "url": "https://github.com/D4Vinci/Scrapling"
         }
     ]
 }
