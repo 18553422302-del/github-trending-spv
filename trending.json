@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "top_5_trending": [
+        {
+            "repo": "/chopratejas/headroom",
+            "description": "暂无描述",
+            "stars_today": "1,265 stars today",
+            "url": "https://github.com/chopratejas/headroom"
+        },
         {
             "repo": "/microsoft/markitdown",
             "description": "暂无描述",
-            "stars_today": "3,034 stars today",
+            "stars_today": "3,618 stars today",
             "url": "https://github.com/microsoft/markitdown"
         },
         {
-            "repo": "/nesquena/hermes-webui",
+            "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "945 stars today",
-            "url": "https://github.com/nesquena/hermes-webui"
-        },
-        {
-            "repo": "/supermemoryai/supermemory",
-            "description": "暂无描述",
-            "stars_today": "647 stars today",
-            "url": "https://github.com/supermemoryai/supermemory"
-        },
-        {
-            "repo": "/harry0703/MoneyPrinterTurbo",
-            "description": "暂无描述",
-            "stars_today": "3,375 stars today",
-            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+            "stars_today": "1,533 stars today",
+            "url": "https://github.com/affaan-m/ECC"
         },
         {
             "repo": "/D4Vinci/Scrapling",
             "description": "暂无描述",
-            "stars_today": "1,486 stars today",
+            "stars_today": "1,182 stars today",
             "url": "https://github.com/D4Vinci/Scrapling"
+        },
+        {
+            "repo": "/nesquena/hermes-webui",
+            "description": "暂无描述",
+            "stars_today": "1,722 stars today",
+            "url": "https://github.com/nesquena/hermes-webui"
         }
     ]
 }
