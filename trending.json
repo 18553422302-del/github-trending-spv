@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-03",
+    "date": "2026-06-04",
     "top_5_trending": [
         {
             "repo": "/chopratejas/headroom",
             "description": "暂无描述",
-            "stars_today": "1,265 stars today",
+            "stars_today": "3,530 stars today",
             "url": "https://github.com/chopratejas/headroom"
-        },
-        {
-            "repo": "/microsoft/markitdown",
-            "description": "暂无描述",
-            "stars_today": "3,618 stars today",
-            "url": "https://github.com/microsoft/markitdown"
         },
         {
             "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "1,533 stars today",
+            "stars_today": "2,141 stars today",
             "url": "https://github.com/affaan-m/ECC"
         },
         {
-            "repo": "/D4Vinci/Scrapling",
+            "repo": "/aquasecurity/trivy",
             "description": "暂无描述",
-            "stars_today": "1,182 stars today",
-            "url": "https://github.com/D4Vinci/Scrapling"
+            "stars_today": "24 stars today",
+            "url": "https://github.com/aquasecurity/trivy"
         },
         {
-            "repo": "/nesquena/hermes-webui",
+            "repo": "/NousResearch/hermes-agent",
             "description": "暂无描述",
-            "stars_today": "1,722 stars today",
-            "url": "https://github.com/nesquena/hermes-webui"
+            "stars_today": "1,735 stars today",
+            "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+            "repo": "/microsoft/markitdown",
+            "description": "暂无描述",
+            "stars_today": "1,984 stars today",
+            "url": "https://github.com/microsoft/markitdown"
         }
     ]
 }
