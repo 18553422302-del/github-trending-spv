@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-04",
+    "date": "2026-06-05",
     "top_5_trending": [
         {
             "repo": "/chopratejas/headroom",
             "description": "暂无描述",
-            "stars_today": "3,530 stars today",
+            "stars_today": "3,142 stars today",
             "url": "https://github.com/chopratejas/headroom"
-        },
-        {
-            "repo": "/affaan-m/ECC",
-            "description": "暂无描述",
-            "stars_today": "2,141 stars today",
-            "url": "https://github.com/affaan-m/ECC"
-        },
-        {
-            "repo": "/aquasecurity/trivy",
-            "description": "暂无描述",
-            "stars_today": "24 stars today",
-            "url": "https://github.com/aquasecurity/trivy"
         },
         {
             "repo": "/NousResearch/hermes-agent",
             "description": "暂无描述",
-            "stars_today": "1,735 stars today",
+            "stars_today": "1,913 stars today",
             "url": "https://github.com/NousResearch/hermes-agent"
         },
         {
-            "repo": "/microsoft/markitdown",
+            "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "1,984 stars today",
-            "url": "https://github.com/microsoft/markitdown"
+            "stars_today": "1,750 stars today",
+            "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+            "repo": "/PaddlePaddle/PaddleOCR",
+            "description": "暂无描述",
+            "stars_today": "141 stars today",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR"
+        },
+        {
+            "repo": "/github/spec-kit",
+            "description": "暂无描述",
+            "stars_today": "321 stars today",
+            "url": "https://github.com/github/spec-kit"
         }
     ]
 }
