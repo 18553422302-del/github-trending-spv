@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "top_5_trending": [
         {
-            "repo": "/NousResearch/hermes-agent",
+            "repo": "/mvanhorn/last30days-skill",
             "description": "暂无描述",
-            "stars_today": "1,845 stars today",
-            "url": "https://github.com/NousResearch/hermes-agent"
-        },
-        {
-            "repo": "/chopratejas/headroom",
-            "description": "暂无描述",
-            "stars_today": "2,473 stars today",
-            "url": "https://github.com/chopratejas/headroom"
+            "stars_today": "439 stars today",
+            "url": "https://github.com/mvanhorn/last30days-skill"
         },
         {
             "repo": "/CopilotKit/CopilotKit",
             "description": "暂无描述",
-            "stars_today": "366 stars today",
+            "stars_today": "631 stars today",
             "url": "https://github.com/CopilotKit/CopilotKit"
         },
         {
-            "repo": "/lfnovo/open-notebook",
+            "repo": "/MemPalace/mempalace",
             "description": "暂无描述",
-            "stars_today": "1,152 stars today",
-            "url": "https://github.com/lfnovo/open-notebook"
+            "stars_today": "446 stars today",
+            "url": "https://github.com/MemPalace/mempalace"
         },
         {
-            "repo": "/affaan-m/ECC",
+            "repo": "/danielmiessler/Personal_AI_Infrastructure",
             "description": "暂无描述",
-            "stars_today": "1,361 stars today",
-            "url": "https://github.com/affaan-m/ECC"
+            "stars_today": "70 stars today",
+            "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+        },
+        {
+            "repo": "/openai/plugins",
+            "description": "暂无描述",
+            "stars_today": "213 stars today",
+            "url": "https://github.com/openai/plugins"
         }
     ]
 }
