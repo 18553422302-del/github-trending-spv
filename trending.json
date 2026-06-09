@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-08",
+    "date": "2026-06-09",
     "top_5_trending": [
         {
             "repo": "/mvanhorn/last30days-skill",
             "description": "暂无描述",
-            "stars_today": "1,111 stars today",
+            "stars_today": "3,558 stars today",
             "url": "https://github.com/mvanhorn/last30days-skill"
         },
         {
-            "repo": "/opencv/opencv",
+            "repo": "/RyanCodrai/turbovec",
             "description": "暂无描述",
-            "stars_today": "65 stars today",
-            "url": "https://github.com/opencv/opencv"
+            "stars_today": "1,729 stars today",
+            "url": "https://github.com/RyanCodrai/turbovec"
         },
         {
-            "repo": "/Leonxlnx/taste-skill",
+            "repo": "/google/skills",
             "description": "暂无描述",
-            "stars_today": "1,103 stars today",
-            "url": "https://github.com/Leonxlnx/taste-skill"
+            "stars_today": "461 stars today",
+            "url": "https://github.com/google/skills"
         },
         {
-            "repo": "/NousResearch/hermes-agent",
+            "repo": "/refactoringhq/tolaria",
             "description": "暂无描述",
-            "stars_today": "1,112 stars today",
-            "url": "https://github.com/NousResearch/hermes-agent"
+            "stars_today": "651 stars today",
+            "url": "https://github.com/refactoringhq/tolaria"
         },
         {
-            "repo": "/lfnovo/open-notebook",
+            "repo": "/Panniantong/Agent-Reach",
             "description": "暂无描述",
-            "stars_today": "554 stars today",
-            "url": "https://github.com/lfnovo/open-notebook"
+            "stars_today": "679 stars today",
+            "url": "https://github.com/Panniantong/Agent-Reach"
         }
     ]
 }
