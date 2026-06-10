@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "top_5_trending": [
         {
             "repo": "/mvanhorn/last30days-skill",
             "description": "暂无描述",
-            "stars_today": "3,558 stars today",
+            "stars_today": "3,191 stars today",
             "url": "https://github.com/mvanhorn/last30days-skill"
         },
         {
             "repo": "/RyanCodrai/turbovec",
             "description": "暂无描述",
-            "stars_today": "1,729 stars today",
+            "stars_today": "1,801 stars today",
             "url": "https://github.com/RyanCodrai/turbovec"
         },
         {
-            "repo": "/google/skills",
+            "repo": "/roboflow/supervision",
             "description": "暂无描述",
-            "stars_today": "461 stars today",
-            "url": "https://github.com/google/skills"
+            "stars_today": "733 stars today",
+            "url": "https://github.com/roboflow/supervision"
+        },
+        {
+            "repo": "/opencv/opencv",
+            "description": "暂无描述",
+            "stars_today": "102 stars today",
+            "url": "https://github.com/opencv/opencv"
         },
         {
             "repo": "/refactoringhq/tolaria",
             "description": "暂无描述",
-            "stars_today": "651 stars today",
+            "stars_today": "829 stars today",
             "url": "https://github.com/refactoringhq/tolaria"
-        },
-        {
-            "repo": "/Panniantong/Agent-Reach",
-            "description": "暂无描述",
-            "stars_today": "679 stars today",
-            "url": "https://github.com/Panniantong/Agent-Reach"
         }
     ]
 }
