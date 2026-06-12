@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-11",
+    "date": "2026-06-12",
     "top_5_trending": [
+        {
+            "repo": "/apple/container",
+            "description": "暂无描述",
+            "stars_today": "2,430 stars today",
+            "url": "https://github.com/apple/container"
+        },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "821 stars today",
+            "stars_today": "3,278 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
+        },
+        {
+            "repo": "/maziyarpanahi/openmed",
+            "description": "暂无描述",
+            "stars_today": "426 stars today",
+            "url": "https://github.com/maziyarpanahi/openmed"
         },
         {
             "repo": "/phuryn/pm-skills",
             "description": "暂无描述",
-            "stars_today": "804 stars today",
+            "stars_today": "1,978 stars today",
             "url": "https://github.com/phuryn/pm-skills"
         },
         {
-            "repo": "/refactoringhq/tolaria",
+            "repo": "/NVIDIA/SkillSpector",
             "description": "暂无描述",
-            "stars_today": "612 stars today",
-            "url": "https://github.com/refactoringhq/tolaria"
-        },
-        {
-            "repo": "/mvanhorn/last30days-skill",
-            "description": "暂无描述",
-            "stars_today": "2,535 stars today",
-            "url": "https://github.com/mvanhorn/last30days-skill"
-        },
-        {
-            "repo": "/soxoj/maigret",
-            "description": "暂无描述",
-            "stars_today": "318 stars today",
-            "url": "https://github.com/soxoj/maigret"
+            "stars_today": "319 stars today",
+            "url": "https://github.com/NVIDIA/SkillSpector"
         }
     ]
 }
