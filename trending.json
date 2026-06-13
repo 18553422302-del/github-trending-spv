@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "top_5_trending": [
-        {
-            "repo": "/apple/container",
-            "description": "暂无描述",
-            "stars_today": "2,430 stars today",
-            "url": "https://github.com/apple/container"
-        },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "3,278 stars today",
+            "stars_today": "2,656 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/maziyarpanahi/openmed",
+            "repo": "/music-assistant/server",
             "description": "暂无描述",
-            "stars_today": "426 stars today",
-            "url": "https://github.com/maziyarpanahi/openmed"
+            "stars_today": "20 stars today",
+            "url": "https://github.com/music-assistant/server"
         },
         {
-            "repo": "/phuryn/pm-skills",
+            "repo": "/mattermost/mattermost",
             "description": "暂无描述",
-            "stars_today": "1,978 stars today",
-            "url": "https://github.com/phuryn/pm-skills"
+            "stars_today": "388 stars today",
+            "url": "https://github.com/mattermost/mattermost"
         },
         {
-            "repo": "/NVIDIA/SkillSpector",
+            "repo": "/apple/container",
             "description": "暂无描述",
-            "stars_today": "319 stars today",
-            "url": "https://github.com/NVIDIA/SkillSpector"
+            "stars_today": "3,504 stars today",
+            "url": "https://github.com/apple/container"
+        },
+        {
+            "repo": "/iptv-org/iptv",
+            "description": "暂无描述",
+            "stars_today": "179 stars today",
+            "url": "https://github.com/iptv-org/iptv"
         }
     ]
 }
