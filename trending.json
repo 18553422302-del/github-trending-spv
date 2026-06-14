@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-13",
+    "date": "2026-06-14",
     "top_5_trending": [
+        {
+            "repo": "/iptv-org/iptv",
+            "description": "暂无描述",
+            "stars_today": "530 stars today",
+            "url": "https://github.com/iptv-org/iptv"
+        },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "2,656 stars today",
+            "stars_today": "1,514 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/music-assistant/server",
+            "repo": "/chatwoot/chatwoot",
             "description": "暂无描述",
-            "stars_today": "20 stars today",
-            "url": "https://github.com/music-assistant/server"
+            "stars_today": "83 stars today",
+            "url": "https://github.com/chatwoot/chatwoot"
         },
         {
-            "repo": "/mattermost/mattermost",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "388 stars today",
-            "url": "https://github.com/mattermost/mattermost"
+            "stars_today": "924 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
             "repo": "/apple/container",
             "description": "暂无描述",
-            "stars_today": "3,504 stars today",
+            "stars_today": "1,487 stars today",
             "url": "https://github.com/apple/container"
-        },
-        {
-            "repo": "/iptv-org/iptv",
-            "description": "暂无描述",
-            "stars_today": "179 stars today",
-            "url": "https://github.com/iptv-org/iptv"
         }
     ]
 }
