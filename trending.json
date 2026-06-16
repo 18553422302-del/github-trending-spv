@@ -1,34 +1,34 @@
 {
-    "date": "2026-06-15",
+    "date": "2026-06-16",
     "top_5_trending": [
         {
             "repo": "/iptv-org/iptv",
             "description": "暂无描述",
-            "stars_today": "1,528 stars today",
+            "stars_today": "2,657 stars today",
             "url": "https://github.com/iptv-org/iptv"
         },
         {
-            "repo": "/freeCodeCamp/freeCodeCamp",
+            "repo": "/teslamate-org/teslamate",
             "description": "暂无描述",
-            "stars_today": "146 stars today",
-            "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+            "stars_today": "33 stars today",
+            "url": "https://github.com/teslamate-org/teslamate"
         },
         {
-            "repo": "/pytest-dev/pytest",
+            "repo": "/Panniantong/Agent-Reach",
             "description": "暂无描述",
-            "stars_today": "14 stars today",
-            "url": "https://github.com/pytest-dev/pytest"
+            "stars_today": "1,100 stars today",
+            "url": "https://github.com/Panniantong/Agent-Reach"
         },
         {
-            "repo": "/swc-project/swc",
+            "repo": "/meshery/meshery",
             "description": "暂无描述",
-            "stars_today": "163 stars today",
-            "url": "https://github.com/swc-project/swc"
+            "stars_today": "228 stars today",
+            "url": "https://github.com/meshery/meshery"
         },
         {
             "repo": "/chatwoot/chatwoot",
             "description": "暂无描述",
-            "stars_today": "400 stars today",
+            "stars_today": "431 stars today",
             "url": "https://github.com/chatwoot/chatwoot"
         }
     ]
