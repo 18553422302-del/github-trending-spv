@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "top_5_trending": [
         {
-            "repo": "/freeCodeCamp/freeCodeCamp",
+            "repo": "/DeusData/codebase-memory-mcp",
             "description": "暂无描述",
-            "stars_today": "633 stars today",
-            "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+            "stars_today": "371 stars today",
+            "url": "https://github.com/DeusData/codebase-memory-mcp"
         },
         {
-            "repo": "/swc-project/swc",
+            "repo": "/n0-computer/iroh",
             "description": "暂无描述",
-            "stars_today": "20 stars today",
-            "url": "https://github.com/swc-project/swc"
+            "stars_today": "421 stars today",
+            "url": "https://github.com/n0-computer/iroh"
         },
         {
-            "repo": "/teslamate-org/teslamate",
+            "repo": "/Panniantong/Agent-Reach",
             "description": "暂无描述",
-            "stars_today": "215 stars today",
-            "url": "https://github.com/teslamate-org/teslamate"
+            "stars_today": "1,161 stars today",
+            "url": "https://github.com/Panniantong/Agent-Reach"
         },
         {
-            "repo": "/iptv-org/iptv",
+            "repo": "/meshery/meshery",
             "description": "暂无描述",
-            "stars_today": "1,197 stars today",
-            "url": "https://github.com/iptv-org/iptv"
+            "stars_today": "196 stars today",
+            "url": "https://github.com/meshery/meshery"
         },
         {
-            "repo": "/puppeteer/puppeteer",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "56 stars today",
-            "url": "https://github.com/puppeteer/puppeteer"
+            "stars_today": "1,129 stars today",
+            "url": "https://github.com/obra/superpowers"
         }
     ]
 }
