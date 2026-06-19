@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "top_5_trending": [
         {
-            "repo": "/DeusData/codebase-memory-mcp",
+            "repo": "/google-research/timesfm",
             "description": "暂无描述",
-            "stars_today": "371 stars today",
-            "url": "https://github.com/DeusData/codebase-memory-mcp"
+            "stars_today": "844 stars today",
+            "url": "https://github.com/google-research/timesfm"
         },
         {
             "repo": "/n0-computer/iroh",
             "description": "暂无描述",
-            "stars_today": "421 stars today",
+            "stars_today": "369 stars today",
             "url": "https://github.com/n0-computer/iroh"
         },
         {
-            "repo": "/Panniantong/Agent-Reach",
+            "repo": "/freeCodeCamp/freeCodeCamp",
             "description": "暂无描述",
-            "stars_today": "1,161 stars today",
-            "url": "https://github.com/Panniantong/Agent-Reach"
-        },
-        {
-            "repo": "/meshery/meshery",
-            "description": "暂无描述",
-            "stars_today": "196 stars today",
-            "url": "https://github.com/meshery/meshery"
+            "stars_today": "417 stars today",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,129 stars today",
+            "stars_today": "1,429 stars today",
             "url": "https://github.com/obra/superpowers"
+        },
+        {
+            "repo": "/zai-org/GLM-5",
+            "description": "暂无描述",
+            "stars_today": "202 stars today",
+            "url": "https://github.com/zai-org/GLM-5"
         }
     ]
 }
