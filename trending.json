@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "top_5_trending": [
-        {
-            "repo": "/DeusData/codebase-memory-mcp",
-            "description": "暂无描述",
-            "stars_today": "1,058 stars today",
-            "url": "https://github.com/DeusData/codebase-memory-mcp"
-        },
-        {
-            "repo": "/google-research/timesfm",
-            "description": "暂无描述",
-            "stars_today": "1,510 stars today",
-            "url": "https://github.com/google-research/timesfm"
-        },
         {
             "repo": "/palmier-io/palmier-pro",
             "description": "暂无描述",
-            "stars_today": "756 stars today",
+            "stars_today": "902 stars today",
             "url": "https://github.com/palmier-io/palmier-pro"
         },
         {
-            "repo": "/koala73/worldmonitor",
+            "repo": "/penpot/penpot",
             "description": "暂无描述",
-            "stars_today": "156 stars today",
-            "url": "https://github.com/koala73/worldmonitor"
+            "stars_today": "420 stars today",
+            "url": "https://github.com/penpot/penpot"
         },
         {
-            "repo": "/aishwaryanr/awesome-generative-ai-guide",
+            "repo": "/calesthio/OpenMontage",
             "description": "暂无描述",
-            "stars_today": "107 stars today",
-            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+            "stars_today": "677 stars today",
+            "url": "https://github.com/calesthio/OpenMontage"
+        },
+        {
+            "repo": "/tursodatabase/turso",
+            "description": "暂无描述",
+            "stars_today": "801 stars today",
+            "url": "https://github.com/tursodatabase/turso"
+        },
+        {
+            "repo": "/DeusData/codebase-memory-mcp",
+            "description": "暂无描述",
+            "stars_today": "1,271 stars today",
+            "url": "https://github.com/DeusData/codebase-memory-mcp"
         }
     ]
 }
