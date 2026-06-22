@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-21",
+    "date": "2026-06-22",
     "top_5_trending": [
         {
             "repo": "/palmier-io/palmier-pro",
             "description": "暂无描述",
-            "stars_today": "902 stars today",
+            "stars_today": "1,834 stars today",
             "url": "https://github.com/palmier-io/palmier-pro"
-        },
-        {
-            "repo": "/penpot/penpot",
-            "description": "暂无描述",
-            "stars_today": "420 stars today",
-            "url": "https://github.com/penpot/penpot"
         },
         {
             "repo": "/calesthio/OpenMontage",
             "description": "暂无描述",
-            "stars_today": "677 stars today",
+            "stars_today": "987 stars today",
             "url": "https://github.com/calesthio/OpenMontage"
+        },
+        {
+            "repo": "/chopratejas/headroom",
+            "description": "暂无描述",
+            "stars_today": "2,624 stars today",
+            "url": "https://github.com/chopratejas/headroom"
         },
         {
             "repo": "/tursodatabase/turso",
             "description": "暂无描述",
-            "stars_today": "801 stars today",
+            "stars_today": "548 stars today",
             "url": "https://github.com/tursodatabase/turso"
         },
         {
-            "repo": "/DeusData/codebase-memory-mcp",
+            "repo": "/penpot/penpot",
             "description": "暂无描述",
-            "stars_today": "1,271 stars today",
-            "url": "https://github.com/DeusData/codebase-memory-mcp"
+            "stars_today": "1,135 stars today",
+            "url": "https://github.com/penpot/penpot"
         }
     ]
 }
