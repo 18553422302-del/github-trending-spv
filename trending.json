@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "top_5_trending": [
         {
             "repo": "/calesthio/OpenMontage",
             "description": "暂无描述",
-            "stars_today": "2,938 stars today",
+            "stars_today": "3,592 stars today",
             "url": "https://github.com/calesthio/OpenMontage"
         },
         {
-            "repo": "/palmier-io/palmier-pro",
+            "repo": "/ZhuLinsen/daily_stock_analysis",
             "description": "暂无描述",
-            "stars_today": "2,463 stars today",
-            "url": "https://github.com/palmier-io/palmier-pro"
-        },
-        {
-            "repo": "/jamiepine/voicebox",
-            "description": "暂无描述",
-            "stars_today": "529 stars today",
-            "url": "https://github.com/jamiepine/voicebox"
+            "stars_today": "1,119 stars today",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
         },
         {
             "repo": "/mukul975/Anthropic-Cybersecurity-Skills",
             "description": "暂无描述",
-            "stars_today": "956 stars today",
+            "stars_today": "1,041 stars today",
             "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
         },
         {
-            "repo": "/penpot/penpot",
+            "repo": "/garrytan/gstack",
             "description": "暂无描述",
-            "stars_today": "728 stars today",
-            "url": "https://github.com/penpot/penpot"
+            "stars_today": "1,011 stars today",
+            "url": "https://github.com/garrytan/gstack"
+        },
+        {
+            "repo": "/bytedance/deer-flow",
+            "description": "暂无描述",
+            "stars_today": "739 stars today",
+            "url": "https://github.com/bytedance/deer-flow"
         }
     ]
 }
