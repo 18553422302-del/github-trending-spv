@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "top_5_trending": [
+        {
+            "repo": "/google-labs-code/design.md",
+            "description": "暂无描述",
+            "stars_today": "1,475 stars today",
+            "url": "https://github.com/google-labs-code/design.md"
+        },
         {
             "repo": "/calesthio/OpenMontage",
             "description": "暂无描述",
-            "stars_today": "3,719 stars today",
+            "stars_today": "3,434 stars today",
             "url": "https://github.com/calesthio/OpenMontage"
         },
         {
-            "repo": "/ZhuLinsen/daily_stock_analysis",
+            "repo": "/xbtlin/ai-berkshire",
             "description": "暂无描述",
-            "stars_today": "1,468 stars today",
-            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+            "stars_today": "309 stars today",
+            "url": "https://github.com/xbtlin/ai-berkshire"
+        },
+        {
+            "repo": "/mauriceboe/TREK",
+            "description": "暂无描述",
+            "stars_today": "241 stars today",
+            "url": "https://github.com/mauriceboe/TREK"
         },
         {
             "repo": "/apple/container",
             "description": "暂无描述",
-            "stars_today": "1,838 stars today",
+            "stars_today": "1,351 stars today",
             "url": "https://github.com/apple/container"
-        },
-        {
-            "repo": "/interviewstreet/hiring-agent",
-            "description": "暂无描述",
-            "stars_today": "203 stars today",
-            "url": "https://github.com/interviewstreet/hiring-agent"
-        },
-        {
-            "repo": "/JCodesMore/ai-website-cloner-template",
-            "description": "暂无描述",
-            "stars_today": "692 stars today",
-            "url": "https://github.com/JCodesMore/ai-website-cloner-template"
         }
     ]
 }
