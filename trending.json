@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-26",
+    "date": "2026-06-27",
     "top_5_trending": [
+        {
+            "repo": "/simplex-chat/simplex-chat",
+            "description": "暂无描述",
+            "stars_today": "432 stars today",
+            "url": "https://github.com/simplex-chat/simplex-chat"
+        },
         {
             "repo": "/google-labs-code/design.md",
             "description": "暂无描述",
-            "stars_today": "1,475 stars today",
+            "stars_today": "2,407 stars today",
             "url": "https://github.com/google-labs-code/design.md"
         },
         {
-            "repo": "/calesthio/OpenMontage",
+            "repo": "/commaai/openpilot",
             "description": "暂无描述",
-            "stars_today": "3,434 stars today",
-            "url": "https://github.com/calesthio/OpenMontage"
+            "stars_today": "80 stars today",
+            "url": "https://github.com/commaai/openpilot"
         },
         {
-            "repo": "/xbtlin/ai-berkshire",
+            "repo": "/kunchenguid/no-mistakes",
             "description": "暂无描述",
-            "stars_today": "309 stars today",
-            "url": "https://github.com/xbtlin/ai-berkshire"
+            "stars_today": "398 stars today",
+            "url": "https://github.com/kunchenguid/no-mistakes"
         },
         {
-            "repo": "/mauriceboe/TREK",
+            "repo": "/grafana/grafana",
             "description": "暂无描述",
-            "stars_today": "241 stars today",
-            "url": "https://github.com/mauriceboe/TREK"
-        },
-        {
-            "repo": "/apple/container",
-            "description": "暂无描述",
-            "stars_today": "1,351 stars today",
-            "url": "https://github.com/apple/container"
+            "stars_today": "32 stars today",
+            "url": "https://github.com/grafana/grafana"
         }
     ]
 }
