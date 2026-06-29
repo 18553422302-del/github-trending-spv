@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "top_5_trending": [
         {
             "repo": "/simplex-chat/simplex-chat",
             "description": "暂无描述",
-            "stars_today": "1,469 stars today",
+            "stars_today": "1,180 stars today",
             "url": "https://github.com/simplex-chat/simplex-chat"
-        },
-        {
-            "repo": "/xbtlin/ai-berkshire",
-            "description": "暂无描述",
-            "stars_today": "685 stars today",
-            "url": "https://github.com/xbtlin/ai-berkshire"
-        },
-        {
-            "repo": "/commaai/openpilot",
-            "description": "暂无描述",
-            "stars_today": "322 stars today",
-            "url": "https://github.com/commaai/openpilot"
-        },
-        {
-            "repo": "/IceWhaleTech/CasaOS",
-            "description": "暂无描述",
-            "stars_today": "502 stars today",
-            "url": "https://github.com/IceWhaleTech/CasaOS"
         },
         {
             "repo": "/ripienaar/free-for-dev",
             "description": "暂无描述",
-            "stars_today": "459 stars today",
+            "stars_today": "495 stars today",
             "url": "https://github.com/ripienaar/free-for-dev"
+        },
+        {
+            "repo": "/commaai/openpilot",
+            "description": "暂无描述",
+            "stars_today": "266 stars today",
+            "url": "https://github.com/commaai/openpilot"
+        },
+        {
+            "repo": "/xbtlin/ai-berkshire",
+            "description": "暂无描述",
+            "stars_today": "1,445 stars today",
+            "url": "https://github.com/xbtlin/ai-berkshire"
+        },
+        {
+            "repo": "/Robbyant/lingbot-map",
+            "description": "暂无描述",
+            "stars_today": "372 stars today",
+            "url": "https://github.com/Robbyant/lingbot-map"
         }
     ]
 }
