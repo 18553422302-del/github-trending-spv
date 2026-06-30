@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "top_5_trending": [
         {
             "repo": "/simplex-chat/simplex-chat",
             "description": "暂无描述",
-            "stars_today": "1,180 stars today",
+            "stars_today": "1,607 stars today",
             "url": "https://github.com/simplex-chat/simplex-chat"
         },
         {
-            "repo": "/ripienaar/free-for-dev",
+            "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "495 stars today",
-            "url": "https://github.com/ripienaar/free-for-dev"
+            "stars_today": "1,425 stars today",
+            "url": "https://github.com/msitarzewski/agency-agents"
         },
         {
-            "repo": "/commaai/openpilot",
+            "repo": "/cupy/cupy",
             "description": "暂无描述",
-            "stars_today": "266 stars today",
-            "url": "https://github.com/commaai/openpilot"
+            "stars_today": "352 stars today",
+            "url": "https://github.com/cupy/cupy"
         },
         {
-            "repo": "/xbtlin/ai-berkshire",
+            "repo": "/altic-dev/FluidVoice",
             "description": "暂无描述",
-            "stars_today": "1,445 stars today",
-            "url": "https://github.com/xbtlin/ai-berkshire"
+            "stars_today": "830 stars today",
+            "url": "https://github.com/altic-dev/FluidVoice"
         },
         {
-            "repo": "/Robbyant/lingbot-map",
+            "repo": "/soxoj/maigret",
             "description": "暂无描述",
-            "stars_today": "372 stars today",
-            "url": "https://github.com/Robbyant/lingbot-map"
+            "stars_today": "224 stars today",
+            "url": "https://github.com/soxoj/maigret"
         }
     ]
 }
