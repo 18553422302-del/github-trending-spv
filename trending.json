@@ -1,35 +1,35 @@
 {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "top_5_trending": [
         {
-            "repo": "/simplex-chat/simplex-chat",
+            "repo": "/hasaneyldrm/exercises-dataset",
             "description": "暂无描述",
-            "stars_today": "1,607 stars today",
-            "url": "https://github.com/simplex-chat/simplex-chat"
+            "stars_today": "1,343 stars today",
+            "url": "https://github.com/hasaneyldrm/exercises-dataset"
+        },
+        {
+            "repo": "/usestrix/strix",
+            "description": "暂无描述",
+            "stars_today": "515 stars today",
+            "url": "https://github.com/usestrix/strix"
         },
         {
             "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "1,425 stars today",
+            "stars_today": "1,791 stars today",
             "url": "https://github.com/msitarzewski/agency-agents"
-        },
-        {
-            "repo": "/cupy/cupy",
-            "description": "暂无描述",
-            "stars_today": "352 stars today",
-            "url": "https://github.com/cupy/cupy"
         },
         {
             "repo": "/altic-dev/FluidVoice",
             "description": "暂无描述",
-            "stars_today": "830 stars today",
+            "stars_today": "588 stars today",
             "url": "https://github.com/altic-dev/FluidVoice"
         },
         {
-            "repo": "/soxoj/maigret",
+            "repo": "/diegosouzapw/OmniRoute",
             "description": "暂无描述",
-            "stars_today": "224 stars today",
-            "url": "https://github.com/soxoj/maigret"
+            "stars_today": "387 stars today",
+            "url": "https://github.com/diegosouzapw/OmniRoute"
         }
     ]
 }
