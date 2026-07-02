@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-01",
+    "date": "2026-07-02",
     "top_5_trending": [
         {
-            "repo": "/hasaneyldrm/exercises-dataset",
+            "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "1,343 stars today",
-            "url": "https://github.com/hasaneyldrm/exercises-dataset"
+            "stars_today": "2,114 stars today",
+            "url": "https://github.com/msitarzewski/agency-agents"
         },
         {
             "repo": "/usestrix/strix",
             "description": "暂无描述",
-            "stars_today": "515 stars today",
+            "stars_today": "1,211 stars today",
             "url": "https://github.com/usestrix/strix"
         },
         {
-            "repo": "/msitarzewski/agency-agents",
+            "repo": "/HKUDS/Vibe-Trading",
             "description": "暂无描述",
-            "stars_today": "1,791 stars today",
-            "url": "https://github.com/msitarzewski/agency-agents"
+            "stars_today": "694 stars today",
+            "url": "https://github.com/HKUDS/Vibe-Trading"
         },
         {
-            "repo": "/altic-dev/FluidVoice",
+            "repo": "/hasaneyldrm/exercises-dataset",
             "description": "暂无描述",
-            "stars_today": "588 stars today",
-            "url": "https://github.com/altic-dev/FluidVoice"
+            "stars_today": "2,470 stars today",
+            "url": "https://github.com/hasaneyldrm/exercises-dataset"
         },
         {
-            "repo": "/diegosouzapw/OmniRoute",
+            "repo": "/facebook/astryx",
             "description": "暂无描述",
-            "stars_today": "387 stars today",
-            "url": "https://github.com/diegosouzapw/OmniRoute"
+            "stars_today": "708 stars today",
+            "url": "https://github.com/facebook/astryx"
         }
     ]
 }
