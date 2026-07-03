@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-02",
+    "date": "2026-07-03",
     "top_5_trending": [
-        {
-            "repo": "/msitarzewski/agency-agents",
-            "description": "暂无描述",
-            "stars_today": "2,114 stars today",
-            "url": "https://github.com/msitarzewski/agency-agents"
-        },
         {
             "repo": "/usestrix/strix",
             "description": "暂无描述",
-            "stars_today": "1,211 stars today",
+            "stars_today": "2,137 stars today",
             "url": "https://github.com/usestrix/strix"
         },
         {
-            "repo": "/HKUDS/Vibe-Trading",
+            "repo": "/JuliusBrussee/caveman",
             "description": "暂无描述",
-            "stars_today": "694 stars today",
-            "url": "https://github.com/HKUDS/Vibe-Trading"
+            "stars_today": "926 stars today",
+            "url": "https://github.com/JuliusBrussee/caveman"
+        },
+        {
+            "repo": "/msitarzewski/agency-agents",
+            "description": "暂无描述",
+            "stars_today": "3,032 stars today",
+            "url": "https://github.com/msitarzewski/agency-agents"
         },
         {
             "repo": "/hasaneyldrm/exercises-dataset",
             "description": "暂无描述",
-            "stars_today": "2,470 stars today",
+            "stars_today": "938 stars today",
             "url": "https://github.com/hasaneyldrm/exercises-dataset"
         },
         {
-            "repo": "/facebook/astryx",
+            "repo": "/santifer/career-ops",
             "description": "暂无描述",
-            "stars_today": "708 stars today",
-            "url": "https://github.com/facebook/astryx"
+            "stars_today": "372 stars today",
+            "url": "https://github.com/santifer/career-ops"
         }
     ]
 }
