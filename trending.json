@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-03",
+    "date": "2026-07-04",
     "top_5_trending": [
         {
             "repo": "/usestrix/strix",
             "description": "暂无描述",
-            "stars_today": "2,137 stars today",
+            "stars_today": "2,803 stars today",
             "url": "https://github.com/usestrix/strix"
+        },
+        {
+            "repo": "/openai/codex-plugin-cc",
+            "description": "暂无描述",
+            "stars_today": "634 stars today",
+            "url": "https://github.com/openai/codex-plugin-cc"
         },
         {
             "repo": "/JuliusBrussee/caveman",
             "description": "暂无描述",
-            "stars_today": "926 stars today",
+            "stars_today": "2,863 stars today",
             "url": "https://github.com/JuliusBrussee/caveman"
         },
         {
-            "repo": "/msitarzewski/agency-agents",
+            "repo": "/elastic/elasticsearch",
             "description": "暂无描述",
-            "stars_today": "3,032 stars today",
-            "url": "https://github.com/msitarzewski/agency-agents"
+            "stars_today": "91 stars today",
+            "url": "https://github.com/elastic/elasticsearch"
         },
         {
-            "repo": "/hasaneyldrm/exercises-dataset",
+            "repo": "/actions/checkout",
             "description": "暂无描述",
-            "stars_today": "938 stars today",
-            "url": "https://github.com/hasaneyldrm/exercises-dataset"
-        },
-        {
-            "repo": "/santifer/career-ops",
-            "description": "暂无描述",
-            "stars_today": "372 stars today",
-            "url": "https://github.com/santifer/career-ops"
+            "stars_today": "129 stars today",
+            "url": "https://github.com/actions/checkout"
         }
     ]
 }
