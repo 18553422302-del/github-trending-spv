@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "top_5_trending": [
-        {
-            "repo": "/usestrix/strix",
-            "description": "暂无描述",
-            "stars_today": "2,803 stars today",
-            "url": "https://github.com/usestrix/strix"
-        },
         {
             "repo": "/openai/codex-plugin-cc",
             "description": "暂无描述",
-            "stars_today": "634 stars today",
+            "stars_today": "718 stars today",
             "url": "https://github.com/openai/codex-plugin-cc"
         },
         {
             "repo": "/JuliusBrussee/caveman",
             "description": "暂无描述",
-            "stars_today": "2,863 stars today",
+            "stars_today": "1,089 stars today",
             "url": "https://github.com/JuliusBrussee/caveman"
         },
         {
-            "repo": "/elastic/elasticsearch",
+            "repo": "/alibaba/page-agent",
             "description": "暂无描述",
-            "stars_today": "91 stars today",
-            "url": "https://github.com/elastic/elasticsearch"
+            "stars_today": "742 stars today",
+            "url": "https://github.com/alibaba/page-agent"
         },
         {
-            "repo": "/actions/checkout",
+            "repo": "/usestrix/strix",
             "description": "暂无描述",
-            "stars_today": "129 stars today",
-            "url": "https://github.com/actions/checkout"
+            "stars_today": "1,904 stars today",
+            "url": "https://github.com/usestrix/strix"
+        },
+        {
+            "repo": "/ChromeDevTools/chrome-devtools-mcp",
+            "description": "暂无描述",
+            "stars_today": "304 stars today",
+            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
         }
     ]
 }
