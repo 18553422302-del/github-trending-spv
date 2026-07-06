@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-05",
+    "date": "2026-07-06",
     "top_5_trending": [
+        {
+            "repo": "/Zackriya-Solutions/meetily",
+            "description": "暂无描述",
+            "stars_today": "1,409 stars today",
+            "url": "https://github.com/Zackriya-Solutions/meetily"
+        },
         {
             "repo": "/openai/codex-plugin-cc",
             "description": "暂无描述",
-            "stars_today": "718 stars today",
+            "stars_today": "1,532 stars today",
             "url": "https://github.com/openai/codex-plugin-cc"
         },
         {
-            "repo": "/JuliusBrussee/caveman",
+            "repo": "/asgeirtj/system_prompts_leaks",
             "description": "暂无描述",
-            "stars_today": "1,089 stars today",
-            "url": "https://github.com/JuliusBrussee/caveman"
+            "stars_today": "981 stars today",
+            "url": "https://github.com/asgeirtj/system_prompts_leaks"
         },
         {
-            "repo": "/alibaba/page-agent",
+            "repo": "/Leonxlnx/taste-skill",
             "description": "暂无描述",
-            "stars_today": "742 stars today",
-            "url": "https://github.com/alibaba/page-agent"
+            "stars_today": "863 stars today",
+            "url": "https://github.com/Leonxlnx/taste-skill"
         },
         {
-            "repo": "/usestrix/strix",
+            "repo": "/alirezarezvani/claude-skills",
             "description": "暂无描述",
-            "stars_today": "1,904 stars today",
-            "url": "https://github.com/usestrix/strix"
-        },
-        {
-            "repo": "/ChromeDevTools/chrome-devtools-mcp",
-            "description": "暂无描述",
-            "stars_today": "304 stars today",
-            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+            "stars_today": "392 stars today",
+            "url": "https://github.com/alirezarezvani/claude-skills"
         }
     ]
 }
