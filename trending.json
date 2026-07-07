@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-06",
+    "date": "2026-07-07",
     "top_5_trending": [
-        {
-            "repo": "/Zackriya-Solutions/meetily",
-            "description": "暂无描述",
-            "stars_today": "1,409 stars today",
-            "url": "https://github.com/Zackriya-Solutions/meetily"
-        },
-        {
-            "repo": "/openai/codex-plugin-cc",
-            "description": "暂无描述",
-            "stars_today": "1,532 stars today",
-            "url": "https://github.com/openai/codex-plugin-cc"
-        },
         {
             "repo": "/asgeirtj/system_prompts_leaks",
             "description": "暂无描述",
-            "stars_today": "981 stars today",
+            "stars_today": "1,378 stars today",
             "url": "https://github.com/asgeirtj/system_prompts_leaks"
+        },
+        {
+            "repo": "/addyosmani/agent-skills",
+            "description": "暂无描述",
+            "stars_today": "1,112 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
+        },
+        {
+            "repo": "/Zackriya-Solutions/meetily",
+            "description": "暂无描述",
+            "stars_today": "2,494 stars today",
+            "url": "https://github.com/Zackriya-Solutions/meetily"
+        },
+        {
+            "repo": "/ruvnet/RuView",
+            "description": "暂无描述",
+            "stars_today": "470 stars today",
+            "url": "https://github.com/ruvnet/RuView"
         },
         {
             "repo": "/Leonxlnx/taste-skill",
             "description": "暂无描述",
-            "stars_today": "863 stars today",
+            "stars_today": "1,458 stars today",
             "url": "https://github.com/Leonxlnx/taste-skill"
-        },
-        {
-            "repo": "/alirezarezvani/claude-skills",
-            "description": "暂无描述",
-            "stars_today": "392 stars today",
-            "url": "https://github.com/alirezarezvani/claude-skills"
         }
     ]
 }
