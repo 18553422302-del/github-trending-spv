@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "top_5_trending": [
         {
-            "repo": "/asgeirtj/system_prompts_leaks",
+            "repo": "/MadsLorentzen/ai-job-search",
             "description": "暂无描述",
-            "stars_today": "1,378 stars today",
-            "url": "https://github.com/asgeirtj/system_prompts_leaks"
-        },
-        {
-            "repo": "/addyosmani/agent-skills",
-            "description": "暂无描述",
-            "stars_today": "1,112 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
+            "stars_today": "2,514 stars today",
+            "url": "https://github.com/MadsLorentzen/ai-job-search"
         },
         {
             "repo": "/Zackriya-Solutions/meetily",
             "description": "暂无描述",
-            "stars_today": "2,494 stars today",
+            "stars_today": "1,777 stars today",
             "url": "https://github.com/Zackriya-Solutions/meetily"
+        },
+        {
+            "repo": "/addyosmani/agent-skills",
+            "description": "暂无描述",
+            "stars_today": "1,317 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
         },
         {
             "repo": "/ruvnet/RuView",
             "description": "暂无描述",
-            "stars_today": "470 stars today",
+            "stars_today": "1,129 stars today",
             "url": "https://github.com/ruvnet/RuView"
         },
         {
-            "repo": "/Leonxlnx/taste-skill",
+            "repo": "/asgeirtj/system_prompts_leaks",
             "description": "暂无描述",
-            "stars_today": "1,458 stars today",
-            "url": "https://github.com/Leonxlnx/taste-skill"
+            "stars_today": "1,691 stars today",
+            "url": "https://github.com/asgeirtj/system_prompts_leaks"
         }
     ]
 }
