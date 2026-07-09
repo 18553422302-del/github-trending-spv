@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "top_5_trending": [
-        {
-            "repo": "/MadsLorentzen/ai-job-search",
-            "description": "暂无描述",
-            "stars_today": "2,514 stars today",
-            "url": "https://github.com/MadsLorentzen/ai-job-search"
-        },
-        {
-            "repo": "/Zackriya-Solutions/meetily",
-            "description": "暂无描述",
-            "stars_today": "1,777 stars today",
-            "url": "https://github.com/Zackriya-Solutions/meetily"
-        },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "1,317 stars today",
+            "stars_today": "1,297 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
             "repo": "/ruvnet/RuView",
             "description": "暂无描述",
-            "stars_today": "1,129 stars today",
+            "stars_today": "799 stars today",
             "url": "https://github.com/ruvnet/RuView"
         },
         {
-            "repo": "/asgeirtj/system_prompts_leaks",
+            "repo": "/TencentCloud/TencentDB-Agent-Memory",
             "description": "暂无描述",
-            "stars_today": "1,691 stars today",
-            "url": "https://github.com/asgeirtj/system_prompts_leaks"
+            "stars_today": "318 stars today",
+            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+        },
+        {
+            "repo": "/prisma/prisma",
+            "description": "暂无描述",
+            "stars_today": "46 stars today",
+            "url": "https://github.com/prisma/prisma"
+        },
+        {
+            "repo": "/mvanhorn/last30days-skill",
+            "description": "暂无描述",
+            "stars_today": "352 stars today",
+            "url": "https://github.com/mvanhorn/last30days-skill"
         }
     ]
 }
