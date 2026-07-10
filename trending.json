@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "top_5_trending": [
+        {
+            "repo": "/MadsLorentzen/ai-job-search",
+            "description": "暂无描述",
+            "stars_today": "3,716 stars today",
+            "url": "https://github.com/MadsLorentzen/ai-job-search"
+        },
+        {
+            "repo": "/SmartlyDressedGames/U3-SDK",
+            "description": "暂无描述",
+            "stars_today": "524 stars today",
+            "url": "https://github.com/SmartlyDressedGames/U3-SDK"
+        },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "1,297 stars today",
+            "stars_today": "2,554 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/ruvnet/RuView",
+            "repo": "/VoltAgent/awesome-design-md",
             "description": "暂无描述",
-            "stars_today": "799 stars today",
-            "url": "https://github.com/ruvnet/RuView"
+            "stars_today": "1,391 stars today",
+            "url": "https://github.com/VoltAgent/awesome-design-md"
         },
         {
-            "repo": "/TencentCloud/TencentDB-Agent-Memory",
+            "repo": "/iOfficeAI/OfficeCLI",
             "description": "暂无描述",
-            "stars_today": "318 stars today",
-            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
-        },
-        {
-            "repo": "/prisma/prisma",
-            "description": "暂无描述",
-            "stars_today": "46 stars today",
-            "url": "https://github.com/prisma/prisma"
-        },
-        {
-            "repo": "/mvanhorn/last30days-skill",
-            "description": "暂无描述",
-            "stars_today": "352 stars today",
-            "url": "https://github.com/mvanhorn/last30days-skill"
+            "stars_today": "1,929 stars today",
+            "url": "https://github.com/iOfficeAI/OfficeCLI"
         }
     ]
 }
