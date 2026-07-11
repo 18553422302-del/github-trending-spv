@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "top_5_trending": [
         {
-            "repo": "/MadsLorentzen/ai-job-search",
+            "repo": "/wonderwhy-er/DesktopCommanderMCP",
             "description": "暂无描述",
-            "stars_today": "3,716 stars today",
-            "url": "https://github.com/MadsLorentzen/ai-job-search"
+            "stars_today": "328 stars today",
+            "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
         },
         {
-            "repo": "/SmartlyDressedGames/U3-SDK",
+            "repo": "/oven-sh/bun",
             "description": "暂无描述",
-            "stars_today": "524 stars today",
-            "url": "https://github.com/SmartlyDressedGames/U3-SDK"
+            "stars_today": "209 stars today",
+            "url": "https://github.com/oven-sh/bun"
+        },
+        {
+            "repo": "/abseil/abseil-cpp",
+            "description": "暂无描述",
+            "stars_today": "89 stars today",
+            "url": "https://github.com/abseil/abseil-cpp"
         },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "2,554 stars today",
+            "stars_today": "1,116 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/VoltAgent/awesome-design-md",
+            "repo": "/jbeder/yaml-cpp",
             "description": "暂无描述",
-            "stars_today": "1,391 stars today",
-            "url": "https://github.com/VoltAgent/awesome-design-md"
-        },
-        {
-            "repo": "/iOfficeAI/OfficeCLI",
-            "description": "暂无描述",
-            "stars_today": "1,929 stars today",
-            "url": "https://github.com/iOfficeAI/OfficeCLI"
+            "stars_today": "69 stars today",
+            "url": "https://github.com/jbeder/yaml-cpp"
         }
     ]
 }
