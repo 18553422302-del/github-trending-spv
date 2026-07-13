@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-12",
+    "date": "2026-07-13",
     "top_5_trending": [
         {
-            "repo": "/catchorg/Catch2",
+            "repo": "/Dicklesworthstone/destructive_command_guard",
             "description": "暂无描述",
-            "stars_today": "113 stars today",
-            "url": "https://github.com/catchorg/Catch2"
+            "stars_today": "444 stars today",
+            "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
         },
         {
-            "repo": "/abseil/abseil-cpp",
+            "repo": "/wonderwhy-er/DesktopCommanderMCP",
             "description": "暂无描述",
-            "stars_today": "118 stars today",
-            "url": "https://github.com/abseil/abseil-cpp"
+            "stars_today": "210 stars today",
+            "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
         },
         {
-            "repo": "/davila7/claude-code-templates",
+            "repo": "/HKUDS/Vibe-Trading",
             "description": "暂无描述",
-            "stars_today": "232 stars today",
-            "url": "https://github.com/davila7/claude-code-templates"
+            "stars_today": "768 stars today",
+            "url": "https://github.com/HKUDS/Vibe-Trading"
         },
         {
-            "repo": "/google-labs-code/stitch-skills",
+            "repo": "/PrefectHQ/prefect",
             "description": "暂无描述",
-            "stars_today": "340 stars today",
-            "url": "https://github.com/google-labs-code/stitch-skills"
+            "stars_today": "66 stars today",
+            "url": "https://github.com/PrefectHQ/prefect"
         },
         {
-            "repo": "/hashicorp/terraform",
+            "repo": "/Shubhamsaboo/awesome-llm-apps",
             "description": "暂无描述",
-            "stars_today": "229 stars today",
-            "url": "https://github.com/hashicorp/terraform"
+            "stars_today": "408 stars today",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
         }
     ]
 }
