@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "top_5_trending": [
-        {
-            "repo": "/OpenCut-app/OpenCut",
-            "description": "暂无描述",
-            "stars_today": "1,229 stars today",
-            "url": "https://github.com/OpenCut-app/OpenCut"
-        },
-        {
-            "repo": "/HKUDS/Vibe-Trading",
-            "description": "暂无描述",
-            "stars_today": "1,153 stars today",
-            "url": "https://github.com/HKUDS/Vibe-Trading"
-        },
-        {
-            "repo": "/moeru-ai/airi",
-            "description": "暂无描述",
-            "stars_today": "78 stars today",
-            "url": "https://github.com/moeru-ai/airi"
-        },
         {
             "repo": "/Shubhamsaboo/awesome-llm-apps",
             "description": "暂无描述",
-            "stars_today": "996 stars today",
+            "stars_today": "1,106 stars today",
             "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
         },
         {
-            "repo": "/Nutlope/hallmark",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "794 stars today",
-            "url": "https://github.com/Nutlope/hallmark"
+            "stars_today": "1,679 stars today",
+            "url": "https://github.com/mattpocock/skills"
+        },
+        {
+            "repo": "/Dicklesworthstone/destructive_command_guard",
+            "description": "暂无描述",
+            "stars_today": "473 stars today",
+            "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+        },
+        {
+            "repo": "/OpenCut-app/OpenCut",
+            "description": "暂无描述",
+            "stars_today": "4,276 stars today",
+            "url": "https://github.com/OpenCut-app/OpenCut"
+        },
+        {
+            "repo": "/virattt/ai-hedge-fund",
+            "description": "暂无描述",
+            "stars_today": "109 stars today",
+            "url": "https://github.com/virattt/ai-hedge-fund"
         }
     ]
 }
