@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "top_5_trending": [
         {
-            "repo": "/OpenCut-app/OpenCut",
+            "repo": "/apache/ossie",
             "description": "暂无描述",
-            "stars_today": "1,664 stars today",
-            "url": "https://github.com/OpenCut-app/OpenCut"
+            "stars_today": "60 stars today",
+            "url": "https://github.com/apache/ossie"
         },
         {
             "repo": "/Nutlope/hallmark",
             "description": "暂无描述",
-            "stars_today": "1,277 stars today",
+            "stars_today": "3,372 stars today",
             "url": "https://github.com/Nutlope/hallmark"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/OpenCut-app/OpenCut",
             "description": "暂无描述",
-            "stars_today": "2,130 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "3,537 stars today",
+            "url": "https://github.com/OpenCut-app/OpenCut"
         },
         {
-            "repo": "/moeru-ai/airi",
+            "repo": "/PostHog/posthog",
             "description": "暂无描述",
-            "stars_today": "110 stars today",
-            "url": "https://github.com/moeru-ai/airi"
+            "stars_today": "77 stars today",
+            "url": "https://github.com/PostHog/posthog"
         },
         {
-            "repo": "/Dicklesworthstone/destructive_command_guard",
+            "repo": "/openinterpreter/openinterpreter",
             "description": "暂无描述",
-            "stars_today": "471 stars today",
-            "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+            "stars_today": "661 stars today",
+            "url": "https://github.com/openinterpreter/openinterpreter"
         }
     ]
 }
