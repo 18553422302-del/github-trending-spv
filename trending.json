@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "top_5_trending": [
         {
-            "repo": "/apache/ossie",
+            "repo": "/codecrafters-io/build-your-own-x",
             "description": "暂无描述",
-            "stars_today": "60 stars today",
-            "url": "https://github.com/apache/ossie"
-        },
-        {
-            "repo": "/Nutlope/hallmark",
-            "description": "暂无描述",
-            "stars_today": "3,372 stars today",
-            "url": "https://github.com/Nutlope/hallmark"
-        },
-        {
-            "repo": "/OpenCut-app/OpenCut",
-            "description": "暂无描述",
-            "stars_today": "3,537 stars today",
-            "url": "https://github.com/OpenCut-app/OpenCut"
+            "stars_today": "1,068 stars today",
+            "url": "https://github.com/codecrafters-io/build-your-own-x"
         },
         {
             "repo": "/PostHog/posthog",
             "description": "暂无描述",
-            "stars_today": "77 stars today",
+            "stars_today": "438 stars today",
             "url": "https://github.com/PostHog/posthog"
         },
         {
-            "repo": "/openinterpreter/openinterpreter",
+            "repo": "/HenryNdubuaku/maths-cs-ai-compendium",
             "description": "暂无描述",
-            "stars_today": "661 stars today",
-            "url": "https://github.com/openinterpreter/openinterpreter"
+            "stars_today": "200 stars today",
+            "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+        },
+        {
+            "repo": "/Nutlope/hallmark",
+            "description": "暂无描述",
+            "stars_today": "1,485 stars today",
+            "url": "https://github.com/Nutlope/hallmark"
+        },
+        {
+            "repo": "/github/copilot-sdk",
+            "description": "暂无描述",
+            "stars_today": "233 stars today",
+            "url": "https://github.com/github/copilot-sdk"
         }
     ]
 }
