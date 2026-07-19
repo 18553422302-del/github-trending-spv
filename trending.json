@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "top_5_trending": [
         {
-            "repo": "/codecrafters-io/build-your-own-x",
+            "repo": "/Robbyant/lingbot-map",
             "description": "暂无描述",
-            "stars_today": "1,068 stars today",
-            "url": "https://github.com/codecrafters-io/build-your-own-x"
+            "stars_today": "831 stars today",
+            "url": "https://github.com/Robbyant/lingbot-map"
+        },
+        {
+            "repo": "/apache/ossie",
+            "description": "暂无描述",
+            "stars_today": "47 stars today",
+            "url": "https://github.com/apache/ossie"
         },
         {
             "repo": "/PostHog/posthog",
             "description": "暂无描述",
-            "stars_today": "438 stars today",
+            "stars_today": "338 stars today",
             "url": "https://github.com/PostHog/posthog"
         },
         {
-            "repo": "/HenryNdubuaku/maths-cs-ai-compendium",
+            "repo": "/ibelick/ui-skills",
             "description": "暂无描述",
-            "stars_today": "200 stars today",
-            "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+            "stars_today": "123 stars today",
+            "url": "https://github.com/ibelick/ui-skills"
         },
         {
-            "repo": "/Nutlope/hallmark",
+            "repo": "/rohitg00/ai-engineering-from-scratch",
             "description": "暂无描述",
-            "stars_today": "1,485 stars today",
-            "url": "https://github.com/Nutlope/hallmark"
-        },
-        {
-            "repo": "/github/copilot-sdk",
-            "description": "暂无描述",
-            "stars_today": "233 stars today",
-            "url": "https://github.com/github/copilot-sdk"
+            "stars_today": "191 stars today",
+            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
         }
     ]
 }
