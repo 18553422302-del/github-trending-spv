@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "top_5_trending": [
         {
             "repo": "/tirth8205/code-review-graph",
             "description": "暂无描述",
-            "stars_today": "663 stars today",
+            "stars_today": "1,833 stars today",
             "url": "https://github.com/tirth8205/code-review-graph"
         },
         {
-            "repo": "/kvcache-ai/ktransformers",
+            "repo": "/1jehuang/jcode",
             "description": "暂无描述",
-            "stars_today": "360 stars today",
-            "url": "https://github.com/kvcache-ai/ktransformers"
+            "stars_today": "568 stars today",
+            "url": "https://github.com/1jehuang/jcode"
+        },
+        {
+            "repo": "/diegosouzapw/OmniRoute",
+            "description": "暂无描述",
+            "stars_today": "1,107 stars today",
+            "url": "https://github.com/diegosouzapw/OmniRoute"
         },
         {
             "repo": "/rohitg00/ai-engineering-from-scratch",
             "description": "暂无描述",
-            "stars_today": "501 stars today",
+            "stars_today": "823 stars today",
             "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
         },
         {
-            "repo": "/jamiepine/voicebox",
+            "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "610 stars today",
-            "url": "https://github.com/jamiepine/voicebox"
-        },
-        {
-            "repo": "/KnockOutEZ/wigolo",
-            "description": "暂无描述",
-            "stars_today": "595 stars today",
-            "url": "https://github.com/KnockOutEZ/wigolo"
+            "stars_today": "862 stars today",
+            "url": "https://github.com/msitarzewski/agency-agents"
         }
     ]
 }
