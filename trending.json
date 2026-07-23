@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "top_5_trending": [
         {
             "repo": "/koala73/worldmonitor",
             "description": "暂无描述",
-            "stars_today": "1,295 stars today",
+            "stars_today": "4,139 stars today",
             "url": "https://github.com/koala73/worldmonitor"
         },
         {
-            "repo": "/bojieli/ai-agent-book",
+            "repo": "/ruvnet/RuView",
             "description": "暂无描述",
-            "stars_today": "4,624 stars today",
-            "url": "https://github.com/bojieli/ai-agent-book"
-        },
-        {
-            "repo": "/tirth8205/code-review-graph",
-            "description": "暂无描述",
-            "stars_today": "1,925 stars today",
-            "url": "https://github.com/tirth8205/code-review-graph"
+            "stars_today": "741 stars today",
+            "url": "https://github.com/ruvnet/RuView"
         },
         {
             "repo": "/ayghri/i-have-adhd",
             "description": "暂无描述",
-            "stars_today": "1,866 stars today",
+            "stars_today": "1,699 stars today",
             "url": "https://github.com/ayghri/i-have-adhd"
         },
         {
-            "repo": "/earthtojake/text-to-cad",
+            "repo": "/schollz/croc",
             "description": "暂无描述",
-            "stars_today": "291 stars today",
-            "url": "https://github.com/earthtojake/text-to-cad"
+            "stars_today": "739 stars today",
+            "url": "https://github.com/schollz/croc"
+        },
+        {
+            "repo": "/likec4/likec4",
+            "description": "暂无描述",
+            "stars_today": "80 stars today",
+            "url": "https://github.com/likec4/likec4"
         }
     ]
 }
