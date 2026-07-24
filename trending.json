@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "top_5_trending": [
+        {
+            "repo": "/block/buzz",
+            "description": "暂无描述",
+            "stars_today": "2,162 stars today",
+            "url": "https://github.com/block/buzz"
+        },
         {
             "repo": "/koala73/worldmonitor",
             "description": "暂无描述",
-            "stars_today": "4,139 stars today",
+            "stars_today": "3,175 stars today",
             "url": "https://github.com/koala73/worldmonitor"
         },
         {
-            "repo": "/ruvnet/RuView",
+            "repo": "/shiyu-coder/Kronos",
             "description": "暂无描述",
-            "stars_today": "741 stars today",
-            "url": "https://github.com/ruvnet/RuView"
+            "stars_today": "401 stars today",
+            "url": "https://github.com/shiyu-coder/Kronos"
         },
         {
-            "repo": "/ayghri/i-have-adhd",
+            "repo": "/Pumpkin-MC/Pumpkin",
             "description": "暂无描述",
-            "stars_today": "1,699 stars today",
-            "url": "https://github.com/ayghri/i-have-adhd"
+            "stars_today": "565 stars today",
+            "url": "https://github.com/Pumpkin-MC/Pumpkin"
         },
         {
-            "repo": "/schollz/croc",
+            "repo": "/citrolabs/ego-lite",
             "description": "暂无描述",
-            "stars_today": "739 stars today",
-            "url": "https://github.com/schollz/croc"
-        },
-        {
-            "repo": "/likec4/likec4",
-            "description": "暂无描述",
-            "stars_today": "80 stars today",
-            "url": "https://github.com/likec4/likec4"
+            "stars_today": "247 stars today",
+            "url": "https://github.com/citrolabs/ego-lite"
         }
     ]
 }
