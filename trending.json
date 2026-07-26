@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "top_5_trending": [
         {
             "repo": "/block/buzz",
             "description": "暂无描述",
-            "stars_today": "3,270 stars today",
+            "stars_today": "2,491 stars today",
             "url": "https://github.com/block/buzz"
         },
         {
-            "repo": "/koala73/worldmonitor",
+            "repo": "/alibaba/open-code-review",
             "description": "暂无描述",
-            "stars_today": "2,184 stars today",
-            "url": "https://github.com/koala73/worldmonitor"
+            "stars_today": "431 stars today",
+            "url": "https://github.com/alibaba/open-code-review"
+        },
+        {
+            "repo": "/citrolabs/ego-lite",
+            "description": "暂无描述",
+            "stars_today": "986 stars today",
+            "url": "https://github.com/citrolabs/ego-lite"
         },
         {
             "repo": "/ComposioHQ/awesome-claude-skills",
             "description": "暂无描述",
-            "stars_today": "663 stars today",
+            "stars_today": "577 stars today",
             "url": "https://github.com/ComposioHQ/awesome-claude-skills"
         },
         {
-            "repo": "/Pumpkin-MC/Pumpkin",
+            "repo": "/anthropics/claude-cookbooks",
             "description": "暂无描述",
-            "stars_today": "473 stars today",
-            "url": "https://github.com/Pumpkin-MC/Pumpkin"
-        },
-        {
-            "repo": "/shiyu-coder/Kronos",
-            "description": "暂无描述",
-            "stars_today": "499 stars today",
-            "url": "https://github.com/shiyu-coder/Kronos"
+            "stars_today": "132 stars today",
+            "url": "https://github.com/anthropics/claude-cookbooks"
         }
     ]
 }
