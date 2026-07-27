@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-26",
+    "date": "2026-07-27",
     "top_5_trending": [
         {
-            "repo": "/block/buzz",
+            "repo": "/permissionlesstech/bitchat",
             "description": "暂无描述",
-            "stars_today": "2,491 stars today",
-            "url": "https://github.com/block/buzz"
-        },
-        {
-            "repo": "/alibaba/open-code-review",
-            "description": "暂无描述",
-            "stars_today": "431 stars today",
-            "url": "https://github.com/alibaba/open-code-review"
+            "stars_today": "1,166 stars today",
+            "url": "https://github.com/permissionlesstech/bitchat"
         },
         {
             "repo": "/citrolabs/ego-lite",
             "description": "暂无描述",
-            "stars_today": "986 stars today",
+            "stars_today": "900 stars today",
             "url": "https://github.com/citrolabs/ego-lite"
         },
         {
-            "repo": "/ComposioHQ/awesome-claude-skills",
+            "repo": "/block/buzz",
             "description": "暂无描述",
-            "stars_today": "577 stars today",
-            "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+            "stars_today": "1,710 stars today",
+            "url": "https://github.com/block/buzz"
         },
         {
-            "repo": "/anthropics/claude-cookbooks",
+            "repo": "/pingdotgg/t3code",
             "description": "暂无描述",
-            "stars_today": "132 stars today",
-            "url": "https://github.com/anthropics/claude-cookbooks"
+            "stars_today": "149 stars today",
+            "url": "https://github.com/pingdotgg/t3code"
+        },
+        {
+            "repo": "/CoreBunch/Instatic",
+            "description": "暂无描述",
+            "stars_today": "888 stars today",
+            "url": "https://github.com/CoreBunch/Instatic"
         }
     ]
 }
