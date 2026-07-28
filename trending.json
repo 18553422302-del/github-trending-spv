@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "top_5_trending": [
         {
             "repo": "/permissionlesstech/bitchat",
             "description": "暂无描述",
-            "stars_today": "1,166 stars today",
+            "stars_today": "2,346 stars today",
             "url": "https://github.com/permissionlesstech/bitchat"
         },
         {
-            "repo": "/citrolabs/ego-lite",
+            "repo": "/amnezia-vpn/amnezia-client",
             "description": "暂无描述",
-            "stars_today": "900 stars today",
-            "url": "https://github.com/citrolabs/ego-lite"
+            "stars_today": "515 stars today",
+            "url": "https://github.com/amnezia-vpn/amnezia-client"
         },
         {
-            "repo": "/block/buzz",
+            "repo": "/moeru-ai/airi",
             "description": "暂无描述",
-            "stars_today": "1,710 stars today",
-            "url": "https://github.com/block/buzz"
+            "stars_today": "572 stars today",
+            "url": "https://github.com/moeru-ai/airi"
         },
         {
-            "repo": "/pingdotgg/t3code",
+            "repo": "/opengeos/GeoLibre",
             "description": "暂无描述",
-            "stars_today": "149 stars today",
-            "url": "https://github.com/pingdotgg/t3code"
+            "stars_today": "420 stars today",
+            "url": "https://github.com/opengeos/GeoLibre"
         },
         {
-            "repo": "/CoreBunch/Instatic",
+            "repo": "/yorukot/superfile",
             "description": "暂无描述",
-            "stars_today": "888 stars today",
-            "url": "https://github.com/CoreBunch/Instatic"
+            "stars_today": "600 stars today",
+            "url": "https://github.com/yorukot/superfile"
         }
     ]
 }
