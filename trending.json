@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "top_5_trending": [
         {
-            "repo": "/permissionlesstech/bitchat",
+            "repo": "/pascalorg/editor",
             "description": "暂无描述",
-            "stars_today": "2,346 stars today",
-            "url": "https://github.com/permissionlesstech/bitchat"
+            "stars_today": "341 stars today",
+            "url": "https://github.com/pascalorg/editor"
         },
         {
-            "repo": "/amnezia-vpn/amnezia-client",
+            "repo": "/jenkinsci/jenkins",
             "description": "暂无描述",
-            "stars_today": "515 stars today",
-            "url": "https://github.com/amnezia-vpn/amnezia-client"
+            "stars_today": "180 stars today",
+            "url": "https://github.com/jenkinsci/jenkins"
         },
         {
             "repo": "/moeru-ai/airi",
             "description": "暂无描述",
-            "stars_today": "572 stars today",
+            "stars_today": "797 stars today",
             "url": "https://github.com/moeru-ai/airi"
         },
         {
-            "repo": "/opengeos/GeoLibre",
+            "repo": "/andrewyng/aisuite",
             "description": "暂无描述",
-            "stars_today": "420 stars today",
-            "url": "https://github.com/opengeos/GeoLibre"
+            "stars_today": "62 stars today",
+            "url": "https://github.com/andrewyng/aisuite"
         },
         {
-            "repo": "/yorukot/superfile",
+            "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "600 stars today",
-            "url": "https://github.com/yorukot/superfile"
+            "stars_today": "636 stars today",
+            "url": "https://github.com/affaan-m/ECC"
         }
     ]
 }
