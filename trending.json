@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "top_5_trending": [
         {
-            "repo": "/pascalorg/editor",
+            "repo": "/opengeos/GeoLibre",
             "description": "暂无描述",
-            "stars_today": "341 stars today",
-            "url": "https://github.com/pascalorg/editor"
-        },
-        {
-            "repo": "/jenkinsci/jenkins",
-            "description": "暂无描述",
-            "stars_today": "180 stars today",
-            "url": "https://github.com/jenkinsci/jenkins"
+            "stars_today": "671 stars today",
+            "url": "https://github.com/opengeos/GeoLibre"
         },
         {
             "repo": "/moeru-ai/airi",
             "description": "暂无描述",
-            "stars_today": "797 stars today",
+            "stars_today": "682 stars today",
             "url": "https://github.com/moeru-ai/airi"
-        },
-        {
-            "repo": "/andrewyng/aisuite",
-            "description": "暂无描述",
-            "stars_today": "62 stars today",
-            "url": "https://github.com/andrewyng/aisuite"
         },
         {
             "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "636 stars today",
+            "stars_today": "857 stars today",
             "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+            "repo": "/huggingface/speech-to-speech",
+            "description": "暂无描述",
+            "stars_today": "827 stars today",
+            "url": "https://github.com/huggingface/speech-to-speech"
+        },
+        {
+            "repo": "/1jehuang/jcode",
+            "description": "暂无描述",
+            "stars_today": "640 stars today",
+            "url": "https://github.com/1jehuang/jcode"
         }
     ]
 }
