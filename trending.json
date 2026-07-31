@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "top_5_trending": [
-        {
-            "repo": "/opengeos/GeoLibre",
-            "description": "暂无描述",
-            "stars_today": "671 stars today",
-            "url": "https://github.com/opengeos/GeoLibre"
-        },
-        {
-            "repo": "/moeru-ai/airi",
-            "description": "暂无描述",
-            "stars_today": "682 stars today",
-            "url": "https://github.com/moeru-ai/airi"
-        },
-        {
-            "repo": "/affaan-m/ECC",
-            "description": "暂无描述",
-            "stars_today": "857 stars today",
-            "url": "https://github.com/affaan-m/ECC"
-        },
         {
             "repo": "/huggingface/speech-to-speech",
             "description": "暂无描述",
-            "stars_today": "827 stars today",
+            "stars_today": "628 stars today",
             "url": "https://github.com/huggingface/speech-to-speech"
         },
         {
-            "repo": "/1jehuang/jcode",
+            "repo": "/microsoft/AI-For-Beginners",
             "description": "暂无描述",
-            "stars_today": "640 stars today",
-            "url": "https://github.com/1jehuang/jcode"
+            "stars_today": "155 stars today",
+            "url": "https://github.com/microsoft/AI-For-Beginners"
+        },
+        {
+            "repo": "/paperswithbacktest/awesome-systematic-trading",
+            "description": "暂无描述",
+            "stars_today": "621 stars today",
+            "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+        },
+        {
+            "repo": "/different-ai/openwork",
+            "description": "暂无描述",
+            "stars_today": "915 stars today",
+            "url": "https://github.com/different-ai/openwork"
+        },
+        {
+            "repo": "/WhiskeySockets/Baileys",
+            "description": "暂无描述",
+            "stars_today": "19 stars today",
+            "url": "https://github.com/WhiskeySockets/Baileys"
         }
     ]
 }
