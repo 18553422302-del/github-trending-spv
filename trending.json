@@ -1,35 +1,35 @@
 {
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "top_5_trending": [
         {
-            "repo": "/huggingface/speech-to-speech",
+            "repo": "/zhaoxuya520/reverse-skill",
             "description": "暂无描述",
-            "stars_today": "628 stars today",
-            "url": "https://github.com/huggingface/speech-to-speech"
-        },
-        {
-            "repo": "/microsoft/AI-For-Beginners",
-            "description": "暂无描述",
-            "stars_today": "155 stars today",
-            "url": "https://github.com/microsoft/AI-For-Beginners"
-        },
-        {
-            "repo": "/paperswithbacktest/awesome-systematic-trading",
-            "description": "暂无描述",
-            "stars_today": "621 stars today",
-            "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+            "stars_today": "335 stars today",
+            "url": "https://github.com/zhaoxuya520/reverse-skill"
         },
         {
             "repo": "/different-ai/openwork",
             "description": "暂无描述",
-            "stars_today": "915 stars today",
+            "stars_today": "806 stars today",
             "url": "https://github.com/different-ai/openwork"
         },
         {
-            "repo": "/WhiskeySockets/Baileys",
+            "repo": "/mvanhorn/last30days-skill",
             "description": "暂无描述",
-            "stars_today": "19 stars today",
-            "url": "https://github.com/WhiskeySockets/Baileys"
+            "stars_today": "658 stars today",
+            "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+            "repo": "/paperswithbacktest/awesome-systematic-trading",
+            "description": "暂无描述",
+            "stars_today": "763 stars today",
+            "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+        },
+        {
+            "repo": "/microsoft/AI-For-Beginners",
+            "description": "暂无描述",
+            "stars_today": "1,592 stars today",
+            "url": "https://github.com/microsoft/AI-For-Beginners"
         }
     ]
 }
