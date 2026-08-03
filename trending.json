@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "top_5_trending": [
         {
             "repo": "/microsoft/AI-For-Beginners",
             "description": "暂无描述",
-            "stars_today": "949 stars today",
+            "stars_today": "2,629 stars today",
             "url": "https://github.com/microsoft/AI-For-Beginners"
-        },
-        {
-            "repo": "/paperswithbacktest/awesome-systematic-trading",
-            "description": "暂无描述",
-            "stars_today": "523 stars today",
-            "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
         },
         {
             "repo": "/usekaneo/kaneo",
             "description": "暂无描述",
-            "stars_today": "760 stars today",
+            "stars_today": "496 stars today",
             "url": "https://github.com/usekaneo/kaneo"
         },
         {
-            "repo": "/zhaoxuya520/reverse-skill",
+            "repo": "/lyogavin/airllm",
             "description": "暂无描述",
-            "stars_today": "1,320 stars today",
-            "url": "https://github.com/zhaoxuya520/reverse-skill"
+            "stars_today": "819 stars today",
+            "url": "https://github.com/lyogavin/airllm"
         },
         {
-            "repo": "/microsoft/generative-ai-for-beginners",
+            "repo": "/iv-org/invidious",
             "description": "暂无描述",
-            "stars_today": "108 stars today",
-            "url": "https://github.com/microsoft/generative-ai-for-beginners"
+            "stars_today": "305 stars today",
+            "url": "https://github.com/iv-org/invidious"
+        },
+        {
+            "repo": "/codecrafters-io/build-your-own-x",
+            "description": "暂无描述",
+            "stars_today": "674 stars today",
+            "url": "https://github.com/codecrafters-io/build-your-own-x"
         }
     ]
 }
