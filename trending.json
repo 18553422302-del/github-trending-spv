@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "top_5_trending": [
-        {
-            "repo": "/microsoft/AI-For-Beginners",
-            "description": "暂无描述",
-            "stars_today": "2,629 stars today",
-            "url": "https://github.com/microsoft/AI-For-Beginners"
-        },
-        {
-            "repo": "/usekaneo/kaneo",
-            "description": "暂无描述",
-            "stars_today": "496 stars today",
-            "url": "https://github.com/usekaneo/kaneo"
-        },
         {
             "repo": "/lyogavin/airllm",
             "description": "暂无描述",
-            "stars_today": "819 stars today",
+            "stars_today": "1,085 stars today",
             "url": "https://github.com/lyogavin/airllm"
         },
         {
-            "repo": "/iv-org/invidious",
+            "repo": "/zhaoxuya520/reverse-skill",
             "description": "暂无描述",
-            "stars_today": "305 stars today",
-            "url": "https://github.com/iv-org/invidious"
+            "stars_today": "2,446 stars today",
+            "url": "https://github.com/zhaoxuya520/reverse-skill"
         },
         {
-            "repo": "/codecrafters-io/build-your-own-x",
+            "repo": "/firecrawl/pdf-inspector",
             "description": "暂无描述",
-            "stars_today": "674 stars today",
-            "url": "https://github.com/codecrafters-io/build-your-own-x"
+            "stars_today": "1,699 stars today",
+            "url": "https://github.com/firecrawl/pdf-inspector"
+        },
+        {
+            "repo": "/esengine/DeepSeek-Reasonix",
+            "description": "暂无描述",
+            "stars_today": "883 stars today",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix"
+        },
+        {
+            "repo": "/TencentCloud/TencentDB-Agent-Memory",
+            "description": "暂无描述",
+            "stars_today": "1,090 stars today",
+            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
         }
     ]
 }
