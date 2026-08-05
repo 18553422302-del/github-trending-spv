@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "top_5_trending": [
         {
-            "repo": "/lyogavin/airllm",
+            "repo": "/TencentCloud/TencentDB-Agent-Memory",
             "description": "暂无描述",
-            "stars_today": "1,085 stars today",
-            "url": "https://github.com/lyogavin/airllm"
+            "stars_today": "1,111 stars today",
+            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
         },
         {
             "repo": "/zhaoxuya520/reverse-skill",
             "description": "暂无描述",
-            "stars_today": "2,446 stars today",
+            "stars_today": "2,297 stars today",
             "url": "https://github.com/zhaoxuya520/reverse-skill"
         },
         {
             "repo": "/firecrawl/pdf-inspector",
             "description": "暂无描述",
-            "stars_today": "1,699 stars today",
+            "stars_today": "2,540 stars today",
             "url": "https://github.com/firecrawl/pdf-inspector"
         },
         {
-            "repo": "/esengine/DeepSeek-Reasonix",
+            "repo": "/uber/ADR",
             "description": "暂无描述",
-            "stars_today": "883 stars today",
-            "url": "https://github.com/esengine/DeepSeek-Reasonix"
+            "stars_today": "148 stars today",
+            "url": "https://github.com/uber/ADR"
         },
         {
-            "repo": "/TencentCloud/TencentDB-Agent-Memory",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,090 stars today",
-            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+            "stars_today": "653 stars today",
+            "url": "https://github.com/obra/superpowers"
         }
     ]
 }
