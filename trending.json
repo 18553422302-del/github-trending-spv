@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "top_5_trending": [
-        {
-            "repo": "/cloudflare/computer",
-            "description": "暂无描述",
-            "stars_today": "891 stars today",
-            "url": "https://github.com/cloudflare/computer"
-        },
-        {
-            "repo": "/huangruiteng/loopx",
-            "description": "暂无描述",
-            "stars_today": "326 stars today",
-            "url": "https://github.com/huangruiteng/loopx"
-        },
         {
             "repo": "/TencentCloud/TencentDB-Agent-Memory",
             "description": "暂无描述",
-            "stars_today": "1,892 stars today",
+            "stars_today": "1,057 stars today",
             "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
         },
         {
-            "repo": "/donnemartin/system-design-primer",
+            "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "303 stars today",
-            "url": "https://github.com/donnemartin/system-design-primer"
+            "stars_today": "593 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/firecrawl/pdf-inspector",
+            "repo": "/cloudflare/computer",
             "description": "暂无描述",
-            "stars_today": "1,582 stars today",
-            "url": "https://github.com/firecrawl/pdf-inspector"
+            "stars_today": "2,802 stars today",
+            "url": "https://github.com/cloudflare/computer"
+        },
+        {
+            "repo": "/mattpocock/skills",
+            "description": "暂无描述",
+            "stars_today": "1,873 stars today",
+            "url": "https://github.com/mattpocock/skills"
+        },
+        {
+            "repo": "/goauthentik/authentik",
+            "description": "暂无描述",
+            "stars_today": "138 stars today",
+            "url": "https://github.com/goauthentik/authentik"
         }
     ]
 }
