@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "top_5_trending": [
         {
-            "repo": "/TencentCloud/TencentDB-Agent-Memory",
+            "repo": "/PrimeIntellect-ai/prime-agent",
             "description": "暂无描述",
-            "stars_today": "1,057 stars today",
-            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+            "stars_today": "2,293 stars today",
+            "url": "https://github.com/PrimeIntellect-ai/prime-agent"
         },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "593 stars today",
+            "stars_today": "1,131 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
             "repo": "/cloudflare/computer",
             "description": "暂无描述",
-            "stars_today": "2,802 stars today",
+            "stars_today": "872 stars today",
             "url": "https://github.com/cloudflare/computer"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "1,873 stars today",
+            "stars_today": "2,152 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/goauthentik/authentik",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "138 stars today",
-            "url": "https://github.com/goauthentik/authentik"
+            "stars_today": "782 stars today",
+            "url": "https://github.com/obra/superpowers"
         }
     ]
 }
