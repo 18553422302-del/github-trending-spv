@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "top_5_trending": [
         {
             "repo": "/PrimeIntellect-ai/prime-agent",
             "description": "暂无描述",
-            "stars_today": "2,293 stars today",
+            "stars_today": "2,483 stars today",
             "url": "https://github.com/PrimeIntellect-ai/prime-agent"
         },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "1,131 stars today",
+            "stars_today": "779 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/cloudflare/computer",
+            "repo": "/TapXWorld/ChinaTextbook",
             "description": "暂无描述",
-            "stars_today": "872 stars today",
-            "url": "https://github.com/cloudflare/computer"
+            "stars_today": "118 stars today",
+            "url": "https://github.com/TapXWorld/ChinaTextbook"
+        },
+        {
+            "repo": "/google/skills",
+            "description": "暂无描述",
+            "stars_today": "481 stars today",
+            "url": "https://github.com/google/skills"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "2,152 stars today",
+            "stars_today": "1,359 stars today",
             "url": "https://github.com/mattpocock/skills"
-        },
-        {
-            "repo": "/obra/superpowers",
-            "description": "暂无描述",
-            "stars_today": "782 stars today",
-            "url": "https://github.com/obra/superpowers"
         }
     ]
 }
