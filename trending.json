@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-09",
+    "date": "2026-08-10",
     "top_5_trending": [
         {
             "repo": "/PrimeIntellect-ai/prime-agent",
             "description": "暂无描述",
-            "stars_today": "2,483 stars today",
+            "stars_today": "2,356 stars today",
             "url": "https://github.com/PrimeIntellect-ai/prime-agent"
         },
         {
-            "repo": "/addyosmani/agent-skills",
+            "repo": "/vitali87/code-graph-rag",
             "description": "暂无描述",
-            "stars_today": "779 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
+            "stars_today": "96 stars today",
+            "url": "https://github.com/vitali87/code-graph-rag"
         },
         {
-            "repo": "/TapXWorld/ChinaTextbook",
+            "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "118 stars today",
-            "url": "https://github.com/TapXWorld/ChinaTextbook"
+            "stars_today": "858 stars today",
+            "url": "https://github.com/msitarzewski/agency-agents"
         },
         {
-            "repo": "/google/skills",
+            "repo": "/pranshuparmar/witr",
             "description": "暂无描述",
-            "stars_today": "481 stars today",
-            "url": "https://github.com/google/skills"
+            "stars_today": "210 stars today",
+            "url": "https://github.com/pranshuparmar/witr"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/google-deepmind/weathernext",
             "description": "暂无描述",
-            "stars_today": "1,359 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "86 stars today",
+            "url": "https://github.com/google-deepmind/weathernext"
         }
     ]
 }
