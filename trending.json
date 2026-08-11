@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "top_5_trending": [
         {
-            "repo": "/PrimeIntellect-ai/prime-agent",
+            "repo": "/semantica-agi/semantica",
             "description": "暂无描述",
-            "stars_today": "2,356 stars today",
-            "url": "https://github.com/PrimeIntellect-ai/prime-agent"
-        },
-        {
-            "repo": "/vitali87/code-graph-rag",
-            "description": "暂无描述",
-            "stars_today": "96 stars today",
-            "url": "https://github.com/vitali87/code-graph-rag"
+            "stars_today": "970 stars today",
+            "url": "https://github.com/semantica-agi/semantica"
         },
         {
             "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "858 stars today",
+            "stars_today": "1,349 stars today",
             "url": "https://github.com/msitarzewski/agency-agents"
         },
         {
-            "repo": "/pranshuparmar/witr",
+            "repo": "/NanmiCoder/MediaCrawler",
             "description": "暂无描述",
-            "stars_today": "210 stars today",
-            "url": "https://github.com/pranshuparmar/witr"
+            "stars_today": "259 stars today",
+            "url": "https://github.com/NanmiCoder/MediaCrawler"
         },
         {
-            "repo": "/google-deepmind/weathernext",
+            "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "86 stars today",
-            "url": "https://github.com/google-deepmind/weathernext"
+            "stars_today": "659 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
+        },
+        {
+            "repo": "/paperclipai/paperclip",
+            "description": "暂无描述",
+            "stars_today": "198 stars today",
+            "url": "https://github.com/paperclipai/paperclip"
         }
     ]
 }
