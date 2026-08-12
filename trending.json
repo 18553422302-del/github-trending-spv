@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-11",
+    "date": "2026-08-12",
     "top_5_trending": [
-        {
-            "repo": "/semantica-agi/semantica",
-            "description": "暂无描述",
-            "stars_today": "970 stars today",
-            "url": "https://github.com/semantica-agi/semantica"
-        },
         {
             "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "1,349 stars today",
+            "stars_today": "958 stars today",
             "url": "https://github.com/msitarzewski/agency-agents"
         },
         {
-            "repo": "/NanmiCoder/MediaCrawler",
+            "repo": "/semantica-agi/semantica",
             "description": "暂无描述",
-            "stars_today": "259 stars today",
-            "url": "https://github.com/NanmiCoder/MediaCrawler"
+            "stars_today": "893 stars today",
+            "url": "https://github.com/semantica-agi/semantica"
+        },
+        {
+            "repo": "/nvm-sh/nvm",
+            "description": "暂无描述",
+            "stars_today": "22 stars today",
+            "url": "https://github.com/nvm-sh/nvm"
         },
         {
             "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "659 stars today",
+            "stars_today": "578 stars today",
             "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/paperclipai/paperclip",
+            "repo": "/ZhuLinsen/daily_stock_analysis",
             "description": "暂无描述",
-            "stars_today": "198 stars today",
-            "url": "https://github.com/paperclipai/paperclip"
+            "stars_today": "243 stars today",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
         }
     ]
 }
