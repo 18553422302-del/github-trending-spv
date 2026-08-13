@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "top_5_trending": [
         {
-            "repo": "/msitarzewski/agency-agents",
+            "repo": "/cathrynlavery/diagram-design",
             "description": "暂无描述",
-            "stars_today": "958 stars today",
-            "url": "https://github.com/msitarzewski/agency-agents"
+            "stars_today": "2,855 stars today",
+            "url": "https://github.com/cathrynlavery/diagram-design"
+        },
+        {
+            "repo": "/macro-inc/macro",
+            "description": "暂无描述",
+            "stars_today": "227 stars today",
+            "url": "https://github.com/macro-inc/macro"
         },
         {
             "repo": "/semantica-agi/semantica",
             "description": "暂无描述",
-            "stars_today": "893 stars today",
+            "stars_today": "845 stars today",
             "url": "https://github.com/semantica-agi/semantica"
         },
         {
-            "repo": "/nvm-sh/nvm",
+            "repo": "/stablyai/orca",
             "description": "暂无描述",
-            "stars_today": "22 stars today",
-            "url": "https://github.com/nvm-sh/nvm"
+            "stars_today": "1,235 stars today",
+            "url": "https://github.com/stablyai/orca"
         },
         {
-            "repo": "/addyosmani/agent-skills",
+            "repo": "/msitarzewski/agency-agents",
             "description": "暂无描述",
-            "stars_today": "578 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
-        },
-        {
-            "repo": "/ZhuLinsen/daily_stock_analysis",
-            "description": "暂无描述",
-            "stars_today": "243 stars today",
-            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+            "stars_today": "1,873 stars today",
+            "url": "https://github.com/msitarzewski/agency-agents"
         }
     ]
 }
