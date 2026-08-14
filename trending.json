@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "top_5_trending": [
         {
             "repo": "/cathrynlavery/diagram-design",
             "description": "暂无描述",
-            "stars_today": "2,855 stars today",
+            "stars_today": "4,475 stars today",
             "url": "https://github.com/cathrynlavery/diagram-design"
-        },
-        {
-            "repo": "/macro-inc/macro",
-            "description": "暂无描述",
-            "stars_today": "227 stars today",
-            "url": "https://github.com/macro-inc/macro"
         },
         {
             "repo": "/semantica-agi/semantica",
             "description": "暂无描述",
-            "stars_today": "845 stars today",
+            "stars_today": "713 stars today",
             "url": "https://github.com/semantica-agi/semantica"
         },
         {
-            "repo": "/stablyai/orca",
+            "repo": "/anthropics/skills",
             "description": "暂无描述",
-            "stars_today": "1,235 stars today",
-            "url": "https://github.com/stablyai/orca"
+            "stars_today": "312 stars today",
+            "url": "https://github.com/anthropics/skills"
         },
         {
-            "repo": "/msitarzewski/agency-agents",
+            "repo": "/cactus-compute/needle",
             "description": "暂无描述",
-            "stars_today": "1,873 stars today",
-            "url": "https://github.com/msitarzewski/agency-agents"
+            "stars_today": "769 stars today",
+            "url": "https://github.com/cactus-compute/needle"
+        },
+        {
+            "repo": "/altic-dev/FluidVoice",
+            "description": "暂无描述",
+            "stars_today": "76 stars today",
+            "url": "https://github.com/altic-dev/FluidVoice"
         }
     ]
 }
