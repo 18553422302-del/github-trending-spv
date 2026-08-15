@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-14",
+    "date": "2026-08-15",
     "top_5_trending": [
         {
             "repo": "/cathrynlavery/diagram-design",
             "description": "暂无描述",
-            "stars_today": "4,475 stars today",
+            "stars_today": "3,646 stars today",
             "url": "https://github.com/cathrynlavery/diagram-design"
-        },
-        {
-            "repo": "/semantica-agi/semantica",
-            "description": "暂无描述",
-            "stars_today": "713 stars today",
-            "url": "https://github.com/semantica-agi/semantica"
-        },
-        {
-            "repo": "/anthropics/skills",
-            "description": "暂无描述",
-            "stars_today": "312 stars today",
-            "url": "https://github.com/anthropics/skills"
         },
         {
             "repo": "/cactus-compute/needle",
             "description": "暂无描述",
-            "stars_today": "769 stars today",
+            "stars_today": "662 stars today",
             "url": "https://github.com/cactus-compute/needle"
         },
         {
-            "repo": "/altic-dev/FluidVoice",
+            "repo": "/megadose/holehe",
             "description": "暂无描述",
-            "stars_today": "76 stars today",
-            "url": "https://github.com/altic-dev/FluidVoice"
+            "stars_today": "427 stars today",
+            "url": "https://github.com/megadose/holehe"
+        },
+        {
+            "repo": "/macro-inc/macro",
+            "description": "暂无描述",
+            "stars_today": "436 stars today",
+            "url": "https://github.com/macro-inc/macro"
+        },
+        {
+            "repo": "/smicallef/spiderfoot",
+            "description": "暂无描述",
+            "stars_today": "293 stars today",
+            "url": "https://github.com/smicallef/spiderfoot"
         }
     ]
 }
