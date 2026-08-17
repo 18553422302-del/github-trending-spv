@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-16",
+    "date": "2026-08-17",
     "top_5_trending": [
         {
             "repo": "/cordiverse/cordis",
             "description": "暂无描述",
-            "stars_today": "599 stars today",
+            "stars_today": "720 stars today",
             "url": "https://github.com/cordiverse/cordis"
         },
         {
-            "repo": "/cathrynlavery/diagram-design",
+            "repo": "/basecamp/omarchy",
             "description": "暂无描述",
-            "stars_today": "1,607 stars today",
-            "url": "https://github.com/cathrynlavery/diagram-design"
-        },
-        {
-            "repo": "/cursor/plugins",
-            "description": "暂无描述",
-            "stars_today": "149 stars today",
-            "url": "https://github.com/cursor/plugins"
-        },
-        {
-            "repo": "/cactus-compute/needle",
-            "description": "暂无描述",
-            "stars_today": "547 stars today",
-            "url": "https://github.com/cactus-compute/needle"
+            "stars_today": "270 stars today",
+            "url": "https://github.com/basecamp/omarchy"
         },
         {
             "repo": "/unslothai/unsloth",
             "description": "暂无描述",
-            "stars_today": "434 stars today",
+            "stars_today": "572 stars today",
             "url": "https://github.com/unslothai/unsloth"
+        },
+        {
+            "repo": "/OpenCut-app/OpenCut",
+            "description": "暂无描述",
+            "stars_today": "150 stars today",
+            "url": "https://github.com/OpenCut-app/OpenCut"
+        },
+        {
+            "repo": "/public-apis/public-apis",
+            "description": "暂无描述",
+            "stars_today": "1,588 stars today",
+            "url": "https://github.com/public-apis/public-apis"
         }
     ]
 }
