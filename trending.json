@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "top_5_trending": [
         {
             "repo": "/harry0703/MoneyPrinterTurbo",
             "description": "暂无描述",
-            "stars_today": "2,304 stars today",
+            "stars_today": "2,221 stars today",
             "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-        },
-        {
-            "repo": "/chaitanyagiri/munder-difflin",
-            "description": "暂无描述",
-            "stars_today": "306 stars today",
-            "url": "https://github.com/chaitanyagiri/munder-difflin"
-        },
-        {
-            "repo": "/akitaonrails/ai-memory",
-            "description": "暂无描述",
-            "stars_today": "648 stars today",
-            "url": "https://github.com/akitaonrails/ai-memory"
         },
         {
             "repo": "/volcengine/OpenViking",
             "description": "暂无描述",
-            "stars_today": "213 stars today",
+            "stars_today": "804 stars today",
             "url": "https://github.com/volcengine/OpenViking"
+        },
+        {
+            "repo": "/chaitanyagiri/munder-difflin",
+            "description": "暂无描述",
+            "stars_today": "795 stars today",
+            "url": "https://github.com/chaitanyagiri/munder-difflin"
         },
         {
             "repo": "/mukul975/Anthropic-Cybersecurity-Skills",
             "description": "暂无描述",
-            "stars_today": "730 stars today",
+            "stars_today": "766 stars today",
             "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+        },
+        {
+            "repo": "/nautechsystems/nautilus_trader",
+            "description": "暂无描述",
+            "stars_today": "80 stars today",
+            "url": "https://github.com/nautechsystems/nautilus_trader"
         }
     ]
 }
