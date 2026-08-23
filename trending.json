@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "top_5_trending": [
+        {
+            "repo": "/openai/codex",
+            "description": "暂无描述",
+            "stars_today": "1,544 stars today",
+            "url": "https://github.com/openai/codex"
+        },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "3,362 stars today",
+            "stars_today": "2,683 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/mahlernim/google-timeline-visualizer",
+            "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "1,053 stars today",
-            "url": "https://github.com/mahlernim/google-timeline-visualizer"
+            "stars_today": "411 stars today",
+            "url": "https://github.com/affaan-m/ECC"
         },
         {
-            "repo": "/harry0703/MoneyPrinterTurbo",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,201 stars today",
-            "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+            "stars_today": "592 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/AprilNEA/OpenLogi",
+            "repo": "/Wei-Shaw/sub2api",
             "description": "暂无描述",
-            "stars_today": "1,380 stars today",
-            "url": "https://github.com/AprilNEA/OpenLogi"
-        },
-        {
-            "repo": "/PostHog/posthog",
-            "description": "暂无描述",
-            "stars_today": "335 stars today",
-            "url": "https://github.com/PostHog/posthog"
+            "stars_today": "278 stars today",
+            "url": "https://github.com/Wei-Shaw/sub2api"
         }
     ]
 }
