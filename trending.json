@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-23",
+    "date": "2026-08-24",
     "top_5_trending": [
         {
             "repo": "/openai/codex",
             "description": "暂无描述",
-            "stars_today": "1,544 stars today",
+            "stars_today": "2,715 stars today",
             "url": "https://github.com/openai/codex"
+        },
+        {
+            "repo": "/freestylefly/awesome-gpt-image-2",
+            "description": "暂无描述",
+            "stars_today": "401 stars today",
+            "url": "https://github.com/freestylefly/awesome-gpt-image-2"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "2,683 stars today",
+            "stars_today": "2,447 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/affaan-m/ECC",
+            "repo": "/basecamp/omarchy",
             "description": "暂无描述",
-            "stars_today": "411 stars today",
-            "url": "https://github.com/affaan-m/ECC"
+            "stars_today": "750 stars today",
+            "url": "https://github.com/basecamp/omarchy"
         },
         {
-            "repo": "/obra/superpowers",
+            "repo": "/AprilNEA/OpenLogi",
             "description": "暂无描述",
-            "stars_today": "592 stars today",
-            "url": "https://github.com/obra/superpowers"
-        },
-        {
-            "repo": "/Wei-Shaw/sub2api",
-            "description": "暂无描述",
-            "stars_today": "278 stars today",
-            "url": "https://github.com/Wei-Shaw/sub2api"
+            "stars_today": "1,009 stars today",
+            "url": "https://github.com/AprilNEA/OpenLogi"
         }
     ]
 }
