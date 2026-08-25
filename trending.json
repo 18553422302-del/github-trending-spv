@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "top_5_trending": [
+        {
+            "repo": "/Alishahryar1/free-claude-code",
+            "description": "暂无描述",
+            "stars_today": "891 stars today",
+            "url": "https://github.com/Alishahryar1/free-claude-code"
+        },
         {
             "repo": "/openai/codex",
             "description": "暂无描述",
-            "stars_today": "2,715 stars today",
+            "stars_today": "1,994 stars today",
             "url": "https://github.com/openai/codex"
         },
         {
-            "repo": "/freestylefly/awesome-gpt-image-2",
+            "repo": "/MadsLorentzen/ai-job-search",
             "description": "暂无描述",
-            "stars_today": "401 stars today",
-            "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+            "stars_today": "434 stars today",
+            "url": "https://github.com/MadsLorentzen/ai-job-search"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/multica-ai/andrej-karpathy-skills",
             "description": "暂无描述",
-            "stars_today": "2,447 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "588 stars today",
+            "url": "https://github.com/multica-ai/andrej-karpathy-skills"
         },
         {
-            "repo": "/basecamp/omarchy",
+            "repo": "/makeplane/plane",
             "description": "暂无描述",
-            "stars_today": "750 stars today",
-            "url": "https://github.com/basecamp/omarchy"
-        },
-        {
-            "repo": "/AprilNEA/OpenLogi",
-            "description": "暂无描述",
-            "stars_today": "1,009 stars today",
-            "url": "https://github.com/AprilNEA/OpenLogi"
+            "stars_today": "243 stars today",
+            "url": "https://github.com/makeplane/plane"
         }
     ]
 }
