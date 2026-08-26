@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "top_5_trending": [
         {
-            "repo": "/Alishahryar1/free-claude-code",
+            "repo": "/freestylefly/awesome-gpt-image-2",
             "description": "暂无描述",
-            "stars_today": "891 stars today",
-            "url": "https://github.com/Alishahryar1/free-claude-code"
+            "stars_today": "1,698 stars today",
+            "url": "https://github.com/freestylefly/awesome-gpt-image-2"
         },
         {
-            "repo": "/openai/codex",
+            "repo": "/anthropics/claude-plugins-community",
             "description": "暂无描述",
-            "stars_today": "1,994 stars today",
-            "url": "https://github.com/openai/codex"
+            "stars_today": "351 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-community"
         },
         {
             "repo": "/MadsLorentzen/ai-job-search",
             "description": "暂无描述",
-            "stars_today": "434 stars today",
+            "stars_today": "1,265 stars today",
             "url": "https://github.com/MadsLorentzen/ai-job-search"
         },
         {
-            "repo": "/multica-ai/andrej-karpathy-skills",
+            "repo": "/apache/maka",
             "description": "暂无描述",
-            "stars_today": "588 stars today",
-            "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+            "stars_today": "543 stars today",
+            "url": "https://github.com/apache/maka"
         },
         {
-            "repo": "/makeplane/plane",
+            "repo": "/TauricResearch/TradingAgents",
             "description": "暂无描述",
-            "stars_today": "243 stars today",
-            "url": "https://github.com/makeplane/plane"
+            "stars_today": "218 stars today",
+            "url": "https://github.com/TauricResearch/TradingAgents"
         }
     ]
 }
