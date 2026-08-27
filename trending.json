@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "top_5_trending": [
+        {
+            "repo": "/tt-a1i/archify",
+            "description": "暂无描述",
+            "stars_today": "1,035 stars today",
+            "url": "https://github.com/tt-a1i/archify"
+        },
         {
             "repo": "/freestylefly/awesome-gpt-image-2",
             "description": "暂无描述",
-            "stars_today": "1,698 stars today",
+            "stars_today": "4,050 stars today",
             "url": "https://github.com/freestylefly/awesome-gpt-image-2"
         },
         {
-            "repo": "/anthropics/claude-plugins-community",
+            "repo": "/anthropics/claude-plugins-official",
             "description": "暂无描述",
-            "stars_today": "351 stars today",
-            "url": "https://github.com/anthropics/claude-plugins-community"
+            "stars_today": "308 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-official"
+        },
+        {
+            "repo": "/Alishahryar1/free-claude-code",
+            "description": "暂无描述",
+            "stars_today": "536 stars today",
+            "url": "https://github.com/Alishahryar1/free-claude-code"
         },
         {
             "repo": "/MadsLorentzen/ai-job-search",
             "description": "暂无描述",
-            "stars_today": "1,265 stars today",
+            "stars_today": "1,300 stars today",
             "url": "https://github.com/MadsLorentzen/ai-job-search"
-        },
-        {
-            "repo": "/apache/maka",
-            "description": "暂无描述",
-            "stars_today": "543 stars today",
-            "url": "https://github.com/apache/maka"
-        },
-        {
-            "repo": "/TauricResearch/TradingAgents",
-            "description": "暂无描述",
-            "stars_today": "218 stars today",
-            "url": "https://github.com/TauricResearch/TradingAgents"
         }
     ]
 }
