@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "top_5_trending": [
         {
-            "repo": "/tt-a1i/archify",
+            "repo": "/bilawalsidhu/gods-eye-view",
             "description": "暂无描述",
-            "stars_today": "1,035 stars today",
-            "url": "https://github.com/tt-a1i/archify"
+            "stars_today": "1,984 stars today",
+            "url": "https://github.com/bilawalsidhu/gods-eye-view"
+        },
+        {
+            "repo": "/zedeus/nitter",
+            "description": "暂无描述",
+            "stars_today": "71 stars today",
+            "url": "https://github.com/zedeus/nitter"
         },
         {
             "repo": "/freestylefly/awesome-gpt-image-2",
             "description": "暂无描述",
-            "stars_today": "4,050 stars today",
+            "stars_today": "2,096 stars today",
             "url": "https://github.com/freestylefly/awesome-gpt-image-2"
         },
         {
-            "repo": "/anthropics/claude-plugins-official",
+            "repo": "/tt-a1i/archify",
             "description": "暂无描述",
-            "stars_today": "308 stars today",
-            "url": "https://github.com/anthropics/claude-plugins-official"
+            "stars_today": "4,239 stars today",
+            "url": "https://github.com/tt-a1i/archify"
         },
         {
-            "repo": "/Alishahryar1/free-claude-code",
+            "repo": "/JetBrains/go-modern-guidelines",
             "description": "暂无描述",
-            "stars_today": "536 stars today",
-            "url": "https://github.com/Alishahryar1/free-claude-code"
-        },
-        {
-            "repo": "/MadsLorentzen/ai-job-search",
-            "description": "暂无描述",
-            "stars_today": "1,300 stars today",
-            "url": "https://github.com/MadsLorentzen/ai-job-search"
+            "stars_today": "300 stars today",
+            "url": "https://github.com/JetBrains/go-modern-guidelines"
         }
     ]
 }
