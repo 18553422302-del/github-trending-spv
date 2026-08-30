@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-29",
+    "date": "2026-08-30",
     "top_5_trending": [
         {
             "repo": "/tt-a1i/archify",
             "description": "暂无描述",
-            "stars_today": "4,562 stars today",
+            "stars_today": "3,902 stars today",
             "url": "https://github.com/tt-a1i/archify"
-        },
-        {
-            "repo": "/K-Dense-AI/scientific-agent-skills",
-            "description": "暂无描述",
-            "stars_today": "720 stars today",
-            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-        },
-        {
-            "repo": "/anthropics/claude-plugins-official",
-            "description": "暂无描述",
-            "stars_today": "457 stars today",
-            "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
             "repo": "/bilawalsidhu/gods-eye-view",
             "description": "暂无描述",
-            "stars_today": "3,829 stars today",
+            "stars_today": "1,855 stars today",
             "url": "https://github.com/bilawalsidhu/gods-eye-view"
         },
         {
-            "repo": "/abhigyanpatwari/GitNexus",
+            "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "202 stars today",
-            "url": "https://github.com/abhigyanpatwari/GitNexus"
+            "stars_today": "1,587 stars today",
+            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+        },
+        {
+            "repo": "/tailscale/tailcat",
+            "description": "暂无描述",
+            "stars_today": "789 stars today",
+            "url": "https://github.com/tailscale/tailcat"
+        },
+        {
+            "repo": "/THU-MAIC/OpenMAIC",
+            "description": "暂无描述",
+            "stars_today": "907 stars today",
+            "url": "https://github.com/THU-MAIC/OpenMAIC"
         }
     ]
 }
