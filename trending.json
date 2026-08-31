@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-30",
+    "date": "2026-08-31",
     "top_5_trending": [
         {
-            "repo": "/tt-a1i/archify",
+            "repo": "/THU-MAIC/OpenMAIC",
             "description": "暂无描述",
-            "stars_today": "3,902 stars today",
-            "url": "https://github.com/tt-a1i/archify"
-        },
-        {
-            "repo": "/bilawalsidhu/gods-eye-view",
-            "description": "暂无描述",
-            "stars_today": "1,855 stars today",
-            "url": "https://github.com/bilawalsidhu/gods-eye-view"
+            "stars_today": "1,370 stars today",
+            "url": "https://github.com/THU-MAIC/OpenMAIC"
         },
         {
             "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "1,587 stars today",
+            "stars_today": "1,114 stars today",
             "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
-            "repo": "/tailscale/tailcat",
+            "repo": "/Lakr233/vphone-cli",
             "description": "暂无描述",
-            "stars_today": "789 stars today",
-            "url": "https://github.com/tailscale/tailcat"
+            "stars_today": "361 stars today",
+            "url": "https://github.com/Lakr233/vphone-cli"
         },
         {
-            "repo": "/THU-MAIC/OpenMAIC",
+            "repo": "/tt-a1i/archify",
             "description": "暂无描述",
-            "stars_today": "907 stars today",
-            "url": "https://github.com/THU-MAIC/OpenMAIC"
+            "stars_today": "3,722 stars today",
+            "url": "https://github.com/tt-a1i/archify"
+        },
+        {
+            "repo": "/p-e-w/heretic",
+            "description": "暂无描述",
+            "stars_today": "369 stars today",
+            "url": "https://github.com/p-e-w/heretic"
         }
     ]
 }
