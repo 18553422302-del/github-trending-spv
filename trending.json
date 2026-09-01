@@ -1,35 +1,35 @@
 {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "top_5_trending": [
         {
             "repo": "/THU-MAIC/OpenMAIC",
             "description": "暂无描述",
-            "stars_today": "1,370 stars today",
+            "stars_today": "2,824 stars today",
             "url": "https://github.com/THU-MAIC/OpenMAIC"
-        },
-        {
-            "repo": "/K-Dense-AI/scientific-agent-skills",
-            "description": "暂无描述",
-            "stars_today": "1,114 stars today",
-            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-        },
-        {
-            "repo": "/Lakr233/vphone-cli",
-            "description": "暂无描述",
-            "stars_today": "361 stars today",
-            "url": "https://github.com/Lakr233/vphone-cli"
         },
         {
             "repo": "/tt-a1i/archify",
             "description": "暂无描述",
-            "stars_today": "3,722 stars today",
+            "stars_today": "3,991 stars today",
             "url": "https://github.com/tt-a1i/archify"
         },
         {
-            "repo": "/p-e-w/heretic",
+            "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "369 stars today",
-            "url": "https://github.com/p-e-w/heretic"
+            "stars_today": "1,980 stars today",
+            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+        },
+        {
+            "repo": "/k1tbyte/Wand-Enhancer",
+            "description": "暂无描述",
+            "stars_today": "582 stars today",
+            "url": "https://github.com/k1tbyte/Wand-Enhancer"
+        },
+        {
+            "repo": "/majd/ipatool",
+            "description": "暂无描述",
+            "stars_today": "373 stars today",
+            "url": "https://github.com/majd/ipatool"
         }
     ]
 }
