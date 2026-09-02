@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-01",
+    "date": "2026-09-02",
     "top_5_trending": [
+        {
+            "repo": "/Gitlawb/openclaude",
+            "description": "暂无描述",
+            "stars_today": "80 stars today",
+            "url": "https://github.com/Gitlawb/openclaude"
+        },
+        {
+            "repo": "/Imbad0202/academic-research-skills",
+            "description": "暂无描述",
+            "stars_today": "193 stars today",
+            "url": "https://github.com/Imbad0202/academic-research-skills"
+        },
         {
             "repo": "/THU-MAIC/OpenMAIC",
             "description": "暂无描述",
-            "stars_today": "2,824 stars today",
+            "stars_today": "3,128 stars today",
             "url": "https://github.com/THU-MAIC/OpenMAIC"
         },
         {
-            "repo": "/tt-a1i/archify",
+            "repo": "/iv-org/invidious",
             "description": "暂无描述",
-            "stars_today": "3,991 stars today",
-            "url": "https://github.com/tt-a1i/archify"
+            "stars_today": "577 stars today",
+            "url": "https://github.com/iv-org/invidious"
         },
         {
-            "repo": "/K-Dense-AI/scientific-agent-skills",
+            "repo": "/jingyaogong/minimind",
             "description": "暂无描述",
-            "stars_today": "1,980 stars today",
-            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-        },
-        {
-            "repo": "/k1tbyte/Wand-Enhancer",
-            "description": "暂无描述",
-            "stars_today": "582 stars today",
-            "url": "https://github.com/k1tbyte/Wand-Enhancer"
-        },
-        {
-            "repo": "/majd/ipatool",
-            "description": "暂无描述",
-            "stars_today": "373 stars today",
-            "url": "https://github.com/majd/ipatool"
+            "stars_today": "1,005 stars today",
+            "url": "https://github.com/jingyaogong/minimind"
         }
     ]
 }
