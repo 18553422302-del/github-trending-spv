@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "top_5_trending": [
         {
-            "repo": "/Gitlawb/openclaude",
+            "repo": "/fmtlib/fmt",
             "description": "暂无描述",
-            "stars_today": "80 stars today",
-            "url": "https://github.com/Gitlawb/openclaude"
+            "stars_today": "14 stars today",
+            "url": "https://github.com/fmtlib/fmt"
         },
         {
-            "repo": "/Imbad0202/academic-research-skills",
+            "repo": "/google-research/timesfm",
             "description": "暂无描述",
-            "stars_today": "193 stars today",
-            "url": "https://github.com/Imbad0202/academic-research-skills"
+            "stars_today": "343 stars today",
+            "url": "https://github.com/google-research/timesfm"
         },
         {
-            "repo": "/THU-MAIC/OpenMAIC",
+            "repo": "/DietrichGebert/ponytail",
             "description": "暂无描述",
-            "stars_today": "3,128 stars today",
-            "url": "https://github.com/THU-MAIC/OpenMAIC"
+            "stars_today": "1,354 stars today",
+            "url": "https://github.com/DietrichGebert/ponytail"
         },
         {
-            "repo": "/iv-org/invidious",
+            "repo": "/debpalash/VoiceStudio",
             "description": "暂无描述",
-            "stars_today": "577 stars today",
-            "url": "https://github.com/iv-org/invidious"
+            "stars_today": "832 stars today",
+            "url": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "repo": "/jingyaogong/minimind",
+            "repo": "/sngyai/Sequoia-X",
             "description": "暂无描述",
-            "stars_today": "1,005 stars today",
-            "url": "https://github.com/jingyaogong/minimind"
+            "stars_today": "63 stars today",
+            "url": "https://github.com/sngyai/Sequoia-X"
         }
     ]
 }
