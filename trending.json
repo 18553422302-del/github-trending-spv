@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "top_5_trending": [
         {
             "repo": "/fmtlib/fmt",
             "description": "暂无描述",
-            "stars_today": "14 stars today",
+            "stars_today": "963 stars today",
             "url": "https://github.com/fmtlib/fmt"
         },
         {
-            "repo": "/google-research/timesfm",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "343 stars today",
-            "url": "https://github.com/google-research/timesfm"
+            "stars_today": "1,601 stars today",
+            "url": "https://github.com/mattpocock/skills"
+        },
+        {
+            "repo": "/NousResearch/hermes-agent",
+            "description": "暂无描述",
+            "stars_today": "774 stars today",
+            "url": "https://github.com/NousResearch/hermes-agent"
         },
         {
             "repo": "/DietrichGebert/ponytail",
             "description": "暂无描述",
-            "stars_today": "1,354 stars today",
+            "stars_today": "2,128 stars today",
             "url": "https://github.com/DietrichGebert/ponytail"
         },
         {
-            "repo": "/debpalash/VoiceStudio",
+            "repo": "/anthropics/skills",
             "description": "暂无描述",
-            "stars_today": "832 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
-        },
-        {
-            "repo": "/sngyai/Sequoia-X",
-            "description": "暂无描述",
-            "stars_today": "63 stars today",
-            "url": "https://github.com/sngyai/Sequoia-X"
+            "stars_today": "281 stars today",
+            "url": "https://github.com/anthropics/skills"
         }
     ]
 }
