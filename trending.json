@@ -1,34 +1,34 @@
 {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "top_5_trending": [
-        {
-            "repo": "/fmtlib/fmt",
-            "description": "暂无描述",
-            "stars_today": "963 stars today",
-            "url": "https://github.com/fmtlib/fmt"
-        },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "1,601 stars today",
+            "stars_today": "2,758 stars today",
             "url": "https://github.com/mattpocock/skills"
-        },
-        {
-            "repo": "/NousResearch/hermes-agent",
-            "description": "暂无描述",
-            "stars_today": "774 stars today",
-            "url": "https://github.com/NousResearch/hermes-agent"
         },
         {
             "repo": "/DietrichGebert/ponytail",
             "description": "暂无描述",
-            "stars_today": "2,128 stars today",
+            "stars_today": "1,679 stars today",
             "url": "https://github.com/DietrichGebert/ponytail"
+        },
+        {
+            "repo": "/fmtlib/fmt",
+            "description": "暂无描述",
+            "stars_today": "688 stars today",
+            "url": "https://github.com/fmtlib/fmt"
+        },
+        {
+            "repo": "/affaan-m/ECC",
+            "description": "暂无描述",
+            "stars_today": "1,135 stars today",
+            "url": "https://github.com/affaan-m/ECC"
         },
         {
             "repo": "/anthropics/skills",
             "description": "暂无描述",
-            "stars_today": "281 stars today",
+            "stars_today": "511 stars today",
             "url": "https://github.com/anthropics/skills"
         }
     ]
