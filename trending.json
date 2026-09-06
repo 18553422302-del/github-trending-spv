@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "top_5_trending": [
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "2,758 stars today",
+            "stars_today": "2,692 stars today",
             "url": "https://github.com/mattpocock/skills"
-        },
-        {
-            "repo": "/DietrichGebert/ponytail",
-            "description": "暂无描述",
-            "stars_today": "1,679 stars today",
-            "url": "https://github.com/DietrichGebert/ponytail"
-        },
-        {
-            "repo": "/fmtlib/fmt",
-            "description": "暂无描述",
-            "stars_today": "688 stars today",
-            "url": "https://github.com/fmtlib/fmt"
         },
         {
             "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "1,135 stars today",
+            "stars_today": "1,314 stars today",
             "url": "https://github.com/affaan-m/ECC"
         },
         {
-            "repo": "/anthropics/skills",
+            "repo": "/DietrichGebert/ponytail",
             "description": "暂无描述",
-            "stars_today": "511 stars today",
-            "url": "https://github.com/anthropics/skills"
+            "stars_today": "2,845 stars today",
+            "url": "https://github.com/DietrichGebert/ponytail"
+        },
+        {
+            "repo": "/NousResearch/hermes-agent",
+            "description": "暂无描述",
+            "stars_today": "575 stars today",
+            "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+            "repo": "/fmtlib/fmt",
+            "description": "暂无描述",
+            "stars_today": "134 stars today",
+            "url": "https://github.com/fmtlib/fmt"
         }
     ]
 }
