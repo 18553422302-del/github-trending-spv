@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "top_5_trending": [
-        {
-            "repo": "/mattpocock/skills",
-            "description": "暂无描述",
-            "stars_today": "2,692 stars today",
-            "url": "https://github.com/mattpocock/skills"
-        },
         {
             "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "1,314 stars today",
+            "stars_today": "1,485 stars today",
             "url": "https://github.com/affaan-m/ECC"
         },
         {
-            "repo": "/DietrichGebert/ponytail",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "2,845 stars today",
-            "url": "https://github.com/DietrichGebert/ponytail"
+            "stars_today": "2,207 stars today",
+            "url": "https://github.com/mattpocock/skills"
+        },
+        {
+            "repo": "/cathrynlavery/diagram-design",
+            "description": "暂无描述",
+            "stars_today": "620 stars today",
+            "url": "https://github.com/cathrynlavery/diagram-design"
         },
         {
             "repo": "/NousResearch/hermes-agent",
             "description": "暂无描述",
-            "stars_today": "575 stars today",
+            "stars_today": "520 stars today",
             "url": "https://github.com/NousResearch/hermes-agent"
         },
         {
-            "repo": "/fmtlib/fmt",
+            "repo": "/openai/skills",
             "description": "暂无描述",
-            "stars_today": "134 stars today",
-            "url": "https://github.com/fmtlib/fmt"
+            "stars_today": "46 stars today",
+            "url": "https://github.com/openai/skills"
         }
     ]
 }
