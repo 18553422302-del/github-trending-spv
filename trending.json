@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "top_5_trending": [
         {
-            "repo": "/affaan-m/ECC",
+            "repo": "/heygen-com/hyperframes",
             "description": "暂无描述",
-            "stars_today": "1,485 stars today",
-            "url": "https://github.com/affaan-m/ECC"
+            "stars_today": "474 stars today",
+            "url": "https://github.com/heygen-com/hyperframes"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/microsoft/markitdown",
             "description": "暂无描述",
-            "stars_today": "2,207 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "886 stars today",
+            "url": "https://github.com/microsoft/markitdown"
         },
         {
-            "repo": "/cathrynlavery/diagram-design",
+            "repo": "/mksglu/context-mode",
             "description": "暂无描述",
-            "stars_today": "620 stars today",
-            "url": "https://github.com/cathrynlavery/diagram-design"
+            "stars_today": "96 stars today",
+            "url": "https://github.com/mksglu/context-mode"
         },
         {
-            "repo": "/NousResearch/hermes-agent",
+            "repo": "/jo-inc/camofox-browser",
             "description": "暂无描述",
-            "stars_today": "520 stars today",
-            "url": "https://github.com/NousResearch/hermes-agent"
+            "stars_today": "135 stars today",
+            "url": "https://github.com/jo-inc/camofox-browser"
         },
         {
-            "repo": "/openai/skills",
+            "repo": "/MoonTechLab/LunaTV",
             "description": "暂无描述",
-            "stars_today": "46 stars today",
-            "url": "https://github.com/openai/skills"
+            "stars_today": "197 stars today",
+            "url": "https://github.com/MoonTechLab/LunaTV"
         }
     ]
 }
