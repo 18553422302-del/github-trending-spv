@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "top_5_trending": [
         {
             "repo": "/ayghri/i-have-adhd",
             "description": "暂无描述",
-            "stars_today": "656 stars today",
+            "stars_today": "4,650 stars today",
             "url": "https://github.com/ayghri/i-have-adhd"
         },
         {
-            "repo": "/cathrynlavery/diagram-design",
+            "repo": "/Tencent/teamai-cli",
             "description": "暂无描述",
-            "stars_today": "710 stars today",
-            "url": "https://github.com/cathrynlavery/diagram-design"
+            "stars_today": "556 stars today",
+            "url": "https://github.com/Tencent/teamai-cli"
         },
         {
-            "repo": "/openai/skills",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "490 stars today",
-            "url": "https://github.com/openai/skills"
+            "stars_today": "688 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/affaan-m/ECC",
+            "repo": "/pascalorg/editor",
             "description": "暂无描述",
-            "stars_today": "1,427 stars today",
-            "url": "https://github.com/affaan-m/ECC"
+            "stars_today": "107 stars today",
+            "url": "https://github.com/pascalorg/editor"
         },
         {
-            "repo": "/heygen-com/hyperframes",
+            "repo": "/earthtojake/text-to-cad",
             "description": "暂无描述",
-            "stars_today": "2,627 stars today",
-            "url": "https://github.com/heygen-com/hyperframes"
+            "stars_today": "124 stars today",
+            "url": "https://github.com/earthtojake/text-to-cad"
         }
     ]
 }
