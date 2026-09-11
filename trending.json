@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "top_5_trending": [
         {
             "repo": "/ayghri/i-have-adhd",
             "description": "暂无描述",
-            "stars_today": "4,650 stars today",
+            "stars_today": "3,882 stars today",
             "url": "https://github.com/ayghri/i-have-adhd"
         },
         {
-            "repo": "/Tencent/teamai-cli",
+            "repo": "/bilawalsidhu/gods-eye-view",
             "description": "暂无描述",
-            "stars_today": "556 stars today",
-            "url": "https://github.com/Tencent/teamai-cli"
+            "stars_today": "1,762 stars today",
+            "url": "https://github.com/bilawalsidhu/gods-eye-view"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "688 stars today",
+            "stars_today": "732 stars today",
             "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/pascalorg/editor",
+            "repo": "/alsk1992/CloddsBot",
             "description": "暂无描述",
-            "stars_today": "107 stars today",
-            "url": "https://github.com/pascalorg/editor"
+            "stars_today": "277 stars today",
+            "url": "https://github.com/alsk1992/CloddsBot"
         },
         {
-            "repo": "/earthtojake/text-to-cad",
+            "repo": "/Tencent/teamai-cli",
             "description": "暂无描述",
-            "stars_today": "124 stars today",
-            "url": "https://github.com/earthtojake/text-to-cad"
+            "stars_today": "841 stars today",
+            "url": "https://github.com/Tencent/teamai-cli"
         }
     ]
 }
