@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-12",
+    "date": "2026-09-13",
     "top_5_trending": [
-        {
-            "repo": "/ayghri/i-have-adhd",
-            "description": "暂无描述",
-            "stars_today": "3,463 stars today",
-            "url": "https://github.com/ayghri/i-have-adhd"
-        },
         {
             "repo": "/bilawalsidhu/gods-eye-view",
             "description": "暂无描述",
-            "stars_today": "3,680 stars today",
+            "stars_today": "2,265 stars today",
             "url": "https://github.com/bilawalsidhu/gods-eye-view"
-        },
-        {
-            "repo": "/nab138/iloader",
-            "description": "暂无描述",
-            "stars_today": "50 stars today",
-            "url": "https://github.com/nab138/iloader"
         },
         {
             "repo": "/melgarafael/DeskcommCRM",
             "description": "暂无描述",
-            "stars_today": "152 stars today",
+            "stars_today": "504 stars today",
             "url": "https://github.com/melgarafael/DeskcommCRM"
         },
         {
-            "repo": "/vastsa/PI-Desktop",
+            "repo": "/asgeirtj/system_prompts_leaks",
             "description": "暂无描述",
-            "stars_today": "552 stars today",
-            "url": "https://github.com/vastsa/PI-Desktop"
+            "stars_today": "217 stars today",
+            "url": "https://github.com/asgeirtj/system_prompts_leaks"
+        },
+        {
+            "repo": "/nab138/iloader",
+            "description": "暂无描述",
+            "stars_today": "209 stars today",
+            "url": "https://github.com/nab138/iloader"
+        },
+        {
+            "repo": "/Flowseal/zapret-discord-youtube",
+            "description": "暂无描述",
+            "stars_today": "65 stars today",
+            "url": "https://github.com/Flowseal/zapret-discord-youtube"
         }
     ]
 }
