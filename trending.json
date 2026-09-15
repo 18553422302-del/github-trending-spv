@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "top_5_trending": [
         {
             "repo": "/JustVugg/colibri",
             "description": "暂无描述",
-            "stars_today": "868 stars today",
+            "stars_today": "2,173 stars today",
             "url": "https://github.com/JustVugg/colibri"
         },
         {
-            "repo": "/ever-co/ever-gauzy",
+            "repo": "/alibaba/open-code-review",
             "description": "暂无描述",
-            "stars_today": "191 stars today",
-            "url": "https://github.com/ever-co/ever-gauzy"
+            "stars_today": "1,571 stars today",
+            "url": "https://github.com/alibaba/open-code-review"
         },
         {
-            "repo": "/bilawalsidhu/gods-eye-view",
+            "repo": "/multimodal-art-projection/YuE",
             "description": "暂无描述",
-            "stars_today": "2,680 stars today",
-            "url": "https://github.com/bilawalsidhu/gods-eye-view"
+            "stars_today": "559 stars today",
+            "url": "https://github.com/multimodal-art-projection/YuE"
         },
         {
-            "repo": "/tech-leads-club/agent-skills",
+            "repo": "/debpalash/VoiceStudio",
             "description": "暂无描述",
-            "stars_today": "265 stars today",
-            "url": "https://github.com/tech-leads-club/agent-skills"
+            "stars_today": "2,776 stars today",
+            "url": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "repo": "/melgarafael/DeskcommCRM",
+            "repo": "/666ghj/MiroFish",
             "description": "暂无描述",
-            "stars_today": "432 stars today",
-            "url": "https://github.com/melgarafael/DeskcommCRM"
+            "stars_today": "560 stars today",
+            "url": "https://github.com/666ghj/MiroFish"
         }
     ]
 }
