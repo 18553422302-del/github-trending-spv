@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "top_5_trending": [
-        {
-            "repo": "/JustVugg/colibri",
-            "description": "暂无描述",
-            "stars_today": "2,173 stars today",
-            "url": "https://github.com/JustVugg/colibri"
-        },
         {
             "repo": "/alibaba/open-code-review",
             "description": "暂无描述",
-            "stars_today": "1,571 stars today",
+            "stars_today": "2,756 stars today",
             "url": "https://github.com/alibaba/open-code-review"
         },
         {
-            "repo": "/multimodal-art-projection/YuE",
+            "repo": "/JustVugg/colibri",
             "description": "暂无描述",
-            "stars_today": "559 stars today",
-            "url": "https://github.com/multimodal-art-projection/YuE"
+            "stars_today": "2,026 stars today",
+            "url": "https://github.com/JustVugg/colibri"
+        },
+        {
+            "repo": "/ever-co/ever-gauzy",
+            "description": "暂无描述",
+            "stars_today": "634 stars today",
+            "url": "https://github.com/ever-co/ever-gauzy"
         },
         {
             "repo": "/debpalash/VoiceStudio",
             "description": "暂无描述",
-            "stars_today": "2,776 stars today",
+            "stars_today": "2,072 stars today",
             "url": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "repo": "/666ghj/MiroFish",
+            "repo": "/Homebrew/BrewUI",
             "description": "暂无描述",
-            "stars_today": "560 stars today",
-            "url": "https://github.com/666ghj/MiroFish"
+            "stars_today": "271 stars today",
+            "url": "https://github.com/Homebrew/BrewUI"
         }
     ]
 }
