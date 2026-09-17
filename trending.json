@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "top_5_trending": [
         {
             "repo": "/alibaba/open-code-review",
             "description": "暂无描述",
-            "stars_today": "2,756 stars today",
+            "stars_today": "3,231 stars today",
             "url": "https://github.com/alibaba/open-code-review"
+        },
+        {
+            "repo": "/cloudflare/security-audit-skill",
+            "description": "暂无描述",
+            "stars_today": "927 stars today",
+            "url": "https://github.com/cloudflare/security-audit-skill"
         },
         {
             "repo": "/JustVugg/colibri",
             "description": "暂无描述",
-            "stars_today": "2,026 stars today",
+            "stars_today": "1,546 stars today",
             "url": "https://github.com/JustVugg/colibri"
         },
         {
-            "repo": "/ever-co/ever-gauzy",
+            "repo": "/abue-ammar/tinycast",
             "description": "暂无描述",
-            "stars_today": "634 stars today",
-            "url": "https://github.com/ever-co/ever-gauzy"
+            "stars_today": "1,179 stars today",
+            "url": "https://github.com/abue-ammar/tinycast"
         },
         {
-            "repo": "/debpalash/VoiceStudio",
+            "repo": "/jamiepine/voicebox",
             "description": "暂无描述",
-            "stars_today": "2,072 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
-        },
-        {
-            "repo": "/Homebrew/BrewUI",
-            "description": "暂无描述",
-            "stars_today": "271 stars today",
-            "url": "https://github.com/Homebrew/BrewUI"
+            "stars_today": "417 stars today",
+            "url": "https://github.com/jamiepine/voicebox"
         }
     ]
 }
