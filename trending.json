@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "top_5_trending": [
         {
             "repo": "/alibaba/open-code-review",
             "description": "暂无描述",
-            "stars_today": "3,231 stars today",
+            "stars_today": "3,286 stars today",
             "url": "https://github.com/alibaba/open-code-review"
         },
         {
             "repo": "/cloudflare/security-audit-skill",
             "description": "暂无描述",
-            "stars_today": "927 stars today",
+            "stars_today": "3,607 stars today",
             "url": "https://github.com/cloudflare/security-audit-skill"
         },
         {
-            "repo": "/JustVugg/colibri",
+            "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "1,546 stars today",
-            "url": "https://github.com/JustVugg/colibri"
+            "stars_today": "680 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
         },
         {
-            "repo": "/abue-ammar/tinycast",
+            "repo": "/Tencent/BrowserSkill",
             "description": "暂无描述",
-            "stars_today": "1,179 stars today",
-            "url": "https://github.com/abue-ammar/tinycast"
+            "stars_today": "1,302 stars today",
+            "url": "https://github.com/Tencent/BrowserSkill"
         },
         {
-            "repo": "/jamiepine/voicebox",
+            "repo": "/alphaXiv/OpenResearch",
             "description": "暂无描述",
-            "stars_today": "417 stars today",
-            "url": "https://github.com/jamiepine/voicebox"
+            "stars_today": "939 stars today",
+            "url": "https://github.com/alphaXiv/OpenResearch"
         }
     ]
 }
