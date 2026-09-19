@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "top_5_trending": [
-        {
-            "repo": "/alibaba/open-code-review",
-            "description": "暂无描述",
-            "stars_today": "3,286 stars today",
-            "url": "https://github.com/alibaba/open-code-review"
-        },
         {
             "repo": "/cloudflare/security-audit-skill",
             "description": "暂无描述",
-            "stars_today": "3,607 stars today",
+            "stars_today": "3,006 stars today",
             "url": "https://github.com/cloudflare/security-audit-skill"
         },
         {
-            "repo": "/addyosmani/agent-skills",
+            "repo": "/anthropics/claude-code",
             "description": "暂无描述",
-            "stars_today": "680 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
+            "stars_today": "444 stars today",
+            "url": "https://github.com/anthropics/claude-code"
+        },
+        {
+            "repo": "/alibaba/open-code-review",
+            "description": "暂无描述",
+            "stars_today": "2,704 stars today",
+            "url": "https://github.com/alibaba/open-code-review"
+        },
+        {
+            "repo": "/affaan-m/ECC",
+            "description": "暂无描述",
+            "stars_today": "958 stars today",
+            "url": "https://github.com/affaan-m/ECC"
         },
         {
             "repo": "/Tencent/BrowserSkill",
             "description": "暂无描述",
-            "stars_today": "1,302 stars today",
+            "stars_today": "1,306 stars today",
             "url": "https://github.com/Tencent/BrowserSkill"
-        },
-        {
-            "repo": "/alphaXiv/OpenResearch",
-            "description": "暂无描述",
-            "stars_today": "939 stars today",
-            "url": "https://github.com/alphaXiv/OpenResearch"
         }
     ]
 }
