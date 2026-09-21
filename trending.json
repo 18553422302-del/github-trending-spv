@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "top_5_trending": [
+        {
+            "repo": "/affaan-m/ECC",
+            "description": "暂无描述",
+            "stars_today": "826 stars today",
+            "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+            "repo": "/BuilderIO/agent-native",
+            "description": "暂无描述",
+            "stars_today": "98 stars today",
+            "url": "https://github.com/BuilderIO/agent-native"
+        },
         {
             "repo": "/cloudflare/security-audit-skill",
             "description": "暂无描述",
-            "stars_today": "3,155 stars today",
+            "stars_today": "2,428 stars today",
             "url": "https://github.com/cloudflare/security-audit-skill"
         },
         {
             "repo": "/trycua/cua",
             "description": "暂无描述",
-            "stars_today": "859 stars today",
+            "stars_today": "1,018 stars today",
             "url": "https://github.com/trycua/cua"
         },
         {
-            "repo": "/addyosmani/agent-skills",
+            "repo": "/anthropics/financial-services",
             "description": "暂无描述",
-            "stars_today": "556 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
-        },
-        {
-            "repo": "/coder/coder",
-            "description": "暂无描述",
-            "stars_today": "402 stars today",
-            "url": "https://github.com/coder/coder"
-        },
-        {
-            "repo": "/anthropics/claude-code",
-            "description": "暂无描述",
-            "stars_today": "483 stars today",
-            "url": "https://github.com/anthropics/claude-code"
+            "stars_today": "260 stars today",
+            "url": "https://github.com/anthropics/financial-services"
         }
     ]
 }
