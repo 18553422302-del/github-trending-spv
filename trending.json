@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "top_5_trending": [
-        {
-            "repo": "/affaan-m/ECC",
-            "description": "暂无描述",
-            "stars_today": "826 stars today",
-            "url": "https://github.com/affaan-m/ECC"
-        },
         {
             "repo": "/BuilderIO/agent-native",
             "description": "暂无描述",
-            "stars_today": "98 stars today",
+            "stars_today": "607 stars today",
             "url": "https://github.com/BuilderIO/agent-native"
-        },
-        {
-            "repo": "/cloudflare/security-audit-skill",
-            "description": "暂无描述",
-            "stars_today": "2,428 stars today",
-            "url": "https://github.com/cloudflare/security-audit-skill"
         },
         {
             "repo": "/trycua/cua",
             "description": "暂无描述",
-            "stars_today": "1,018 stars today",
+            "stars_today": "609 stars today",
             "url": "https://github.com/trycua/cua"
         },
         {
-            "repo": "/anthropics/financial-services",
+            "repo": "/Open-Dev-Society/OpenStock",
             "description": "暂无描述",
-            "stars_today": "260 stars today",
-            "url": "https://github.com/anthropics/financial-services"
+            "stars_today": "844 stars today",
+            "url": "https://github.com/Open-Dev-Society/OpenStock"
+        },
+        {
+            "repo": "/akitaonrails/ai-memory",
+            "description": "暂无描述",
+            "stars_today": "167 stars today",
+            "url": "https://github.com/akitaonrails/ai-memory"
+        },
+        {
+            "repo": "/coder/coder",
+            "description": "暂无描述",
+            "stars_today": "460 stars today",
+            "url": "https://github.com/coder/coder"
         }
     ]
 }
