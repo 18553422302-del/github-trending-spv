@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "top_5_trending": [
         {
-            "repo": "/BuilderIO/agent-native",
+            "repo": "/anthropics/financial-services",
             "description": "暂无描述",
-            "stars_today": "607 stars today",
-            "url": "https://github.com/BuilderIO/agent-native"
+            "stars_today": "438 stars today",
+            "url": "https://github.com/anthropics/financial-services"
         },
         {
-            "repo": "/trycua/cua",
+            "repo": "/agent-substrate/substrate",
             "description": "暂无描述",
-            "stars_today": "609 stars today",
-            "url": "https://github.com/trycua/cua"
+            "stars_today": "245 stars today",
+            "url": "https://github.com/agent-substrate/substrate"
         },
         {
-            "repo": "/Open-Dev-Society/OpenStock",
+            "repo": "/dream-num/univer",
             "description": "暂无描述",
-            "stars_today": "844 stars today",
-            "url": "https://github.com/Open-Dev-Society/OpenStock"
+            "stars_today": "255 stars today",
+            "url": "https://github.com/dream-num/univer"
         },
         {
-            "repo": "/akitaonrails/ai-memory",
+            "repo": "/davila7/claude-code-templates",
             "description": "暂无描述",
-            "stars_today": "167 stars today",
-            "url": "https://github.com/akitaonrails/ai-memory"
+            "stars_today": "64 stars today",
+            "url": "https://github.com/davila7/claude-code-templates"
         },
         {
-            "repo": "/coder/coder",
+            "repo": "/google/ax",
             "description": "暂无描述",
-            "stars_today": "460 stars today",
-            "url": "https://github.com/coder/coder"
+            "stars_today": "2,305 stars today",
+            "url": "https://github.com/google/ax"
         }
     ]
 }
