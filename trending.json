@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "top_5_trending": [
         {
             "repo": "/anthropics/financial-services",
             "description": "暂无描述",
-            "stars_today": "438 stars today",
+            "stars_today": "664 stars today",
             "url": "https://github.com/anthropics/financial-services"
-        },
-        {
-            "repo": "/agent-substrate/substrate",
-            "description": "暂无描述",
-            "stars_today": "245 stars today",
-            "url": "https://github.com/agent-substrate/substrate"
-        },
-        {
-            "repo": "/dream-num/univer",
-            "description": "暂无描述",
-            "stars_today": "255 stars today",
-            "url": "https://github.com/dream-num/univer"
-        },
-        {
-            "repo": "/davila7/claude-code-templates",
-            "description": "暂无描述",
-            "stars_today": "64 stars today",
-            "url": "https://github.com/davila7/claude-code-templates"
         },
         {
             "repo": "/google/ax",
             "description": "暂无描述",
-            "stars_today": "2,305 stars today",
+            "stars_today": "1,543 stars today",
             "url": "https://github.com/google/ax"
+        },
+        {
+            "repo": "/davila7/claude-code-templates",
+            "description": "暂无描述",
+            "stars_today": "389 stars today",
+            "url": "https://github.com/davila7/claude-code-templates"
+        },
+        {
+            "repo": "/BuilderIO/agent-native",
+            "description": "暂无描述",
+            "stars_today": "87 stars today",
+            "url": "https://github.com/BuilderIO/agent-native"
+        },
+        {
+            "repo": "/obra/superpowers",
+            "description": "暂无描述",
+            "stars_today": "474 stars today",
+            "url": "https://github.com/obra/superpowers"
         }
     ]
 }
