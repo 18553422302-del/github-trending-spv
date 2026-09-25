@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "top_5_trending": [
         {
-            "repo": "/anthropics/financial-services",
+            "repo": "/rohitg00/ai-engineering-from-scratch",
             "description": "暂无描述",
-            "stars_today": "664 stars today",
-            "url": "https://github.com/anthropics/financial-services"
+            "stars_today": "347 stars today",
+            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+        },
+        {
+            "repo": "/vectorize-io/hindsight",
+            "description": "暂无描述",
+            "stars_today": "1,668 stars today",
+            "url": "https://github.com/vectorize-io/hindsight"
+        },
+        {
+            "repo": "/dream-num/univer",
+            "description": "暂无描述",
+            "stars_today": "1,082 stars today",
+            "url": "https://github.com/dream-num/univer"
         },
         {
             "repo": "/google/ax",
             "description": "暂无描述",
-            "stars_today": "1,543 stars today",
+            "stars_today": "1,373 stars today",
             "url": "https://github.com/google/ax"
         },
         {
-            "repo": "/davila7/claude-code-templates",
+            "repo": "/NVIDIA/Model-Optimizer",
             "description": "暂无描述",
-            "stars_today": "389 stars today",
-            "url": "https://github.com/davila7/claude-code-templates"
-        },
-        {
-            "repo": "/BuilderIO/agent-native",
-            "description": "暂无描述",
-            "stars_today": "87 stars today",
-            "url": "https://github.com/BuilderIO/agent-native"
-        },
-        {
-            "repo": "/obra/superpowers",
-            "description": "暂无描述",
-            "stars_today": "474 stars today",
-            "url": "https://github.com/obra/superpowers"
+            "stars_today": "44 stars today",
+            "url": "https://github.com/NVIDIA/Model-Optimizer"
         }
     ]
 }
