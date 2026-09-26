@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "top_5_trending": [
         {
-            "repo": "/rohitg00/ai-engineering-from-scratch",
+            "repo": "/paperclipai/paperclip",
             "description": "暂无描述",
-            "stars_today": "347 stars today",
-            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+            "stars_today": "2,109 stars today",
+            "url": "https://github.com/paperclipai/paperclip"
+        },
+        {
+            "repo": "/anthropics/claude-plugins-official",
+            "description": "暂无描述",
+            "stars_today": "83 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
             "repo": "/vectorize-io/hindsight",
             "description": "暂无描述",
-            "stars_today": "1,668 stars today",
+            "stars_today": "1,653 stars today",
             "url": "https://github.com/vectorize-io/hindsight"
         },
         {
-            "repo": "/dream-num/univer",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,082 stars today",
-            "url": "https://github.com/dream-num/univer"
+            "stars_today": "468 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/google/ax",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "1,373 stars today",
-            "url": "https://github.com/google/ax"
-        },
-        {
-            "repo": "/NVIDIA/Model-Optimizer",
-            "description": "暂无描述",
-            "stars_today": "44 stars today",
-            "url": "https://github.com/NVIDIA/Model-Optimizer"
+            "stars_today": "583 stars today",
+            "url": "https://github.com/mattpocock/skills"
         }
     ]
 }
