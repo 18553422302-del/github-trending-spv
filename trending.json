@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "top_5_trending": [
+        {
+            "repo": "/debpalash/VoiceStudio",
+            "description": "暂无描述",
+            "stars_today": "3,221 stars today",
+            "url": "https://github.com/debpalash/VoiceStudio"
+        },
         {
             "repo": "/paperclipai/paperclip",
             "description": "暂无描述",
-            "stars_today": "2,401 stars today",
+            "stars_today": "3,197 stars today",
             "url": "https://github.com/paperclipai/paperclip"
         },
         {
             "repo": "/vectorize-io/hindsight",
             "description": "暂无描述",
-            "stars_today": "4,520 stars today",
+            "stars_today": "4,561 stars today",
             "url": "https://github.com/vectorize-io/hindsight"
         },
         {
-            "repo": "/debpalash/VoiceStudio",
+            "repo": "/NawfalMotii79/PLFM_RADAR",
             "description": "暂无描述",
-            "stars_today": "3,086 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
+            "stars_today": "158 stars today",
+            "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
         },
         {
-            "repo": "/rohitg00/ai-engineering-from-scratch",
+            "repo": "/cs341-illinois/coursebook",
             "description": "暂无描述",
-            "stars_today": "790 stars today",
-            "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-        },
-        {
-            "repo": "/InfinityLoop1308/PipePipe",
-            "description": "暂无描述",
-            "stars_today": "242 stars today",
-            "url": "https://github.com/InfinityLoop1308/PipePipe"
+            "stars_today": "195 stars today",
+            "url": "https://github.com/cs341-illinois/coursebook"
         }
     ]
 }
