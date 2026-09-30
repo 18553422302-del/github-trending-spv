@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "top_5_trending": [
         {
             "repo": "/debpalash/VoiceStudio",
             "description": "暂无描述",
-            "stars_today": "3,221 stars today",
+            "stars_today": "4,758 stars today",
             "url": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "repo": "/paperclipai/paperclip",
+            "repo": "/NVIDIA/OpenShell",
             "description": "暂无描述",
-            "stars_today": "3,197 stars today",
-            "url": "https://github.com/paperclipai/paperclip"
+            "stars_today": "990 stars today",
+            "url": "https://github.com/NVIDIA/OpenShell"
         },
         {
             "repo": "/vectorize-io/hindsight",
             "description": "暂无描述",
-            "stars_today": "4,561 stars today",
+            "stars_today": "2,575 stars today",
             "url": "https://github.com/vectorize-io/hindsight"
         },
         {
-            "repo": "/NawfalMotii79/PLFM_RADAR",
+            "repo": "/paperclipai/paperclip",
             "description": "暂无描述",
-            "stars_today": "158 stars today",
-            "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+            "stars_today": "2,458 stars today",
+            "url": "https://github.com/paperclipai/paperclip"
         },
         {
-            "repo": "/cs341-illinois/coursebook",
+            "repo": "/t8y2/dbx",
             "description": "暂无描述",
-            "stars_today": "195 stars today",
-            "url": "https://github.com/cs341-illinois/coursebook"
+            "stars_today": "232 stars today",
+            "url": "https://github.com/t8y2/dbx"
         }
     ]
 }
