@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "top_5_trending": [
-        {
-            "repo": "/debpalash/VoiceStudio",
-            "description": "暂无描述",
-            "stars_today": "4,758 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
-        },
         {
             "repo": "/NVIDIA/OpenShell",
             "description": "暂无描述",
-            "stars_today": "990 stars today",
+            "stars_today": "1,281 stars today",
             "url": "https://github.com/NVIDIA/OpenShell"
         },
         {
-            "repo": "/vectorize-io/hindsight",
+            "repo": "/debpalash/VoiceStudio",
             "description": "暂无描述",
-            "stars_today": "2,575 stars today",
-            "url": "https://github.com/vectorize-io/hindsight"
+            "stars_today": "3,483 stars today",
+            "url": "https://github.com/debpalash/VoiceStudio"
         },
         {
-            "repo": "/paperclipai/paperclip",
+            "repo": "/mvschwarz/openrig",
             "description": "暂无描述",
-            "stars_today": "2,458 stars today",
-            "url": "https://github.com/paperclipai/paperclip"
+            "stars_today": "624 stars today",
+            "url": "https://github.com/mvschwarz/openrig"
         },
         {
-            "repo": "/t8y2/dbx",
+            "repo": "/mksglu/context-mode",
             "description": "暂无描述",
-            "stars_today": "232 stars today",
-            "url": "https://github.com/t8y2/dbx"
+            "stars_today": "90 stars today",
+            "url": "https://github.com/mksglu/context-mode"
+        },
+        {
+            "repo": "/DietrichGebert/ponytail",
+            "description": "暂无描述",
+            "stars_today": "743 stars today",
+            "url": "https://github.com/DietrichGebert/ponytail"
         }
     ]
 }
