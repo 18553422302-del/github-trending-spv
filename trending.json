@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "top_5_trending": [
+        {
+            "repo": "/DietrichGebert/ponytail",
+            "description": "暂无描述",
+            "stars_today": "1,194 stars today",
+            "url": "https://github.com/DietrichGebert/ponytail"
+        },
+        {
+            "repo": "/mattpocock/skills",
+            "description": "暂无描述",
+            "stars_today": "883 stars today",
+            "url": "https://github.com/mattpocock/skills"
+        },
         {
             "repo": "/NVIDIA/OpenShell",
             "description": "暂无描述",
-            "stars_today": "1,281 stars today",
+            "stars_today": "2,456 stars today",
             "url": "https://github.com/NVIDIA/OpenShell"
         },
         {
-            "repo": "/debpalash/VoiceStudio",
+            "repo": "/firebase/firebase-ios-sdk",
             "description": "暂无描述",
-            "stars_today": "3,483 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
+            "stars_today": "112 stars today",
+            "url": "https://github.com/firebase/firebase-ios-sdk"
         },
         {
             "repo": "/mvschwarz/openrig",
             "description": "暂无描述",
-            "stars_today": "624 stars today",
+            "stars_today": "642 stars today",
             "url": "https://github.com/mvschwarz/openrig"
-        },
-        {
-            "repo": "/mksglu/context-mode",
-            "description": "暂无描述",
-            "stars_today": "90 stars today",
-            "url": "https://github.com/mksglu/context-mode"
-        },
-        {
-            "repo": "/DietrichGebert/ponytail",
-            "description": "暂无描述",
-            "stars_today": "743 stars today",
-            "url": "https://github.com/DietrichGebert/ponytail"
         }
     ]
 }
