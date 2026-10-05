@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "top_5_trending": [
         {
-            "repo": "/DietrichGebert/ponytail",
+            "repo": "/tester-army/e2e",
             "description": "暂无描述",
-            "stars_today": "1,281 stars today",
-            "url": "https://github.com/DietrichGebert/ponytail"
+            "stars_today": "345 stars today",
+            "url": "https://github.com/tester-army/e2e"
         },
         {
             "repo": "/pbakaus/impeccable",
             "description": "暂无描述",
-            "stars_today": "699 stars today",
+            "stars_today": "1,171 stars today",
             "url": "https://github.com/pbakaus/impeccable"
         },
         {
-            "repo": "/affaan-m/ECC",
+            "repo": "/coreyhaines31/marketingskills",
             "description": "暂无描述",
-            "stars_today": "897 stars today",
-            "url": "https://github.com/affaan-m/ECC"
+            "stars_today": "197 stars today",
+            "url": "https://github.com/coreyhaines31/marketingskills"
         },
         {
-            "repo": "/Effect-TS/effect",
+            "repo": "/DietrichGebert/ponytail",
             "description": "暂无描述",
-            "stars_today": "302 stars today",
-            "url": "https://github.com/Effect-TS/effect"
+            "stars_today": "1,894 stars today",
+            "url": "https://github.com/DietrichGebert/ponytail"
         },
         {
-            "repo": "/JuliusBrussee/caveman",
+            "repo": "/earthtojake/text-to-cad",
             "description": "暂无描述",
-            "stars_today": "507 stars today",
-            "url": "https://github.com/JuliusBrussee/caveman"
+            "stars_today": "83 stars today",
+            "url": "https://github.com/earthtojake/text-to-cad"
         }
     ]
 }
