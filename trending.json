@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "top_5_trending": [
         {
             "repo": "/tester-army/e2e",
             "description": "暂无描述",
-            "stars_today": "345 stars today",
+            "stars_today": "1,398 stars today",
             "url": "https://github.com/tester-army/e2e"
         },
         {
-            "repo": "/pbakaus/impeccable",
+            "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "1,171 stars today",
-            "url": "https://github.com/pbakaus/impeccable"
+            "stars_today": "534 stars today",
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "repo": "/coreyhaines31/marketingskills",
+            "repo": "/michael-denyer/pstack-claude",
             "description": "暂无描述",
-            "stars_today": "197 stars today",
-            "url": "https://github.com/coreyhaines31/marketingskills"
-        },
-        {
-            "repo": "/DietrichGebert/ponytail",
-            "description": "暂无描述",
-            "stars_today": "1,894 stars today",
-            "url": "https://github.com/DietrichGebert/ponytail"
+            "stars_today": "223 stars today",
+            "url": "https://github.com/michael-denyer/pstack-claude"
         },
         {
             "repo": "/earthtojake/text-to-cad",
             "description": "暂无描述",
-            "stars_today": "83 stars today",
+            "stars_today": "437 stars today",
             "url": "https://github.com/earthtojake/text-to-cad"
+        },
+        {
+            "repo": "/pingdotgg/t3code",
+            "description": "暂无描述",
+            "stars_today": "485 stars today",
+            "url": "https://github.com/pingdotgg/t3code"
         }
     ]
 }
