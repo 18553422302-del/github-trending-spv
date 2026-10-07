@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "top_5_trending": [
         {
             "repo": "/tester-army/e2e",
             "description": "暂无描述",
-            "stars_today": "1,398 stars today",
+            "stars_today": "1,725 stars today",
             "url": "https://github.com/tester-army/e2e"
         },
         {
-            "repo": "/thedotmack/claude-mem",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "534 stars today",
-            "url": "https://github.com/thedotmack/claude-mem"
-        },
-        {
-            "repo": "/michael-denyer/pstack-claude",
-            "description": "暂无描述",
-            "stars_today": "223 stars today",
-            "url": "https://github.com/michael-denyer/pstack-claude"
+            "stars_today": "889 stars today",
+            "url": "https://github.com/mattpocock/skills"
         },
         {
             "repo": "/earthtojake/text-to-cad",
             "description": "暂无描述",
-            "stars_today": "437 stars today",
+            "stars_today": "619 stars today",
             "url": "https://github.com/earthtojake/text-to-cad"
         },
         {
-            "repo": "/pingdotgg/t3code",
+            "repo": "/boykopovar/AnyPS5",
             "description": "暂无描述",
-            "stars_today": "485 stars today",
-            "url": "https://github.com/pingdotgg/t3code"
+            "stars_today": "949 stars today",
+            "url": "https://github.com/boykopovar/AnyPS5"
+        },
+        {
+            "repo": "/pbakaus/impeccable",
+            "description": "暂无描述",
+            "stars_today": "616 stars today",
+            "url": "https://github.com/pbakaus/impeccable"
         }
     ]
 }
