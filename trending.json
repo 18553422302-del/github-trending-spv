@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "top_5_trending": [
         {
-            "repo": "/tester-army/e2e",
+            "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "1,725 stars today",
-            "url": "https://github.com/tester-army/e2e"
+            "stars_today": "4,655 stars today",
+            "url": "https://github.com/morluto/rea"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "889 stars today",
+            "stars_today": "1,403 stars today",
             "url": "https://github.com/mattpocock/skills"
-        },
-        {
-            "repo": "/earthtojake/text-to-cad",
-            "description": "暂无描述",
-            "stars_today": "619 stars today",
-            "url": "https://github.com/earthtojake/text-to-cad"
         },
         {
             "repo": "/boykopovar/AnyPS5",
             "description": "暂无描述",
-            "stars_today": "949 stars today",
+            "stars_today": "2,716 stars today",
             "url": "https://github.com/boykopovar/AnyPS5"
         },
         {
-            "repo": "/pbakaus/impeccable",
+            "repo": "/ayghri/i-have-adhd",
             "description": "暂无描述",
-            "stars_today": "616 stars today",
-            "url": "https://github.com/pbakaus/impeccable"
+            "stars_today": "619 stars today",
+            "url": "https://github.com/ayghri/i-have-adhd"
+        },
+        {
+            "repo": "/cathrynlavery/diagram-design",
+            "description": "暂无描述",
+            "stars_today": "825 stars today",
+            "url": "https://github.com/cathrynlavery/diagram-design"
         }
     ]
 }
