@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "top_5_trending": [
+        {
+            "repo": "/boykopovar/AnyPS5",
+            "description": "暂无描述",
+            "stars_today": "4,669 stars today",
+            "url": "https://github.com/boykopovar/AnyPS5"
+        },
+        {
+            "repo": "/cathrynlavery/diagram-design",
+            "description": "暂无描述",
+            "stars_today": "1,160 stars today",
+            "url": "https://github.com/cathrynlavery/diagram-design"
+        },
         {
             "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "4,655 stars today",
+            "stars_today": "7,738 stars today",
             "url": "https://github.com/morluto/rea"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "1,403 stars today",
+            "stars_today": "1,774 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/boykopovar/AnyPS5",
+            "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "2,716 stars today",
-            "url": "https://github.com/boykopovar/AnyPS5"
-        },
-        {
-            "repo": "/ayghri/i-have-adhd",
-            "description": "暂无描述",
-            "stars_today": "619 stars today",
-            "url": "https://github.com/ayghri/i-have-adhd"
-        },
-        {
-            "repo": "/cathrynlavery/diagram-design",
-            "description": "暂无描述",
-            "stars_today": "825 stars today",
-            "url": "https://github.com/cathrynlavery/diagram-design"
+            "stars_today": "670 stars today",
+            "url": "https://github.com/thedotmack/claude-mem"
         }
     ]
 }
