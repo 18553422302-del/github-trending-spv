@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "top_5_trending": [
-        {
-            "repo": "/boykopovar/AnyPS5",
-            "description": "暂无描述",
-            "stars_today": "4,669 stars today",
-            "url": "https://github.com/boykopovar/AnyPS5"
-        },
-        {
-            "repo": "/cathrynlavery/diagram-design",
-            "description": "暂无描述",
-            "stars_today": "1,160 stars today",
-            "url": "https://github.com/cathrynlavery/diagram-design"
-        },
         {
             "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "7,738 stars today",
+            "stars_today": "14,927 stars today",
             "url": "https://github.com/morluto/rea"
+        },
+        {
+            "repo": "/boykopovar/AnyPS5",
+            "description": "暂无描述",
+            "stars_today": "5,868 stars today",
+            "url": "https://github.com/boykopovar/AnyPS5"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "1,774 stars today",
+            "stars_today": "1,687 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/thedotmack/claude-mem",
+            "repo": "/cathrynlavery/diagram-design",
             "description": "暂无描述",
-            "stars_today": "670 stars today",
-            "url": "https://github.com/thedotmack/claude-mem"
+            "stars_today": "1,739 stars today",
+            "url": "https://github.com/cathrynlavery/diagram-design"
+        },
+        {
+            "repo": "/alibaba/open-code-review",
+            "description": "暂无描述",
+            "stars_today": "326 stars today",
+            "url": "https://github.com/alibaba/open-code-review"
         }
     ]
 }
