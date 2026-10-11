@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "top_5_trending": [
         {
             "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "14,927 stars today",
+            "stars_today": "25,793 stars today",
             "url": "https://github.com/morluto/rea"
         },
         {
             "repo": "/boykopovar/AnyPS5",
             "description": "暂无描述",
-            "stars_today": "5,868 stars today",
+            "stars_today": "5,805 stars today",
             "url": "https://github.com/boykopovar/AnyPS5"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/storytold/artcraft",
             "description": "暂无描述",
-            "stars_today": "1,687 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "3,222 stars today",
+            "url": "https://github.com/storytold/artcraft"
         },
         {
             "repo": "/cathrynlavery/diagram-design",
             "description": "暂无描述",
-            "stars_today": "1,739 stars today",
+            "stars_today": "1,190 stars today",
             "url": "https://github.com/cathrynlavery/diagram-design"
         },
         {
-            "repo": "/alibaba/open-code-review",
+            "repo": "/mksglu/context-mode",
             "description": "暂无描述",
-            "stars_today": "326 stars today",
-            "url": "https://github.com/alibaba/open-code-review"
+            "stars_today": "178 stars today",
+            "url": "https://github.com/mksglu/context-mode"
         }
     ]
 }
