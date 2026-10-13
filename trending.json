@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "top_5_trending": [
         {
             "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "25,599 stars today",
+            "stars_today": "45,327 stars today",
             "url": "https://github.com/morluto/rea"
-        },
-        {
-            "repo": "/boykopovar/AnyPS5",
-            "description": "暂无描述",
-            "stars_today": "3,952 stars today",
-            "url": "https://github.com/boykopovar/AnyPS5"
-        },
-        {
-            "repo": "/storytold/artcraft",
-            "description": "暂无描述",
-            "stars_today": "2,957 stars today",
-            "url": "https://github.com/storytold/artcraft"
-        },
-        {
-            "repo": "/cathrynlavery/diagram-design",
-            "description": "暂无描述",
-            "stars_today": "1,083 stars today",
-            "url": "https://github.com/cathrynlavery/diagram-design"
         },
         {
             "repo": "/bilawalsidhu/gods-eye-view",
             "description": "暂无描述",
-            "stars_today": "886 stars today",
+            "stars_today": "1,895 stars today",
             "url": "https://github.com/bilawalsidhu/gods-eye-view"
+        },
+        {
+            "repo": "/mksglu/context-mode",
+            "description": "暂无描述",
+            "stars_today": "246 stars today",
+            "url": "https://github.com/mksglu/context-mode"
+        },
+        {
+            "repo": "/storytold/artcraft",
+            "description": "暂无描述",
+            "stars_today": "4,095 stars today",
+            "url": "https://github.com/storytold/artcraft"
+        },
+        {
+            "repo": "/open-webui/open-webui",
+            "description": "暂无描述",
+            "stars_today": "157 stars today",
+            "url": "https://github.com/open-webui/open-webui"
         }
     ]
 }
