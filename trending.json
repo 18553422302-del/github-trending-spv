@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "top_5_trending": [
         {
             "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "45,327 stars today",
+            "stars_today": "54,679 stars today",
             "url": "https://github.com/morluto/rea"
         },
         {
             "repo": "/bilawalsidhu/gods-eye-view",
             "description": "暂无描述",
-            "stars_today": "1,895 stars today",
+            "stars_today": "1,961 stars today",
             "url": "https://github.com/bilawalsidhu/gods-eye-view"
+        },
+        {
+            "repo": "/debpalash/VoiceStudio",
+            "description": "暂无描述",
+            "stars_today": "1,748 stars today",
+            "url": "https://github.com/debpalash/VoiceStudio"
         },
         {
             "repo": "/mksglu/context-mode",
             "description": "暂无描述",
-            "stars_today": "246 stars today",
+            "stars_today": "969 stars today",
             "url": "https://github.com/mksglu/context-mode"
         },
         {
-            "repo": "/storytold/artcraft",
+            "repo": "/cathrynlavery/diagram-design",
             "description": "暂无描述",
-            "stars_today": "4,095 stars today",
-            "url": "https://github.com/storytold/artcraft"
-        },
-        {
-            "repo": "/open-webui/open-webui",
-            "description": "暂无描述",
-            "stars_today": "157 stars today",
-            "url": "https://github.com/open-webui/open-webui"
+            "stars_today": "1,815 stars today",
+            "url": "https://github.com/cathrynlavery/diagram-design"
         }
     ]
 }
