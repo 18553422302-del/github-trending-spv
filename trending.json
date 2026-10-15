@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "top_5_trending": [
         {
             "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "54,679 stars today",
+            "stars_today": "41,034 stars today",
             "url": "https://github.com/morluto/rea"
-        },
-        {
-            "repo": "/bilawalsidhu/gods-eye-view",
-            "description": "暂无描述",
-            "stars_today": "1,961 stars today",
-            "url": "https://github.com/bilawalsidhu/gods-eye-view"
         },
         {
             "repo": "/debpalash/VoiceStudio",
             "description": "暂无描述",
-            "stars_today": "1,748 stars today",
+            "stars_today": "3,538 stars today",
             "url": "https://github.com/debpalash/VoiceStudio"
         },
         {
             "repo": "/mksglu/context-mode",
             "description": "暂无描述",
-            "stars_today": "969 stars today",
+            "stars_today": "947 stars today",
             "url": "https://github.com/mksglu/context-mode"
         },
         {
-            "repo": "/cathrynlavery/diagram-design",
+            "repo": "/nvm-sh/nvm",
             "description": "暂无描述",
-            "stars_today": "1,815 stars today",
-            "url": "https://github.com/cathrynlavery/diagram-design"
+            "stars_today": "52 stars today",
+            "url": "https://github.com/nvm-sh/nvm"
+        },
+        {
+            "repo": "/K-Dense-AI/scientific-agent-skills",
+            "description": "暂无描述",
+            "stars_today": "163 stars today",
+            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
         }
     ]
 }
