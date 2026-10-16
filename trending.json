@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "top_5_trending": [
         {
             "repo": "/morluto/rea",
             "description": "暂无描述",
-            "stars_today": "41,034 stars today",
+            "stars_today": "32,314 stars today",
             "url": "https://github.com/morluto/rea"
         },
         {
-            "repo": "/debpalash/VoiceStudio",
+            "repo": "/anthropics/claude-plugins-official",
             "description": "暂无描述",
-            "stars_today": "3,538 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
-        },
-        {
-            "repo": "/mksglu/context-mode",
-            "description": "暂无描述",
-            "stars_today": "947 stars today",
-            "url": "https://github.com/mksglu/context-mode"
-        },
-        {
-            "repo": "/nvm-sh/nvm",
-            "description": "暂无描述",
-            "stars_today": "52 stars today",
-            "url": "https://github.com/nvm-sh/nvm"
+            "stars_today": "307 stars today",
+            "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
             "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "163 stars today",
+            "stars_today": "1,091 stars today",
             "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+        },
+        {
+            "repo": "/JuliusBrussee/caveman",
+            "description": "暂无描述",
+            "stars_today": "433 stars today",
+            "url": "https://github.com/JuliusBrussee/caveman"
+        },
+        {
+            "repo": "/debpalash/VoiceStudio",
+            "description": "暂无描述",
+            "stars_today": "3,024 stars today",
+            "url": "https://github.com/debpalash/VoiceStudio"
         }
     ]
 }
