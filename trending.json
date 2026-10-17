@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "top_5_trending": [
-        {
-            "repo": "/morluto/rea",
-            "description": "暂无描述",
-            "stars_today": "32,314 stars today",
-            "url": "https://github.com/morluto/rea"
-        },
         {
             "repo": "/anthropics/claude-plugins-official",
             "description": "暂无描述",
-            "stars_today": "307 stars today",
+            "stars_today": "1,552 stars today",
             "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
             "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "1,091 stars today",
+            "stars_today": "1,158 stars today",
             "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
         },
         {
-            "repo": "/JuliusBrussee/caveman",
+            "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "433 stars today",
-            "url": "https://github.com/JuliusBrussee/caveman"
+            "stars_today": "1,057 stars today",
+            "url": "https://github.com/affaan-m/ECC"
         },
         {
-            "repo": "/debpalash/VoiceStudio",
+            "repo": "/HKUDS/CLI-Anything",
             "description": "暂无描述",
-            "stars_today": "3,024 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
+            "stars_today": "281 stars today",
+            "url": "https://github.com/HKUDS/CLI-Anything"
+        },
+        {
+            "repo": "/mksglu/context-mode",
+            "description": "暂无描述",
+            "stars_today": "449 stars today",
+            "url": "https://github.com/mksglu/context-mode"
         }
     ]
 }
