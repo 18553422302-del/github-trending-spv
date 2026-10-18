@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "top_5_trending": [
         {
             "repo": "/anthropics/claude-plugins-official",
             "description": "暂无描述",
-            "stars_today": "1,552 stars today",
+            "stars_today": "1,397 stars today",
             "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
-            "repo": "/K-Dense-AI/scientific-agent-skills",
+            "repo": "/MadsLorentzen/ai-job-search",
             "description": "暂无描述",
-            "stars_today": "1,158 stars today",
-            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+            "stars_today": "1,365 stars today",
+            "url": "https://github.com/MadsLorentzen/ai-job-search"
         },
         {
             "repo": "/affaan-m/ECC",
             "description": "暂无描述",
-            "stars_today": "1,057 stars today",
+            "stars_today": "1,145 stars today",
             "url": "https://github.com/affaan-m/ECC"
         },
         {
             "repo": "/HKUDS/CLI-Anything",
             "description": "暂无描述",
-            "stars_today": "281 stars today",
+            "stars_today": "574 stars today",
             "url": "https://github.com/HKUDS/CLI-Anything"
         },
         {
-            "repo": "/mksglu/context-mode",
+            "repo": "/K-Dense-AI/scientific-agent-skills",
             "description": "暂无描述",
-            "stars_today": "449 stars today",
-            "url": "https://github.com/mksglu/context-mode"
+            "stars_today": "878 stars today",
+            "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
         }
     ]
 }
