@@ -1,34 +1,34 @@
 {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "top_5_trending": [
         {
             "repo": "/MadsLorentzen/ai-job-search",
             "description": "暂无描述",
-            "stars_today": "2,232 stars today",
+            "stars_today": "3,856 stars today",
             "url": "https://github.com/MadsLorentzen/ai-job-search"
-        },
-        {
-            "repo": "/anthropics/claude-plugins-official",
-            "description": "暂无描述",
-            "stars_today": "1,175 stars today",
-            "url": "https://github.com/anthropics/claude-plugins-official"
         },
         {
             "repo": "/anomalyco/opencode",
             "description": "暂无描述",
-            "stars_today": "1,414 stars today",
+            "stars_today": "1,311 stars today",
             "url": "https://github.com/anomalyco/opencode"
         },
         {
-            "repo": "/cursor/plugins",
+            "repo": "/akitaonrails/ai-memory",
             "description": "暂无描述",
-            "stars_today": "350 stars today",
-            "url": "https://github.com/cursor/plugins"
+            "stars_today": "666 stars today",
+            "url": "https://github.com/akitaonrails/ai-memory"
+        },
+        {
+            "repo": "/Comfy-Org/ComfyUI",
+            "description": "暂无描述",
+            "stars_today": "1,011 stars today",
+            "url": "https://github.com/Comfy-Org/ComfyUI"
         },
         {
             "repo": "/ruvnet/ruflo",
             "description": "暂无描述",
-            "stars_today": "513 stars today",
+            "stars_today": "564 stars today",
             "url": "https://github.com/ruvnet/ruflo"
         }
     ]
