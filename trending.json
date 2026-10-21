@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "top_5_trending": [
         {
             "repo": "/MadsLorentzen/ai-job-search",
             "description": "暂无描述",
-            "stars_today": "3,856 stars today",
+            "stars_today": "3,861 stars today",
             "url": "https://github.com/MadsLorentzen/ai-job-search"
         },
         {
-            "repo": "/anomalyco/opencode",
+            "repo": "/cloudflare/security-audit-skill",
             "description": "暂无描述",
-            "stars_today": "1,311 stars today",
-            "url": "https://github.com/anomalyco/opencode"
+            "stars_today": "1,712 stars today",
+            "url": "https://github.com/cloudflare/security-audit-skill"
         },
         {
-            "repo": "/akitaonrails/ai-memory",
+            "repo": "/stablyai/orca",
             "description": "暂无描述",
-            "stars_today": "666 stars today",
-            "url": "https://github.com/akitaonrails/ai-memory"
+            "stars_today": "1,565 stars today",
+            "url": "https://github.com/stablyai/orca"
+        },
+        {
+            "repo": "/DietrichGebert/ponytail",
+            "description": "暂无描述",
+            "stars_today": "1,208 stars today",
+            "url": "https://github.com/DietrichGebert/ponytail"
         },
         {
             "repo": "/Comfy-Org/ComfyUI",
             "description": "暂无描述",
-            "stars_today": "1,011 stars today",
+            "stars_today": "1,206 stars today",
             "url": "https://github.com/Comfy-Org/ComfyUI"
-        },
-        {
-            "repo": "/ruvnet/ruflo",
-            "description": "暂无描述",
-            "stars_today": "564 stars today",
-            "url": "https://github.com/ruvnet/ruflo"
         }
     ]
 }
