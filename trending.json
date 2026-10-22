@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "top_5_trending": [
-        {
-            "repo": "/MadsLorentzen/ai-job-search",
-            "description": "暂无描述",
-            "stars_today": "3,861 stars today",
-            "url": "https://github.com/MadsLorentzen/ai-job-search"
-        },
         {
             "repo": "/cloudflare/security-audit-skill",
             "description": "暂无描述",
-            "stars_today": "1,712 stars today",
+            "stars_today": "2,012 stars today",
             "url": "https://github.com/cloudflare/security-audit-skill"
+        },
+        {
+            "repo": "/vllm-project/vllm",
+            "description": "暂无描述",
+            "stars_today": "441 stars today",
+            "url": "https://github.com/vllm-project/vllm"
         },
         {
             "repo": "/stablyai/orca",
             "description": "暂无描述",
-            "stars_today": "1,565 stars today",
+            "stars_today": "1,541 stars today",
             "url": "https://github.com/stablyai/orca"
+        },
+        {
+            "repo": "/headroomlabs-ai/headroom",
+            "description": "暂无描述",
+            "stars_today": "474 stars today",
+            "url": "https://github.com/headroomlabs-ai/headroom"
         },
         {
             "repo": "/DietrichGebert/ponytail",
             "description": "暂无描述",
-            "stars_today": "1,208 stars today",
+            "stars_today": "2,079 stars today",
             "url": "https://github.com/DietrichGebert/ponytail"
-        },
-        {
-            "repo": "/Comfy-Org/ComfyUI",
-            "description": "暂无描述",
-            "stars_today": "1,206 stars today",
-            "url": "https://github.com/Comfy-Org/ComfyUI"
         }
     ]
 }
