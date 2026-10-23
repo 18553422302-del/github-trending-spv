@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "top_5_trending": [
         {
-            "repo": "/cloudflare/security-audit-skill",
+            "repo": "/php/php-src",
             "description": "暂无描述",
-            "stars_today": "2,012 stars today",
-            "url": "https://github.com/cloudflare/security-audit-skill"
+            "stars_today": "287 stars today",
+            "url": "https://github.com/php/php-src"
         },
         {
-            "repo": "/vllm-project/vllm",
+            "repo": "/anthropics/knowledge-work-plugins",
             "description": "暂无描述",
-            "stars_today": "441 stars today",
-            "url": "https://github.com/vllm-project/vllm"
-        },
-        {
-            "repo": "/stablyai/orca",
-            "description": "暂无描述",
-            "stars_today": "1,541 stars today",
-            "url": "https://github.com/stablyai/orca"
-        },
-        {
-            "repo": "/headroomlabs-ai/headroom",
-            "description": "暂无描述",
-            "stars_today": "474 stars today",
-            "url": "https://github.com/headroomlabs-ai/headroom"
+            "stars_today": "303 stars today",
+            "url": "https://github.com/anthropics/knowledge-work-plugins"
         },
         {
             "repo": "/DietrichGebert/ponytail",
             "description": "暂无描述",
-            "stars_today": "2,079 stars today",
+            "stars_today": "1,948 stars today",
             "url": "https://github.com/DietrichGebert/ponytail"
+        },
+        {
+            "repo": "/cloudflare/security-audit-skill",
+            "description": "暂无描述",
+            "stars_today": "2,979 stars today",
+            "url": "https://github.com/cloudflare/security-audit-skill"
+        },
+        {
+            "repo": "/Graphify-Labs/graphify",
+            "description": "暂无描述",
+            "stars_today": "1,408 stars today",
+            "url": "https://github.com/Graphify-Labs/graphify"
         }
     ]
 }
