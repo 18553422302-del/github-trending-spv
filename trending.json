@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "top_5_trending": [
         {
             "repo": "/cloudflare/security-audit-skill",
             "description": "暂无描述",
-            "stars_today": "2,716 stars today",
+            "stars_today": "2,264 stars today",
             "url": "https://github.com/cloudflare/security-audit-skill"
-        },
-        {
-            "repo": "/php/php-src",
-            "description": "暂无描述",
-            "stars_today": "716 stars today",
-            "url": "https://github.com/php/php-src"
-        },
-        {
-            "repo": "/anthropics/knowledge-work-plugins",
-            "description": "暂无描述",
-            "stars_today": "635 stars today",
-            "url": "https://github.com/anthropics/knowledge-work-plugins"
         },
         {
             "repo": "/NVIDIA/OpenShell",
             "description": "暂无描述",
-            "stars_today": "1,119 stars today",
+            "stars_today": "896 stars today",
             "url": "https://github.com/NVIDIA/OpenShell"
         },
         {
-            "repo": "/Renhuai123/ziwei-doushu",
+            "repo": "/aws/agent-toolkit-for-aws",
             "description": "暂无描述",
-            "stars_today": "546 stars today",
-            "url": "https://github.com/Renhuai123/ziwei-doushu"
+            "stars_today": "13 stars today",
+            "url": "https://github.com/aws/agent-toolkit-for-aws"
+        },
+        {
+            "repo": "/Nutlope/hallmark",
+            "description": "暂无描述",
+            "stars_today": "455 stars today",
+            "url": "https://github.com/Nutlope/hallmark"
+        },
+        {
+            "repo": "/luongnv89/claude-howto",
+            "description": "暂无描述",
+            "stars_today": "392 stars today",
+            "url": "https://github.com/luongnv89/claude-howto"
         }
     ]
 }
