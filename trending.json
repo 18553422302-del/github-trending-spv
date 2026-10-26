@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "top_5_trending": [
         {
-            "repo": "/cloudflare/security-audit-skill",
+            "repo": "/makecindy/cindy",
             "description": "暂无描述",
-            "stars_today": "2,264 stars today",
-            "url": "https://github.com/cloudflare/security-audit-skill"
-        },
-        {
-            "repo": "/NVIDIA/OpenShell",
-            "description": "暂无描述",
-            "stars_today": "896 stars today",
-            "url": "https://github.com/NVIDIA/OpenShell"
-        },
-        {
-            "repo": "/aws/agent-toolkit-for-aws",
-            "description": "暂无描述",
-            "stars_today": "13 stars today",
-            "url": "https://github.com/aws/agent-toolkit-for-aws"
+            "stars_today": "675 stars today",
+            "url": "https://github.com/makecindy/cindy"
         },
         {
             "repo": "/Nutlope/hallmark",
             "description": "暂无描述",
-            "stars_today": "455 stars today",
+            "stars_today": "1,317 stars today",
             "url": "https://github.com/Nutlope/hallmark"
         },
         {
-            "repo": "/luongnv89/claude-howto",
+            "repo": "/debpalash/VoiceStudio",
             "description": "暂无描述",
-            "stars_today": "392 stars today",
-            "url": "https://github.com/luongnv89/claude-howto"
+            "stars_today": "1,592 stars today",
+            "url": "https://github.com/debpalash/VoiceStudio"
+        },
+        {
+            "repo": "/pbakaus/impeccable",
+            "description": "暂无描述",
+            "stars_today": "1,092 stars today",
+            "url": "https://github.com/pbakaus/impeccable"
+        },
+        {
+            "repo": "/pollen-robotics/microduck",
+            "description": "暂无描述",
+            "stars_today": "647 stars today",
+            "url": "https://github.com/pollen-robotics/microduck"
         }
     ]
 }
