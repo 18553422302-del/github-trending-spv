@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "top_5_trending": [
-        {
-            "repo": "/makecindy/cindy",
-            "description": "暂无描述",
-            "stars_today": "675 stars today",
-            "url": "https://github.com/makecindy/cindy"
-        },
         {
             "repo": "/Nutlope/hallmark",
             "description": "暂无描述",
-            "stars_today": "1,317 stars today",
+            "stars_today": "2,244 stars today",
             "url": "https://github.com/Nutlope/hallmark"
         },
         {
-            "repo": "/debpalash/VoiceStudio",
+            "repo": "/TauricResearch/TradingAgents",
             "description": "暂无描述",
-            "stars_today": "1,592 stars today",
-            "url": "https://github.com/debpalash/VoiceStudio"
+            "stars_today": "1,395 stars today",
+            "url": "https://github.com/TauricResearch/TradingAgents"
         },
         {
-            "repo": "/pbakaus/impeccable",
+            "repo": "/JetBrains/thinkrail",
             "description": "暂无描述",
-            "stars_today": "1,092 stars today",
-            "url": "https://github.com/pbakaus/impeccable"
+            "stars_today": "1,173 stars today",
+            "url": "https://github.com/JetBrains/thinkrail"
         },
         {
-            "repo": "/pollen-robotics/microduck",
+            "repo": "/makecindy/cindy",
             "description": "暂无描述",
-            "stars_today": "647 stars today",
-            "url": "https://github.com/pollen-robotics/microduck"
+            "stars_today": "1,296 stars today",
+            "url": "https://github.com/makecindy/cindy"
+        },
+        {
+            "repo": "/affaan-m/ECC",
+            "description": "暂无描述",
+            "stars_today": "896 stars today",
+            "url": "https://github.com/affaan-m/ECC"
         }
     ]
 }
