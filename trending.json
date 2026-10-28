@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "top_5_trending": [
+        {
+            "repo": "/elayadesign/ai-design-skills",
+            "description": "暂无描述",
+            "stars_today": "1,395 stars today",
+            "url": "https://github.com/elayadesign/ai-design-skills"
+        },
         {
             "repo": "/Nutlope/hallmark",
             "description": "暂无描述",
-            "stars_today": "2,244 stars today",
+            "stars_today": "2,830 stars today",
             "url": "https://github.com/Nutlope/hallmark"
         },
         {
-            "repo": "/TauricResearch/TradingAgents",
+            "repo": "/nightly-labs/openbot",
             "description": "暂无描述",
-            "stars_today": "1,395 stars today",
-            "url": "https://github.com/TauricResearch/TradingAgents"
+            "stars_today": "777 stars today",
+            "url": "https://github.com/nightly-labs/openbot"
         },
         {
-            "repo": "/JetBrains/thinkrail",
+            "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,173 stars today",
-            "url": "https://github.com/JetBrains/thinkrail"
+            "stars_today": "617 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/makecindy/cindy",
+            "repo": "/pbakaus/impeccable",
             "description": "暂无描述",
-            "stars_today": "1,296 stars today",
-            "url": "https://github.com/makecindy/cindy"
-        },
-        {
-            "repo": "/affaan-m/ECC",
-            "description": "暂无描述",
-            "stars_today": "896 stars today",
-            "url": "https://github.com/affaan-m/ECC"
+            "stars_today": "1,449 stars today",
+            "url": "https://github.com/pbakaus/impeccable"
         }
     ]
 }
