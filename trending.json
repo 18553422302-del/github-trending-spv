@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "top_5_trending": [
+        {
+            "repo": "/JetBrains/thinkrail",
+            "description": "暂无描述",
+            "stars_today": "1,068 stars today",
+            "url": "https://github.com/JetBrains/thinkrail"
+        },
         {
             "repo": "/elayadesign/ai-design-skills",
             "description": "暂无描述",
-            "stars_today": "1,395 stars today",
+            "stars_today": "2,139 stars today",
             "url": "https://github.com/elayadesign/ai-design-skills"
-        },
-        {
-            "repo": "/Nutlope/hallmark",
-            "description": "暂无描述",
-            "stars_today": "2,830 stars today",
-            "url": "https://github.com/Nutlope/hallmark"
-        },
-        {
-            "repo": "/nightly-labs/openbot",
-            "description": "暂无描述",
-            "stars_today": "777 stars today",
-            "url": "https://github.com/nightly-labs/openbot"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "617 stars today",
+            "stars_today": "1,095 stars today",
             "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/pbakaus/impeccable",
+            "repo": "/HKUDS/DeepTutor",
             "description": "暂无描述",
-            "stars_today": "1,449 stars today",
-            "url": "https://github.com/pbakaus/impeccable"
+            "stars_today": "2,371 stars today",
+            "url": "https://github.com/HKUDS/DeepTutor"
+        },
+        {
+            "repo": "/macro-inc/macro",
+            "description": "暂无描述",
+            "stars_today": "117 stars today",
+            "url": "https://github.com/macro-inc/macro"
         }
     ]
 }
