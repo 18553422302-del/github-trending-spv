@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "top_5_trending": [
         {
-            "repo": "/JetBrains/thinkrail",
+            "repo": "/HKUDS/DeepTutor",
             "description": "暂无描述",
-            "stars_today": "1,068 stars today",
-            "url": "https://github.com/JetBrains/thinkrail"
-        },
-        {
-            "repo": "/elayadesign/ai-design-skills",
-            "description": "暂无描述",
-            "stars_today": "2,139 stars today",
-            "url": "https://github.com/elayadesign/ai-design-skills"
+            "stars_today": "1,930 stars today",
+            "url": "https://github.com/HKUDS/DeepTutor"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "1,095 stars today",
+            "stars_today": "1,034 stars today",
             "url": "https://github.com/obra/superpowers"
         },
         {
-            "repo": "/HKUDS/DeepTutor",
+            "repo": "/pbakaus/impeccable",
             "description": "暂无描述",
-            "stars_today": "2,371 stars today",
-            "url": "https://github.com/HKUDS/DeepTutor"
+            "stars_today": "2,870 stars today",
+            "url": "https://github.com/pbakaus/impeccable"
         },
         {
-            "repo": "/macro-inc/macro",
+            "repo": "/JetBrains/thinkrail",
             "description": "暂无描述",
-            "stars_today": "117 stars today",
-            "url": "https://github.com/macro-inc/macro"
+            "stars_today": "1,117 stars today",
+            "url": "https://github.com/JetBrains/thinkrail"
+        },
+        {
+            "repo": "/milind-soni/OpenMausBot",
+            "description": "暂无描述",
+            "stars_today": "1,199 stars today",
+            "url": "https://github.com/milind-soni/OpenMausBot"
         }
     ]
 }
