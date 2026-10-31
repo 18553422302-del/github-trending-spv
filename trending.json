@@ -1,35 +1,35 @@
 {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "top_5_trending": [
         {
-            "repo": "/HKUDS/DeepTutor",
+            "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "1,930 stars today",
-            "url": "https://github.com/HKUDS/DeepTutor"
-        },
-        {
-            "repo": "/obra/superpowers",
-            "description": "暂无描述",
-            "stars_today": "1,034 stars today",
-            "url": "https://github.com/obra/superpowers"
-        },
-        {
-            "repo": "/pbakaus/impeccable",
-            "description": "暂无描述",
-            "stars_today": "2,870 stars today",
-            "url": "https://github.com/pbakaus/impeccable"
-        },
-        {
-            "repo": "/JetBrains/thinkrail",
-            "description": "暂无描述",
-            "stars_today": "1,117 stars today",
-            "url": "https://github.com/JetBrains/thinkrail"
+            "stars_today": "1,140 stars today",
+            "url": "https://github.com/thedotmack/claude-mem"
         },
         {
             "repo": "/milind-soni/OpenMausBot",
             "description": "暂无描述",
-            "stars_today": "1,199 stars today",
+            "stars_today": "895 stars today",
             "url": "https://github.com/milind-soni/OpenMausBot"
+        },
+        {
+            "repo": "/pbakaus/impeccable",
+            "description": "暂无描述",
+            "stars_today": "2,300 stars today",
+            "url": "https://github.com/pbakaus/impeccable"
+        },
+        {
+            "repo": "/CopilotKit/OpenBot",
+            "description": "暂无描述",
+            "stars_today": "706 stars today",
+            "url": "https://github.com/CopilotKit/OpenBot"
+        },
+        {
+            "repo": "/Renhuai123/ziwei-doushu",
+            "description": "暂无描述",
+            "stars_today": "1,126 stars today",
+            "url": "https://github.com/Renhuai123/ziwei-doushu"
         }
     ]
 }
