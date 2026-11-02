@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "top_5_trending": [
         {
             "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "1,723 stars today",
+            "stars_today": "1,526 stars today",
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/lightpanda-io/browser",
             "description": "暂无描述",
-            "stars_today": "883 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "825 stars today",
+            "url": "https://github.com/lightpanda-io/browser"
         },
         {
-            "repo": "/Donchitos/Claude-Code-Game-Studios",
+            "repo": "/shiyu-coder/Kronos",
             "description": "暂无描述",
-            "stars_today": "742 stars today",
-            "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+            "stars_today": "630 stars today",
+            "url": "https://github.com/shiyu-coder/Kronos"
         },
         {
             "repo": "/pingdotgg/t3code",
             "description": "暂无描述",
-            "stars_today": "1,148 stars today",
+            "stars_today": "3,094 stars today",
             "url": "https://github.com/pingdotgg/t3code"
         },
         {
-            "repo": "/Renhuai123/ziwei-doushu",
+            "repo": "/milind-soni/OpenMausBot",
             "description": "暂无描述",
-            "stars_today": "1,092 stars today",
-            "url": "https://github.com/Renhuai123/ziwei-doushu"
+            "stars_today": "922 stars today",
+            "url": "https://github.com/milind-soni/OpenMausBot"
         }
     ]
 }
