@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "top_5_trending": [
+        {
+            "repo": "/vercel-labs/agent-desktop",
+            "description": "暂无描述",
+            "stars_today": "2,275 stars today",
+            "url": "https://github.com/vercel-labs/agent-desktop"
+        },
         {
             "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "1,526 stars today",
+            "stars_today": "1,803 stars today",
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "repo": "/lightpanda-io/browser",
+            "repo": "/D4Vinci/Scrapling",
             "description": "暂无描述",
-            "stars_today": "825 stars today",
-            "url": "https://github.com/lightpanda-io/browser"
+            "stars_today": "706 stars today",
+            "url": "https://github.com/D4Vinci/Scrapling"
         },
         {
-            "repo": "/shiyu-coder/Kronos",
+            "repo": "/hyprwm/Hyprland",
             "description": "暂无描述",
-            "stars_today": "630 stars today",
-            "url": "https://github.com/shiyu-coder/Kronos"
+            "stars_today": "509 stars today",
+            "url": "https://github.com/hyprwm/Hyprland"
         },
         {
-            "repo": "/pingdotgg/t3code",
+            "repo": "/Donchitos/Claude-Code-Game-Studios",
             "description": "暂无描述",
-            "stars_today": "3,094 stars today",
-            "url": "https://github.com/pingdotgg/t3code"
-        },
-        {
-            "repo": "/milind-soni/OpenMausBot",
-            "description": "暂无描述",
-            "stars_today": "922 stars today",
-            "url": "https://github.com/milind-soni/OpenMausBot"
+            "stars_today": "1,379 stars today",
+            "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
         }
     ]
 }
