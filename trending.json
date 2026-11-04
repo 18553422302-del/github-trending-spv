@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "top_5_trending": [
-        {
-            "repo": "/vercel-labs/agent-desktop",
-            "description": "暂无描述",
-            "stars_today": "2,275 stars today",
-            "url": "https://github.com/vercel-labs/agent-desktop"
-        },
         {
             "repo": "/thedotmack/claude-mem",
             "description": "暂无描述",
-            "stars_today": "1,803 stars today",
+            "stars_today": "1,139 stars today",
             "url": "https://github.com/thedotmack/claude-mem"
         },
         {
-            "repo": "/D4Vinci/Scrapling",
+            "repo": "/vercel-labs/agent-desktop",
             "description": "暂无描述",
-            "stars_today": "706 stars today",
-            "url": "https://github.com/D4Vinci/Scrapling"
+            "stars_today": "3,791 stars today",
+            "url": "https://github.com/vercel-labs/agent-desktop"
         },
         {
-            "repo": "/hyprwm/Hyprland",
+            "repo": "/max-sixty/worktrunk",
             "description": "暂无描述",
-            "stars_today": "509 stars today",
-            "url": "https://github.com/hyprwm/Hyprland"
+            "stars_today": "438 stars today",
+            "url": "https://github.com/max-sixty/worktrunk"
         },
         {
-            "repo": "/Donchitos/Claude-Code-Game-Studios",
+            "repo": "/JustVugg/colibri",
             "description": "暂无描述",
-            "stars_today": "1,379 stars today",
-            "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+            "stars_today": "802 stars today",
+            "url": "https://github.com/JustVugg/colibri"
+        },
+        {
+            "repo": "/mattpocock/skills",
+            "description": "暂无描述",
+            "stars_today": "1,164 stars today",
+            "url": "https://github.com/mattpocock/skills"
         }
     ]
 }
