@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "top_5_trending": [
         {
             "repo": "/NVIDIA/auto-ontology",
             "description": "暂无描述",
-            "stars_today": "2,050 stars today",
+            "stars_today": "2,679 stars today",
             "url": "https://github.com/NVIDIA/auto-ontology"
-        },
-        {
-            "repo": "/max-sixty/worktrunk",
-            "description": "暂无描述",
-            "stars_today": "531 stars today",
-            "url": "https://github.com/max-sixty/worktrunk"
         },
         {
             "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "1,379 stars today",
+            "stars_today": "2,071 stars today",
             "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/floci-io/floci",
+            "repo": "/garrytan/gstack",
             "description": "暂无描述",
-            "stars_today": "1,090 stars today",
-            "url": "https://github.com/floci-io/floci"
+            "stars_today": "612 stars today",
+            "url": "https://github.com/garrytan/gstack"
         },
         {
-            "repo": "/thedotmack/claude-mem",
+            "repo": "/Usagi-org/ai-goofish-monitor",
             "description": "暂无描述",
-            "stars_today": "1,172 stars today",
-            "url": "https://github.com/thedotmack/claude-mem"
+            "stars_today": "240 stars today",
+            "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+        },
+        {
+            "repo": "/D4Vinci/Scrapling",
+            "description": "暂无描述",
+            "stars_today": "1,655 stars today",
+            "url": "https://github.com/D4Vinci/Scrapling"
         }
     ]
 }
