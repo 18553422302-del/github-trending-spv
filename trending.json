@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "top_5_trending": [
+        {
+            "repo": "/zed-industries/zed",
+            "description": "暂无描述",
+            "stars_today": "306 stars today",
+            "url": "https://github.com/zed-industries/zed"
+        },
         {
             "repo": "/NVIDIA/auto-ontology",
             "description": "暂无描述",
-            "stars_today": "2,679 stars today",
+            "stars_today": "2,015 stars today",
             "url": "https://github.com/NVIDIA/auto-ontology"
         },
         {
-            "repo": "/mattpocock/skills",
+            "repo": "/rails/rails",
             "description": "暂无描述",
-            "stars_today": "2,071 stars today",
-            "url": "https://github.com/mattpocock/skills"
+            "stars_today": "142 stars today",
+            "url": "https://github.com/rails/rails"
         },
         {
-            "repo": "/garrytan/gstack",
+            "repo": "/mpv-player/mpv",
             "description": "暂无描述",
-            "stars_today": "612 stars today",
-            "url": "https://github.com/garrytan/gstack"
+            "stars_today": "37 stars today",
+            "url": "https://github.com/mpv-player/mpv"
         },
         {
-            "repo": "/Usagi-org/ai-goofish-monitor",
+            "repo": "/rust-lang/rust",
             "description": "暂无描述",
-            "stars_today": "240 stars today",
-            "url": "https://github.com/Usagi-org/ai-goofish-monitor"
-        },
-        {
-            "repo": "/D4Vinci/Scrapling",
-            "description": "暂无描述",
-            "stars_today": "1,655 stars today",
-            "url": "https://github.com/D4Vinci/Scrapling"
+            "stars_today": "192 stars today",
+            "url": "https://github.com/rust-lang/rust"
         }
     ]
 }
