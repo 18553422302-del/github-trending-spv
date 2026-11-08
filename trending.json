@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "top_5_trending": [
         {
-            "repo": "/zed-industries/zed",
+            "repo": "/vercel-labs/agent-browser",
             "description": "暂无描述",
-            "stars_today": "306 stars today",
-            "url": "https://github.com/zed-industries/zed"
+            "stars_today": "190 stars today",
+            "url": "https://github.com/vercel-labs/agent-browser"
         },
         {
-            "repo": "/NVIDIA/auto-ontology",
+            "repo": "/cloudflare/security-audit-skill",
             "description": "暂无描述",
-            "stars_today": "2,015 stars today",
-            "url": "https://github.com/NVIDIA/auto-ontology"
+            "stars_today": "2,085 stars today",
+            "url": "https://github.com/cloudflare/security-audit-skill"
         },
         {
-            "repo": "/rails/rails",
+            "repo": "/google/skills",
             "description": "暂无描述",
-            "stars_today": "142 stars today",
-            "url": "https://github.com/rails/rails"
+            "stars_today": "443 stars today",
+            "url": "https://github.com/google/skills"
         },
         {
-            "repo": "/mpv-player/mpv",
+            "repo": "/mattpocock/skills",
             "description": "暂无描述",
-            "stars_today": "37 stars today",
-            "url": "https://github.com/mpv-player/mpv"
+            "stars_today": "1,100 stars today",
+            "url": "https://github.com/mattpocock/skills"
         },
         {
-            "repo": "/rust-lang/rust",
+            "repo": "/anthropics/skills",
             "description": "暂无描述",
-            "stars_today": "192 stars today",
-            "url": "https://github.com/rust-lang/rust"
+            "stars_today": "390 stars today",
+            "url": "https://github.com/anthropics/skills"
         }
     ]
 }
