@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "top_5_trending": [
+        {
+            "repo": "/sherlock-project/sherlock",
+            "description": "暂无描述",
+            "stars_today": "2,373 stars today",
+            "url": "https://github.com/sherlock-project/sherlock"
+        },
+        {
+            "repo": "/dsx-ai-factory/nvke",
+            "description": "暂无描述",
+            "stars_today": "345 stars today",
+            "url": "https://github.com/dsx-ai-factory/nvke"
+        },
+        {
+            "repo": "/milind-soni/OpenMausBot",
+            "description": "暂无描述",
+            "stars_today": "1,439 stars today",
+            "url": "https://github.com/milind-soni/OpenMausBot"
+        },
+        {
+            "repo": "/anthropics/claude-quickstarts",
+            "description": "暂无描述",
+            "stars_today": "32 stars today",
+            "url": "https://github.com/anthropics/claude-quickstarts"
+        },
         {
             "repo": "/vercel-labs/agent-browser",
             "description": "暂无描述",
-            "stars_today": "190 stars today",
+            "stars_today": "815 stars today",
             "url": "https://github.com/vercel-labs/agent-browser"
-        },
-        {
-            "repo": "/cloudflare/security-audit-skill",
-            "description": "暂无描述",
-            "stars_today": "2,085 stars today",
-            "url": "https://github.com/cloudflare/security-audit-skill"
-        },
-        {
-            "repo": "/google/skills",
-            "description": "暂无描述",
-            "stars_today": "443 stars today",
-            "url": "https://github.com/google/skills"
-        },
-        {
-            "repo": "/mattpocock/skills",
-            "description": "暂无描述",
-            "stars_today": "1,100 stars today",
-            "url": "https://github.com/mattpocock/skills"
-        },
-        {
-            "repo": "/anthropics/skills",
-            "description": "暂无描述",
-            "stars_today": "390 stars today",
-            "url": "https://github.com/anthropics/skills"
         }
     ]
 }
