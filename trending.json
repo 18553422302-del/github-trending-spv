@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "top_5_trending": [
+        {
+            "repo": "/anthropics/skills",
+            "description": "暂无描述",
+            "stars_today": "1,038 stars today",
+            "url": "https://github.com/anthropics/skills"
+        },
+        {
+            "repo": "/meta/astryx",
+            "description": "暂无描述",
+            "stars_today": "3,278 stars today",
+            "url": "https://github.com/meta/astryx"
+        },
         {
             "repo": "/sherlock-project/sherlock",
             "description": "暂无描述",
-            "stars_today": "2,373 stars today",
+            "stars_today": "4,267 stars today",
             "url": "https://github.com/sherlock-project/sherlock"
         },
         {
-            "repo": "/dsx-ai-factory/nvke",
+            "repo": "/google-deepmind/mujoco",
             "description": "暂无描述",
-            "stars_today": "345 stars today",
-            "url": "https://github.com/dsx-ai-factory/nvke"
-        },
-        {
-            "repo": "/milind-soni/OpenMausBot",
-            "description": "暂无描述",
-            "stars_today": "1,439 stars today",
-            "url": "https://github.com/milind-soni/OpenMausBot"
+            "stars_today": "574 stars today",
+            "url": "https://github.com/google-deepmind/mujoco"
         },
         {
             "repo": "/anthropics/claude-quickstarts",
             "description": "暂无描述",
-            "stars_today": "32 stars today",
+            "stars_today": "551 stars today",
             "url": "https://github.com/anthropics/claude-quickstarts"
-        },
-        {
-            "repo": "/vercel-labs/agent-browser",
-            "description": "暂无描述",
-            "stars_today": "815 stars today",
-            "url": "https://github.com/vercel-labs/agent-browser"
         }
     ]
 }
