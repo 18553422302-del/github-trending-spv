@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "top_5_trending": [
-        {
-            "repo": "/anthropics/skills",
-            "description": "暂无描述",
-            "stars_today": "1,038 stars today",
-            "url": "https://github.com/anthropics/skills"
-        },
         {
             "repo": "/meta/astryx",
             "description": "暂无描述",
-            "stars_today": "3,278 stars today",
+            "stars_today": "3,108 stars today",
             "url": "https://github.com/meta/astryx"
         },
         {
-            "repo": "/sherlock-project/sherlock",
+            "repo": "/anthropics/skills",
             "description": "暂无描述",
-            "stars_today": "4,267 stars today",
-            "url": "https://github.com/sherlock-project/sherlock"
+            "stars_today": "1,679 stars today",
+            "url": "https://github.com/anthropics/skills"
         },
         {
-            "repo": "/google-deepmind/mujoco",
+            "repo": "/addyosmani/agent-skills",
             "description": "暂无描述",
-            "stars_today": "574 stars today",
-            "url": "https://github.com/google-deepmind/mujoco"
+            "stars_today": "465 stars today",
+            "url": "https://github.com/addyosmani/agent-skills"
         },
         {
             "repo": "/anthropics/claude-quickstarts",
             "description": "暂无描述",
-            "stars_today": "551 stars today",
+            "stars_today": "531 stars today",
             "url": "https://github.com/anthropics/claude-quickstarts"
+        },
+        {
+            "repo": "/google-deepmind/mujoco",
+            "description": "暂无描述",
+            "stars_today": "456 stars today",
+            "url": "https://github.com/google-deepmind/mujoco"
         }
     ]
 }
