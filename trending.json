@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "top_5_trending": [
-        {
-            "repo": "/meta/astryx",
-            "description": "暂无描述",
-            "stars_today": "2,776 stars today",
-            "url": "https://github.com/meta/astryx"
-        },
-        {
-            "repo": "/ZhuLinsen/daily_stock_analysis",
-            "description": "暂无描述",
-            "stars_today": "278 stars today",
-            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
-        },
         {
             "repo": "/GoogleChrome/modern-web-guidance-src",
             "description": "暂无描述",
-            "stars_today": "159 stars today",
+            "stars_today": "739 stars today",
             "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
         },
         {
-            "repo": "/shadcn/improve",
+            "repo": "/openai/codex-security",
             "description": "暂无描述",
-            "stars_today": "361 stars today",
-            "url": "https://github.com/shadcn/improve"
+            "stars_today": "643 stars today",
+            "url": "https://github.com/openai/codex-security"
         },
         {
-            "repo": "/addyosmani/agent-skills",
+            "repo": "/nvm-sh/nvm",
             "description": "暂无描述",
-            "stars_today": "787 stars today",
-            "url": "https://github.com/addyosmani/agent-skills"
+            "stars_today": "63 stars today",
+            "url": "https://github.com/nvm-sh/nvm"
+        },
+        {
+            "repo": "/pookjw/HermesEnabler",
+            "description": "暂无描述",
+            "stars_today": "218 stars today",
+            "url": "https://github.com/pookjw/HermesEnabler"
+        },
+        {
+            "repo": "/we-promise/sure",
+            "description": "暂无描述",
+            "stars_today": "967 stars today",
+            "url": "https://github.com/we-promise/sure"
         }
     ]
 }
