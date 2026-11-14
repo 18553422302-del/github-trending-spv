@@ -1,34 +1,34 @@
 {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "top_5_trending": [
+        {
+            "repo": "/alibaba/open-code-review",
+            "description": "暂无描述",
+            "stars_today": "215 stars today",
+            "url": "https://github.com/alibaba/open-code-review"
+        },
         {
             "repo": "/GoogleChrome/modern-web-guidance-src",
             "description": "暂无描述",
-            "stars_today": "739 stars today",
+            "stars_today": "1,925 stars today",
             "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
         },
         {
             "repo": "/openai/codex-security",
             "description": "暂无描述",
-            "stars_today": "643 stars today",
+            "stars_today": "751 stars today",
             "url": "https://github.com/openai/codex-security"
         },
         {
-            "repo": "/nvm-sh/nvm",
+            "repo": "/ZhuLinsen/daily_stock_analysis",
             "description": "暂无描述",
-            "stars_today": "63 stars today",
-            "url": "https://github.com/nvm-sh/nvm"
-        },
-        {
-            "repo": "/pookjw/HermesEnabler",
-            "description": "暂无描述",
-            "stars_today": "218 stars today",
-            "url": "https://github.com/pookjw/HermesEnabler"
+            "stars_today": "256 stars today",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
         },
         {
             "repo": "/we-promise/sure",
             "description": "暂无描述",
-            "stars_today": "967 stars today",
+            "stars_today": "925 stars today",
             "url": "https://github.com/we-promise/sure"
         }
     ]
