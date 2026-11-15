@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "top_5_trending": [
         {
-            "repo": "/alibaba/open-code-review",
+            "repo": "/backnotprop/plannotator",
             "description": "暂无描述",
-            "stars_today": "215 stars today",
-            "url": "https://github.com/alibaba/open-code-review"
+            "stars_today": "408 stars today",
+            "url": "https://github.com/backnotprop/plannotator"
         },
         {
             "repo": "/GoogleChrome/modern-web-guidance-src",
             "description": "暂无描述",
-            "stars_today": "1,925 stars today",
+            "stars_today": "1,231 stars today",
             "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
         },
         {
-            "repo": "/openai/codex-security",
+            "repo": "/tradermonty/claude-trading-skills",
             "description": "暂无描述",
-            "stars_today": "751 stars today",
-            "url": "https://github.com/openai/codex-security"
+            "stars_today": "553 stars today",
+            "url": "https://github.com/tradermonty/claude-trading-skills"
         },
         {
-            "repo": "/ZhuLinsen/daily_stock_analysis",
+            "repo": "/ChromeDevTools/chrome-devtools-mcp",
             "description": "暂无描述",
-            "stars_today": "256 stars today",
-            "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+            "stars_today": "664 stars today",
+            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
         },
         {
-            "repo": "/we-promise/sure",
+            "repo": "/alibaba/open-code-review",
             "description": "暂无描述",
-            "stars_today": "925 stars today",
-            "url": "https://github.com/we-promise/sure"
+            "stars_today": "893 stars today",
+            "url": "https://github.com/alibaba/open-code-review"
         }
     ]
 }
