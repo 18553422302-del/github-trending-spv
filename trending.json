@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "top_5_trending": [
+        {
+            "repo": "/dream-num/univer",
+            "description": "暂无描述",
+            "stars_today": "988 stars today",
+            "url": "https://github.com/dream-num/univer"
+        },
+        {
+            "repo": "/ag-ui-protocol/ag-ui",
+            "description": "暂无描述",
+            "stars_today": "355 stars today",
+            "url": "https://github.com/ag-ui-protocol/ag-ui"
+        },
+        {
+            "repo": "/google-labs-code/stitch-skills",
+            "description": "暂无描述",
+            "stars_today": "247 stars today",
+            "url": "https://github.com/google-labs-code/stitch-skills"
+        },
         {
             "repo": "/backnotprop/plannotator",
             "description": "暂无描述",
-            "stars_today": "408 stars today",
+            "stars_today": "866 stars today",
             "url": "https://github.com/backnotprop/plannotator"
-        },
-        {
-            "repo": "/GoogleChrome/modern-web-guidance-src",
-            "description": "暂无描述",
-            "stars_today": "1,231 stars today",
-            "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
-        },
-        {
-            "repo": "/tradermonty/claude-trading-skills",
-            "description": "暂无描述",
-            "stars_today": "553 stars today",
-            "url": "https://github.com/tradermonty/claude-trading-skills"
         },
         {
             "repo": "/ChromeDevTools/chrome-devtools-mcp",
             "description": "暂无描述",
-            "stars_today": "664 stars today",
+            "stars_today": "717 stars today",
             "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-        },
-        {
-            "repo": "/alibaba/open-code-review",
-            "description": "暂无描述",
-            "stars_today": "893 stars today",
-            "url": "https://github.com/alibaba/open-code-review"
         }
     ]
 }
