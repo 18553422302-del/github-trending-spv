@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "top_5_trending": [
-        {
-            "repo": "/dream-num/univer",
-            "description": "暂无描述",
-            "stars_today": "988 stars today",
-            "url": "https://github.com/dream-num/univer"
-        },
         {
             "repo": "/ag-ui-protocol/ag-ui",
             "description": "暂无描述",
-            "stars_today": "355 stars today",
+            "stars_today": "791 stars today",
             "url": "https://github.com/ag-ui-protocol/ag-ui"
-        },
-        {
-            "repo": "/google-labs-code/stitch-skills",
-            "description": "暂无描述",
-            "stars_today": "247 stars today",
-            "url": "https://github.com/google-labs-code/stitch-skills"
         },
         {
             "repo": "/backnotprop/plannotator",
             "description": "暂无描述",
-            "stars_today": "866 stars today",
+            "stars_today": "696 stars today",
             "url": "https://github.com/backnotprop/plannotator"
         },
         {
-            "repo": "/ChromeDevTools/chrome-devtools-mcp",
+            "repo": "/dream-num/univer",
             "description": "暂无描述",
-            "stars_today": "717 stars today",
-            "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+            "stars_today": "1,828 stars today",
+            "url": "https://github.com/dream-num/univer"
+        },
+        {
+            "repo": "/tradermonty/claude-trading-skills",
+            "description": "暂无描述",
+            "stars_today": "837 stars today",
+            "url": "https://github.com/tradermonty/claude-trading-skills"
+        },
+        {
+            "repo": "/elementalsouls/Claude-BugHunter",
+            "description": "暂无描述",
+            "stars_today": "1,094 stars today",
+            "url": "https://github.com/elementalsouls/Claude-BugHunter"
         }
     ]
 }
