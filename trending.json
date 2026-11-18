@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "top_5_trending": [
         {
-            "repo": "/ag-ui-protocol/ag-ui",
+            "repo": "/elementalsouls/Claude-BugHunter",
             "description": "暂无描述",
-            "stars_today": "791 stars today",
-            "url": "https://github.com/ag-ui-protocol/ag-ui"
+            "stars_today": "1,005 stars today",
+            "url": "https://github.com/elementalsouls/Claude-BugHunter"
         },
         {
-            "repo": "/backnotprop/plannotator",
+            "repo": "/mvanhorn/last30days-skill",
             "description": "暂无描述",
             "stars_today": "696 stars today",
-            "url": "https://github.com/backnotprop/plannotator"
+            "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+            "repo": "/alibaba/open-code-review",
+            "description": "暂无描述",
+            "stars_today": "763 stars today",
+            "url": "https://github.com/alibaba/open-code-review"
+        },
+        {
+            "repo": "/Tencent/LoopForge",
+            "description": "暂无描述",
+            "stars_today": "591 stars today",
+            "url": "https://github.com/Tencent/LoopForge"
         },
         {
             "repo": "/dream-num/univer",
             "description": "暂无描述",
-            "stars_today": "1,828 stars today",
+            "stars_today": "1,774 stars today",
             "url": "https://github.com/dream-num/univer"
-        },
-        {
-            "repo": "/tradermonty/claude-trading-skills",
-            "description": "暂无描述",
-            "stars_today": "837 stars today",
-            "url": "https://github.com/tradermonty/claude-trading-skills"
-        },
-        {
-            "repo": "/elementalsouls/Claude-BugHunter",
-            "description": "暂无描述",
-            "stars_today": "1,094 stars today",
-            "url": "https://github.com/elementalsouls/Claude-BugHunter"
         }
     ]
 }
