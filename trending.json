@@ -1,35 +1,35 @@
 {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "top_5_trending": [
         {
-            "repo": "/cursor/plugins",
+            "repo": "/elementalsouls/Claude-BugHunter",
             "description": "暂无描述",
-            "stars_today": "314 stars today",
-            "url": "https://github.com/cursor/plugins"
+            "stars_today": "1,349 stars today",
+            "url": "https://github.com/elementalsouls/Claude-BugHunter"
+        },
+        {
+            "repo": "/obra/superpowers",
+            "description": "暂无描述",
+            "stars_today": "2,028 stars today",
+            "url": "https://github.com/obra/superpowers"
         },
         {
             "repo": "/HKUDS/CLI-Anything",
             "description": "暂无描述",
-            "stars_today": "389 stars today",
+            "stars_today": "898 stars today",
             "url": "https://github.com/HKUDS/CLI-Anything"
         },
         {
-            "repo": "/mvanhorn/last30days-skill",
+            "repo": "/jingyaogong/minimind",
             "description": "暂无描述",
-            "stars_today": "1,059 stars today",
-            "url": "https://github.com/mvanhorn/last30days-skill"
+            "stars_today": "238 stars today",
+            "url": "https://github.com/jingyaogong/minimind"
         },
         {
-            "repo": "/getarcaneapp/arcane",
+            "repo": "/cursor/plugins",
             "description": "暂无描述",
-            "stars_today": "547 stars today",
-            "url": "https://github.com/getarcaneapp/arcane"
-        },
-        {
-            "repo": "/NVIDIA/SkillEvaluator",
-            "description": "暂无描述",
-            "stars_today": "312 stars today",
-            "url": "https://github.com/NVIDIA/SkillEvaluator"
+            "stars_today": "384 stars today",
+            "url": "https://github.com/cursor/plugins"
         }
     ]
 }
