@@ -1,34 +1,34 @@
 {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "top_5_trending": [
         {
             "repo": "/elementalsouls/Claude-BugHunter",
             "description": "暂无描述",
-            "stars_today": "1,597 stars today",
+            "stars_today": "1,608 stars today",
             "url": "https://github.com/elementalsouls/Claude-BugHunter"
         },
         {
             "repo": "/obra/superpowers",
             "description": "暂无描述",
-            "stars_today": "854 stars today",
+            "stars_today": "922 stars today",
             "url": "https://github.com/obra/superpowers"
         },
         {
             "repo": "/HKUDS/CLI-Anything",
             "description": "暂无描述",
-            "stars_today": "746 stars today",
+            "stars_today": "666 stars today",
             "url": "https://github.com/HKUDS/CLI-Anything"
         },
         {
             "repo": "/jingyaogong/minimind",
             "description": "暂无描述",
-            "stars_today": "702 stars today",
+            "stars_today": "660 stars today",
             "url": "https://github.com/jingyaogong/minimind"
         },
         {
             "repo": "/cursor/plugins",
             "description": "暂无描述",
-            "stars_today": "270 stars today",
+            "stars_today": "243 stars today",
             "url": "https://github.com/cursor/plugins"
         }
     ]
